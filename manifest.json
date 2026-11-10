@@ -70542,6 +70542,2724 @@
    "sha256": "51cc0a9dbb143b63b105232316b8ecdd6be6e18d55528872cbb97a770f60d9c1"
   },
   {
+   "path": "ui-art/GrandTour/ActiveCardBorder.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 31090,
+   "sha256": "14fc1c4c4334420f734cbd7b105bb4c3aeda9d61a01ea4ce9cbac197ffb1ec40"
+  },
+  {
+   "path": "ui-art/GrandTour/ArrowButton.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2735,
+   "sha256": "64f6c491d228b450a186b4cfbb3514fedefdb466d3a0a27add67170de80bf996"
+  },
+  {
+   "path": "ui-art/GrandTour/BG_S2.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason01",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason01_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1440372,
+   "sha256": "54ac7aebf7605f8bbf0118ae6cff7c745d6911b23e3c20bd93e1708f1197fc75"
+  },
+  {
+   "path": "ui-art/GrandTour/BG_S2__grandtour_grandtourseason03.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason03",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason03_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1445146,
+   "sha256": "4825c5bb4af2f7878f3b84a3e7d98d3940b99a72e719e7ac1fd7e0f1d36d2092"
+  },
+  {
+   "path": "ui-art/GrandTour/Blurredflare.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3905,
+   "sha256": "8eb3a494db3d9af132f390e9beef87374aef83c70f6089b1a5ba26538e212e8c"
+  },
+  {
+   "path": "ui-art/GrandTour/Blurredflare_2.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1543,
+   "sha256": "c7c24a40c662e073cf433502ddaa1fa97890884f1918ccb0f82578ff83119bb1"
+  },
+  {
+   "path": "ui-art/GrandTour/Blurredflare_3.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2276,
+   "sha256": "0cbe2a6af00d42f3ff01243b0ed788549e0387c9e86aa6c8c15f66926f47cf1c"
+  },
+  {
+   "path": "ui-art/GrandTour/ButtonArrow.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 723,
+   "sha256": "7f512d9ef2049acc135a5df4dda95e8628afb9aac93465d0f77d2034d127933d"
+  },
+  {
+   "path": "ui-art/GrandTour/ButtonBlue_GT.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 44296,
+   "sha256": "4b4323978e986f32941fb1cdc26aa1ace7b64cad72e44a220542d1a9bbf7ff2f"
+  },
+  {
+   "path": "ui-art/GrandTour/ButtonGrey_GT.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 24129,
+   "sha256": "d1cb5d644045f66ad9ccb7d63e9f89bc7ace6c4ee72ab1d8d4d92503a55a1d52"
+  },
+  {
+   "path": "ui-art/GrandTour/ButtonYellowSmall_GT.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 10100,
+   "sha256": "aa8dad947bd0c584201c4e7fbec501f0122ca3ccd5e50ccd2fad07810595318a"
+  },
+  {
+   "path": "ui-art/GrandTour/ButtonYellow_GT.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 13412,
+   "sha256": "2914ce769eac7783126431fed2259d3c674d149a69fe073e0de56e5e897d8431"
+  },
+  {
+   "path": "ui-art/GrandTour/CardDummyBorder.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 945,
+   "sha256": "50b162e06a6f81460130f579a00badd0d4487dcc13a805c327d6244893e3e7aa"
+  },
+  {
+   "path": "ui-art/GrandTour/CardInnerGlow.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 21938,
+   "sha256": "faa162b2ee9189e427c394fe5d2db392bd82dcd7c1c59e09c7bfbfc458641cfa"
+  },
+  {
+   "path": "ui-art/GrandTour/CardOuterGlow.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 64528,
+   "sha256": "bb649a917eea09bf9b99aa32811975c82f7459ca153744e330b797861ebf1be2"
+  },
+  {
+   "path": "ui-art/GrandTour/CardOuterGlow_2.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2233,
+   "sha256": "dd8e71efd258b04f750b0211bd3bb6034a39f7847abebabe3b844823d0190131"
+  },
+  {
+   "path": "ui-art/GrandTour/CardOuterGlow_3.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 20009,
+   "sha256": "337613ffd6e7ca3317fda55fdd4dcf40c57fa8b347841dc712aaeff9c2e594e0"
+  },
+  {
+   "path": "ui-art/GrandTour/CardOuterGlow_4.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 45443,
+   "sha256": "fbb4d5acb97c1c16d7d8c32a4b62d95c76a8abdd228a2691ca19ddd7dc713b20"
+  },
+  {
+   "path": "ui-art/GrandTour/CardOuterGlow_Ultra.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 45218,
+   "sha256": "b958a2f76d6af93da267092b48eb58efb429f0a1d4edc7af86c5ffd505a24197"
+  },
+  {
+   "path": "ui-art/GrandTour/CardTapeTexture_Gold.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 12510,
+   "sha256": "d33c71518d15a1c7b0b60cd41fa24c822ac0c4b5da8695ad8265da44c5a82563"
+  },
+  {
+   "path": "ui-art/GrandTour/CardTapeTexture_Normal.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 8856,
+   "sha256": "ebc5b716ebc8d1c7758817ab1da94c7d0e3d3f5ae340c2291282cf15a02bd919"
+  },
+  {
+   "path": "ui-art/GrandTour/CardTapeTexture_UltraRare.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 15230,
+   "sha256": "3b7ec3609bba3ee7296927fa8b8d626fed5ca272bb7cbe7ef36a8b478220e8a6"
+  },
+  {
+   "path": "ui-art/GrandTour/CompletedBanner.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 49176,
+   "sha256": "d1244688c328f9bc1b469a21d4becbce933f3a487497d6cc30f7f39fca1c7d25"
+  },
+  {
+   "path": "ui-art/GrandTour/CoreExp.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 6574,
+   "sha256": "afa4f58e9867dba94ebcc0c9461ce7c6648f46afd4584f72b34a0b0828472483"
+  },
+  {
+   "path": "ui-art/GrandTour/Default-Particle.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 4214,
+   "sha256": "a546818a5f3a73031f8ffb6d9c4a2a797ab0c707f00cfe8788246a1156998242"
+  },
+  {
+   "path": "ui-art/GrandTour/DisabledCardBG.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 120690,
+   "sha256": "1b97acf9d7a0d4494d9fe51925a31c494c805ffad055855124080a780023c0fd"
+  },
+  {
+   "path": "ui-art/GrandTour/DisabledCardBorder.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 35382,
+   "sha256": "bac799216f89ad25965477660bbec61641e13980edac9e1d1e1b56d9fd1f7f7e"
+  },
+  {
+   "path": "ui-art/GrandTour/Effects_StarryLightBurst.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 23154,
+   "sha256": "d7dcf9c5ced868c1665d91405dc9cf1ab6f8e88ce93c5eb132413f62408679aa"
+  },
+  {
+   "path": "ui-art/GrandTour/EpicPack_Down.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 139311,
+   "sha256": "967753c86f6419550d57d6a1c572b1eb7825a789ea4155b0a212ab292a7399a8"
+  },
+  {
+   "path": "ui-art/GrandTour/EpicPack_Up.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 7405,
+   "sha256": "5e04c816b2ffb72399ee4f940b523e10b9887337b8d249997bca4592139ab9da"
+  },
+  {
+   "path": "ui-art/GrandTour/ExclusiveIAPIcon.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 22298,
+   "sha256": "12770bd6d9799acb30522fe388a5b87274e1a5dcbd583bbbe3fc5e1e16e5d05d"
+  },
+  {
+   "path": "ui-art/GrandTour/ExclusiveOfferIcon.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 10302,
+   "sha256": "d0d5e0c6018ab880898fce9a168d81a3af613c5cf96139bd271352a5635e9c1a"
+  },
+  {
+   "path": "ui-art/GrandTour/FinalCard_Epic.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 152140,
+   "sha256": "0246211a1b973c5a4956f52b8282ba265ae544dd2bb492f73d61de431343f276"
+  },
+  {
+   "path": "ui-art/GrandTour/FinalCard_Legendary.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 137111,
+   "sha256": "ff212fe5b0a0c70b2153eb1c688a1bd426718958d5c594fb4969bcaca550cf6e"
+  },
+  {
+   "path": "ui-art/GrandTour/FinalCard_Rare.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 150382,
+   "sha256": "a5c4c3656e554ac7321fa6cf9c2d55a238bbaa9bf5584b75977cb77222ea6c2a"
+  },
+  {
+   "path": "ui-art/GrandTour/FinalCard_UltraRare.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 177310,
+   "sha256": "610b389b61e43d212e7ee6e05a22ac4a0d5ba06711dfda41893d9c83a0417442"
+  },
+  {
+   "path": "ui-art/GrandTour/FinalCard_Uncommon.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 141647,
+   "sha256": "e699acde6503728ce49fc6cba3610ec9df0d40797d5a12a087018848ce4a9343"
+  },
+  {
+   "path": "ui-art/GrandTour/FindPacksIcon.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 5382,
+   "sha256": "0d6ba920495b3a502a3a587400eec0b5477e2905b5f331903274a51c6ba463f6"
+  },
+  {
+   "path": "ui-art/GrandTour/Flare_TornBullet.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 71796,
+   "sha256": "f8e094c389b20bd564d66e4464568842162ef08c14bc09482e50593ed80e5050"
+  },
+  {
+   "path": "ui-art/GrandTour/Flare_TornBullet_2.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 55355,
+   "sha256": "78c5d477f5fbb645b639a3c214cdae324760660915fbc9ff3433a22363934cc2"
+  },
+  {
+   "path": "ui-art/GrandTour/ForegroundBG.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 826983,
+   "sha256": "384c9e0ebb888db7c5c0244832cd962624399d1f1389d9b6b009426ef6d0f2af"
+  },
+  {
+   "path": "ui-art/GrandTour/Foreground_texture.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 377863,
+   "sha256": "fee16ed7bf6c7234c1e976774a1926098bb90c976034b50047ea7bca61e46a36"
+  },
+  {
+   "path": "ui-art/GrandTour/FreePackRibbon.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2945,
+   "sha256": "3773527c7c8fa6cba1c7ae228a80f1e008b2c7eb6b693c1d576b7d7861f37193"
+  },
+  {
+   "path": "ui-art/GrandTour/FreePackShards.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 12086,
+   "sha256": "c9004cc887c0c4711c5c160d6f3765f5bfe5a2b4690dba9f418a9d010ed882d8"
+  },
+  {
+   "path": "ui-art/GrandTour/Fx_Shine.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 8512,
+   "sha256": "f42e11bdda48cb5e1cf5c8f3dcdce731ae0f72ac096838097165e6ccf93a63e2"
+  },
+  {
+   "path": "ui-art/GrandTour/GT_Background_Season01_Japan.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason01",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason01_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2504009,
+   "sha256": "521429aa17c0c2c032d04136b98ac21464e5e565ff9511d6d6ecca6f7709ea3e"
+  },
+  {
+   "path": "ui-art/GrandTour/GT_Background_Season02_California.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason02",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason02_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2316762,
+   "sha256": "afb0e2014fd09a44f9c523c830a72fecf2258ab54fdc92da962ef3d251532a99"
+  },
+  {
+   "path": "ui-art/GrandTour/GT_Background_Season03_Japan.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason03",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason03_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2503961,
+   "sha256": "de55abf18edd19309210b0966c6248a5c84811de6254426cc06111dfa406d5eb"
+  },
+  {
+   "path": "ui-art/GrandTour/GT_Background_Season04_Michigan.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2983513,
+   "sha256": "e62bc2ec26eb97d29bf89aa3348f7c1276345dc61da151eaae23d1a7a51cd3c7"
+  },
+  {
+   "path": "ui-art/GrandTour/GT_InfoPanelBG.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1258801,
+   "sha256": "d0329c0041dcb9d623a52769c6a044ab05134c4871d919634c5e57b1deb33fb8"
+  },
+  {
+   "path": "ui-art/GrandTour/GT_InfoPanelContent_Slide1.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 637827,
+   "sha256": "60acfae2a5f430ceee8ea233c95b70a82d9797eea9aca4ce7fe9a7152dddb19e"
+  },
+  {
+   "path": "ui-art/GrandTour/GT_InfoPanelContent_Slide2.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 418139,
+   "sha256": "4e42a12be953b6d3cf1644fb6421b34681423461d391cebda47898a7e4c08263"
+  },
+  {
+   "path": "ui-art/GrandTour/GT_InfoPanelContent_Slide3.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 852186,
+   "sha256": "13491ce477d179ad0db56a052f8d1db7ffa20c0ffbbd1c62788d45b8535108c6"
+  },
+  {
+   "path": "ui-art/GrandTour/GT_InfoPanelContent_Slide4.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 781237,
+   "sha256": "2399539fcee47895bcd87ee6e751b41fcce122d15ba3c82c084e3a7a4e508256"
+  },
+  {
+   "path": "ui-art/GrandTour/GT_InfoPanel_Header.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3281,
+   "sha256": "238753a60ef62435d37b616b94de7c0ec9ce98131d9d44d719bade673e197655"
+  },
+  {
+   "path": "ui-art/GrandTour/GT_LockIcon.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 31282,
+   "sha256": "1571777bdc5b63d0d3eecb948537f1190106a8f4ffe7cc72320588287462ec74"
+  },
+  {
+   "path": "ui-art/GrandTour/GT_Tick.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 14067,
+   "sha256": "68afc20addd15355258d77b29f10777706e5eb408c7cb388aa60f8cbba5fb8f4"
+  },
+  {
+   "path": "ui-art/GrandTour/GenericEliteToken.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 254750,
+   "sha256": "e3bf6d3668ef7fe196991f48918d6518fae9801e4dff6fe089d39133f6fd1f1a"
+  },
+  {
+   "path": "ui-art/GrandTour/Glow_Epic.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 144517,
+   "sha256": "40166627bd1822237ca6358d573fcf9f3af547ae1b73c6f8d0ef8a6655e10c9a"
+  },
+  {
+   "path": "ui-art/GrandTour/Glow_Legendary.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 215269,
+   "sha256": "0b6abece4c333f4f2e110bdfa7a806a99146cf0f05bc809be7e7dbc6121838e3"
+  },
+  {
+   "path": "ui-art/GrandTour/Glow_Rare.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 187972,
+   "sha256": "8a43b08769524d35607d82ea766d8dc24cf0b4d91298938a7dd433bc3cbd028f"
+  },
+  {
+   "path": "ui-art/GrandTour/Glow_UltraRare.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 113688,
+   "sha256": "7d9d9091f3d02e43785c6ac1ab2930ae56694ca35558129f83d966a8866cbbfe"
+  },
+  {
+   "path": "ui-art/GrandTour/Glow_Uncommon.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 208132,
+   "sha256": "0b3403d3fd21771151d421e6ef6973d3b9e77b69d1b58c36ec765c4ee96797cf"
+  },
+  {
+   "path": "ui-art/GrandTour/Glow_sprite.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 30826,
+   "sha256": "a9567dac2a223b6703bb35ec9f013a5a24a18c5d635170df78283e8442d6af50"
+  },
+  {
+   "path": "ui-art/GrandTour/GoldCardBorder.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 50080,
+   "sha256": "b0fe6503cafc605deacdcaa30743d82fa38d3f14e56d99c99639cec6d88af33f"
+  },
+  {
+   "path": "ui-art/GrandTour/GrandPrizePanelBG.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 296739,
+   "sha256": "009d3e1fd384df0c5bff2edd152ff2ea05eed3042baa6f1a898a407bdba2e70b"
+  },
+  {
+   "path": "ui-art/GrandTour/GrandPrizePanelPin.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 27343,
+   "sha256": "1adeb05f9ac1e38455453e0c7424b3750e3feddf6ba60cbd068a51b2d0892bfd"
+  },
+  {
+   "path": "ui-art/GrandTour/GrandPrizePanel_FindPackIcon.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1325,
+   "sha256": "8cedb7ca8e554f595b85732b664cf639b02aeb3647887decd23bae83c1ec9a8c"
+  },
+  {
+   "path": "ui-art/GrandTour/GrandTourAtlas_UI.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 443116,
+   "sha256": "d25ac882b8cb02041be24ef33e23b3b27524308fc652aa9be47b5845820444f3"
+  },
+  {
+   "path": "ui-art/GrandTour/GrandTourAtlas_UX.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 140270,
+   "sha256": "de1714d9f576baabe081883847cc9fe760fc357c849d6e3230ca92c6ff9837d6"
+  },
+  {
+   "path": "ui-art/GrandTour/GrandTourRewardPack_Epic.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 29477,
+   "sha256": "be882ec6f873c4d18e2ea4ac4259538fccc1de1c44dcbd0691db3e3b07c2f828"
+  },
+  {
+   "path": "ui-art/GrandTour/GrandTourRewardPack_Rare.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 28370,
+   "sha256": "4b90e25349271fb57041c8de02979ed0182aced8135f808b0afc6871b93918cf"
+  },
+  {
+   "path": "ui-art/GrandTour/GrandTourRewardPack_UniversalCardBG_Small.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 36138,
+   "sha256": "e1c332a07f9e2bd3385478eedbc287ad636e42e082b02c58bac45366c2586b1c"
+  },
+  {
+   "path": "ui-art/GrandTour/GrandTourRewardPack_UniversalCardBG_Small__-257011136624670619.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 36208,
+   "sha256": "943f1a2368f455b77d359af0fdc04b7c4c7e0c786330448b9147c74b0523a5b2"
+  },
+  {
+   "path": "ui-art/GrandTour/GrandTourSubtitle_Season01.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason01",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason01_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 33985,
+   "sha256": "53f24eb529da98abec7a5c479ce153d6bf8da36982dad731a626fcf5d720e7fe"
+  },
+  {
+   "path": "ui-art/GrandTour/GrandTourSubtitle_Season02.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason02",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason02_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 38426,
+   "sha256": "fca49f32f1f2c06e87ece558822b5f4d708c0f464c8388a1469c700d67e3755d"
+  },
+  {
+   "path": "ui-art/GrandTour/GrandTourSubtitle_Season03.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason03",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason03_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 33925,
+   "sha256": "bf8e56bb4c141afe3effe92b59c172c7d87e059acf5e85c1bc160d2a4d255120"
+  },
+  {
+   "path": "ui-art/GrandTour/GrandTourSubtitle_Season04.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 53886,
+   "sha256": "9d9fea4689f51f911ecf8c1121e8d5e0f9ed727d6c84c57037435a0c2a8517bb"
+  },
+  {
+   "path": "ui-art/GrandTour/HUDBacking.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 936186,
+   "sha256": "f4961dd12468411067254cb169e2407090df78107419a5a69f3550a9a87a92d4"
+  },
+  {
+   "path": "ui-art/GrandTour/HUDBadge_Lock.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 6598,
+   "sha256": "e5eab92f554bbb18ebe7c67193c6b02b534b3926931de674a23d731e1ef9a7a0"
+  },
+  {
+   "path": "ui-art/GrandTour/HUDBadge_New.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 10375,
+   "sha256": "125f45c55b2cf97b3f82e42e7b47e8c0dda2a19c37d2056ecb0ca33d1d45bf19"
+  },
+  {
+   "path": "ui-art/GrandTour/HUDBadge_Notif.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 8828,
+   "sha256": "a8f5357c97790bdee44f09e5418f92255445707e8acbff401c42bc718b8d4675"
+  },
+  {
+   "path": "ui-art/GrandTour/HUDBadge_Tick.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 13406,
+   "sha256": "abf0fbaa54a67f7cb09d54be42f16203eb66101a0581bc0a82206d7d8ee76d16"
+  },
+  {
+   "path": "ui-art/GrandTour/Hotspot_VFX_Glow.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 13847,
+   "sha256": "6d08af35eecf8234d16ded9ece6aa35669fffb0384fa352234cf37faaad1be81"
+  },
+  {
+   "path": "ui-art/GrandTour/IndividualPackBG_Epic.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 290228,
+   "sha256": "4f15b7e22714fbffa88108643ee51135dd5455f3c487c8a114452443969ae019"
+  },
+  {
+   "path": "ui-art/GrandTour/IndividualPackBG_Legendary.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 377051,
+   "sha256": "e9d5ca131174c55d104e45a715822931bf380008deb4f78bf7d92f3d6b054484"
+  },
+  {
+   "path": "ui-art/GrandTour/IndividualPackBG_Rare.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 402181,
+   "sha256": "09f9ed4b8abe75ec92adc4e3ce5fb2109f1d9f19edafc4f2ebbc71f78b3993cf"
+  },
+  {
+   "path": "ui-art/GrandTour/IndividualPackBG_UltraRare.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 278350,
+   "sha256": "5b84f943b39ef51e04b37745bafb04849913a670d63f263f02fcca8db8247de2"
+  },
+  {
+   "path": "ui-art/GrandTour/IndividualPackBG_Uncommon.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 288708,
+   "sha256": "8fa1e6e99b5b6cfcce3cd25d9b0aaa0fce8e59f7bc67b253eb686bcad31febae"
+  },
+  {
+   "path": "ui-art/GrandTour/InfoIcon.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1304,
+   "sha256": "a1e16d2fe1bfd384afc266d176854a3778c4cca0aae007bf2945709c56d2d398"
+  },
+  {
+   "path": "ui-art/GrandTour/JokerCardCounter.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3863,
+   "sha256": "9d2c8b4d8a524cb018077a582f83d82686811a4511bdaa7c795d562e3595096f"
+  },
+  {
+   "path": "ui-art/GrandTour/LegendaryPack_Down.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 125408,
+   "sha256": "0d937c3070a7b769970967b40e905b4f7502400e922af3f6da3724a082eb4ef3"
+  },
+  {
+   "path": "ui-art/GrandTour/LegendaryPack_Up.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 6017,
+   "sha256": "984efa909b5f4ff77b61085c06afd405f910213541eb00b9c49ecf7887fc0de5"
+  },
+  {
+   "path": "ui-art/GrandTour/LightRaysParticle.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 27259,
+   "sha256": "b044a6cbf628e8db97a7795fc1c31189b3a3eb69ad17bcb2f6fecb5d897edee1"
+  },
+  {
+   "path": "ui-art/GrandTour/MOTD_Arrow.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 19700,
+   "sha256": "693ce072a0390939e4d0ffc75903122bfa4c94795c576e7d45fdc92d31902dbb"
+  },
+  {
+   "path": "ui-art/GrandTour/MOTD_Locked.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1393303,
+   "sha256": "540970b3f675b1455f83ff3aace1ff7eb3dbee0ed6c293a47c5c64bc4f154e6b"
+  },
+  {
+   "path": "ui-art/GrandTour/MOTD_SeasonOutro.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1487574,
+   "sha256": "4ad8a59ab694f8c8b4425cf70495e90d7539c2e5e399a5e16f8694099350eed8"
+  },
+  {
+   "path": "ui-art/GrandTour/MOTD_Unlocked.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1965258,
+   "sha256": "567850311d0c7d9030573e11ee02ddf037733bba3effef62e513bc8d7e6aaff3"
+  },
+  {
+   "path": "ui-art/GrandTour/MediumBackground.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 114382,
+   "sha256": "a96ba1d22cd0454e7fb2e0a8c63f5407f4179018fafdecc62e7f6d19df2c37ad"
+  },
+  {
+   "path": "ui-art/GrandTour/PackGlow_Generic.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 434009,
+   "sha256": "3aee51d03430b98de8be3ce10ffccf7dbd64e39fb2b7c7efb1ea6acaa4672f95"
+  },
+  {
+   "path": "ui-art/GrandTour/PackGlow_Outer.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 71824,
+   "sha256": "af6667e3b24ce13e7ee97622dad118028844cdd79920fa8ad88a1eef502d6771"
+  },
+  {
+   "path": "ui-art/GrandTour/PackGlow_UltraRare.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 555845,
+   "sha256": "cfe7146f0be621e3a0f76e254ea61d78955cb6c2f707b8553843804bc201ba4a"
+  },
+  {
+   "path": "ui-art/GrandTour/PackInnerGlow_Generic.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 54966,
+   "sha256": "716a6b434726f2073b652c1b7ec91963acc3a7ae985a3a4ff0c15a66eead173d"
+  },
+  {
+   "path": "ui-art/GrandTour/PackOffersIcon.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 14913,
+   "sha256": "2a3918a05c086d3056114d36717bc4c5a46ba0833f2ced4e92787a93fe2662ab"
+  },
+  {
+   "path": "ui-art/GrandTour/PackOffers_Icon.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 5252,
+   "sha256": "d862bf36962072044dd1b9672e994afc9564e746a0d60baac879d5245c1c3a9a"
+  },
+  {
+   "path": "ui-art/GrandTour/PopUpBG.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 918283,
+   "sha256": "f6fd2008aee22631468a25963a63e17208672aa55417c1275a5bdbab745a2f4a"
+  },
+  {
+   "path": "ui-art/GrandTour/PopUpBorder.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 19143,
+   "sha256": "d12610f2cfc831237273e033be194180bf9d38825696ddbc1d0fc8b656312612"
+  },
+  {
+   "path": "ui-art/GrandTour/PopUpHeader.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 258177,
+   "sha256": "2d3acce3e0744bdd78035da1b3cc3784654426bd33c2618f070dd80f25c1867b"
+  },
+  {
+   "path": "ui-art/GrandTour/PopUpHeaderBG.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 150438,
+   "sha256": "a31cb2322bad65eccb8c09376b303476d6d7292a5a558a1b6d53caa2d8555230"
+  },
+  {
+   "path": "ui-art/GrandTour/PopUpHeaderLabelBG.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 78936,
+   "sha256": "83f9f91648c216e606a2ce9f8b1b9e2a7b69b6cbe7266c15035fa52d4636cfe5"
+  },
+  {
+   "path": "ui-art/GrandTour/PosterBehindTexture.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 20143,
+   "sha256": "00dec45ccf50d53e89760c54367193aa2bf4baf04819035de1e405b61b254ffb"
+  },
+  {
+   "path": "ui-art/GrandTour/PosterInnerGLow.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 42435,
+   "sha256": "35cabc995d16c166806756bea7e26b962bf47e9ed06446dcfded31048280ac09"
+  },
+  {
+   "path": "ui-art/GrandTour/PosterOuterGLow.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 7486,
+   "sha256": "7d5f1c8405f3ab208abc4a586e263ee0e1d9b3146e66b3116702c79b9e33c32d"
+  },
+  {
+   "path": "ui-art/GrandTour/PosterScreenCompletedHeader.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2253,
+   "sha256": "e1fe766696807797118dc637517389192dfbc3998cc259ca3d38c0757e04ae54"
+  },
+  {
+   "path": "ui-art/GrandTour/PosterScreenHeader.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 163293,
+   "sha256": "fe37cf0c0c39fcf408795192420bba5471f689c2dc3dc453d9ecd2dc5c05de38"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season01_Akihabara_Neon_Set_09.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason01",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason01_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2916291,
+   "sha256": "0dcd50446b6fa40febe10bc9e81d886e41aae69c165c44cd62b56cc1554d343d"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season01_Hokkaido_Drift_Set_05.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason01",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason01_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2894396,
+   "sha256": "ec1fa940a8c3734c27cb1b77984852d76f79d79beb3dfa62de9f6ba893154a18"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season01_Kyoto_Traditions_Set_03.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason01",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason01_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2279867,
+   "sha256": "d3bc6a5c7beb811b2dae978fc0d6f85d16093016b1e8263e442ec8dce003ab62"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season01_Mount_Fuji_Run_Set_02.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason01",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason01_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2684968,
+   "sha256": "a4f78cc1624bb7e1f00db7d5b924af377e643b8a3ac40203eec8ff22f5dbb573"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season01_Osaka_Energy_Set_04.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason01",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason01_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2989934,
+   "sha256": "832b29a3fa2895fb311609f9bbdc0aa24553f8481a7f24a34c5ec302e7f4c896"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season01_Osaka_Midnight_Riot_Set_11.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason01",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason01_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2803949,
+   "sha256": "ea6ab61f0842762bcdcc8740768b617893510494dc9b29a410560f5d6e0692b0"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season01_Samurai_Spirit_Set_08.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason01",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason01_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2504843,
+   "sha256": "4a59e86d0a48d531d177089739f01d88cae81476bfe6b144a9880fa2c5f8bc4a"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season01_Shinkansen_Speed_Set_06.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason01",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason01_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2907030,
+   "sha256": "68bbda734311940ab482a88bcac860d9c4160a2ed0fff972fc6093efe33d9a65"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season01_Shinkoku_Skyline_Set_12.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason01",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason01_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2411205,
+   "sha256": "206a94a8fc868137ca6bf8eeaacb2e1938d24b0c75296200ee2a47161f839fce"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season01_Suzuka_Showdown_Set_10.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason01",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason01_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2857627,
+   "sha256": "d6dfdf3b175764c86b0b2829dc792c2af690368047c4d978caf998b87f7cdbeb"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season01_Tokyo_Bay_Night_Set_07.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason01",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason01_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2965912,
+   "sha256": "86bd0afb65cda502fb505c972fe04de6e587c5e9ee007ddf1746f9df1af4b3fc"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season01_Tokyo_Nights_01_Set_01.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason01",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason01_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2456335,
+   "sha256": "b103a70b139cf70cbb81f854d6870c31c0eb199859ac374c71977484e535118a"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season02_Set_01.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason02",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason02_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2450615,
+   "sha256": "ba96118cfbc1402003a94c3931ed547a88ff2f9c775233f71fe462e21241a97f"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season02_Set_02.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason02",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason02_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2478890,
+   "sha256": "88aac524f45e4ae7fe7c543030afb9b3b83ed612f2e22837a988879ce703d2be"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season02_Set_03.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason02",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason02_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3163547,
+   "sha256": "3c64d87ed4385f784c20147728c875583bbb6111d2c992326a46e9bd7d1f5fdc"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season02_Set_04.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason02",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason02_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3129805,
+   "sha256": "7afebfb2f0bb393d70672e9e54f8aca9cb446e9c88b563dae801ec077be7239b"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season02_Set_05.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason02",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason02_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3120182,
+   "sha256": "0d221c58bcd3553994e77defc4c2021ac6785eb9573503f61dd975c8aac887f9"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season02_Set_06.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason02",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason02_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3147445,
+   "sha256": "de17df4c2bb0c029058f8dc284f1e7b1087d2826b95be6457a8fad5c3bfbc8af"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season02_Set_07.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason02",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason02_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2631260,
+   "sha256": "61f445c79d82a3d2fd42ce06c059ec7cb69931489764c0ced8262b0d08d6623c"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season02_Set_08.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason02",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason02_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2761429,
+   "sha256": "1e6048a6c81738ff473c5c0ecd2f502804211919bc1d2c3d5c4544f7e6e4592c"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season02_Set_09.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason02",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason02_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2821339,
+   "sha256": "34a966a5e846bfa29168c48674543fb8a96e0a2f15ee134ecc95426324fea434"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season02_Set_10.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason02",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason02_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2860135,
+   "sha256": "445844a053d36085e142daef6f9ed539deabd619c6fc081c10d6aa8ec686c6ac"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season02_Set_11.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason02",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason02_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2469308,
+   "sha256": "45fdcbc44355bd38bc60130e0421fce99dbe75389094b14153e23d2f9287389c"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season02_Set_12.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason02",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason02_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3511998,
+   "sha256": "508351b5d3c40a48336f49f0532d2921e285956af97d8d92dc06827a9795c478"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season04_Set_01.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2278401,
+   "sha256": "f124b04bf0d48d6c3486cc1ac96b0fa93fca512f04d74f92ad7ce0f26e537d9f"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season04_Set_02.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2956015,
+   "sha256": "bafb756e470aac77c9f5b01dc2e20142651adfac8aa2d79fdde2719558731f52"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season04_Set_03.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2351374,
+   "sha256": "65f1e28ad6523960d269c21ffcfa0f8911a7ca9657a1af5f7b6505fd85996315"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season04_Set_04.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3146502,
+   "sha256": "4f7f7d2e24d73c23352f70d09a13fc75161c5901ce58b9096613a587b0dad076"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season04_Set_05.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3621029,
+   "sha256": "3c0cba32c7b00c610a68ccef893c1c14d1f1394dc951ec31a60608ce565f4eed"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season04_Set_06.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2529278,
+   "sha256": "b9930c0c17c9ad5893c8c16dfd2e207d4585fcdffbd415ffa112e8f213185adb"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season04_Set_07.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3415735,
+   "sha256": "0e082ec7a634b5a832773a6a6e0bdc8cd5e136be87e2e8241fc8c7d8dbf2b9c2"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season04_Set_08.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2733687,
+   "sha256": "92676b82a664ff722c168450c54f83da7e96ce00b0a87e9e1bdd1682e1e3cfc5"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season04_Set_09.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 4268328,
+   "sha256": "230602e6bf77277d543c52734cc9cf855b13aae181bdc3359203bc9d0af74953"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season04_Set_10.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3701116,
+   "sha256": "302c205f5c75fde4bcf4613d1d269170bce41a055317ff84e485d22ed53d2c3f"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season04_Set_11.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3818770,
+   "sha256": "f3cbfd451da35b77e6a5337c27064a0f94706e61d894bad884580a13db6c2149"
+  },
+  {
+   "path": "ui-art/GrandTour/Posters_Season04_Set_12.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3659432,
+   "sha256": "bf2406bff78dea6403a094dbdddd9e2aca8110d00fb8ea8d10e9be7a71f19d7b"
+  },
+  {
+   "path": "ui-art/GrandTour/ProgressBarBG_HUD.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 661,
+   "sha256": "50a592eec7f749c8f64962b80ae157ac3c2763657387c12958f53e39b55aaf06"
+  },
+  {
+   "path": "ui-art/GrandTour/ProgressBar_HUD.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 361,
+   "sha256": "c6dcc79d965359d53f36b3cd4728719f9fff430acbd0e367033a58a3a861c1eb"
+  },
+  {
+   "path": "ui-art/GrandTour/PromoLabelBg.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 6503,
+   "sha256": "381b5a54be2fcc14bed0c85d40c09c40285b9f2c094d3d94eba690cf9c26db62"
+  },
+  {
+   "path": "ui-art/GrandTour/RarePack_Down.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 133183,
+   "sha256": "f73ec57494475d34962242af11fd6b1b573e70d14c6950c26a7c7a5744204a48"
+  },
+  {
+   "path": "ui-art/GrandTour/RarePack_Up.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 7068,
+   "sha256": "961b99666bbc4a5648e1743e22bf493ec1232d36a3b00f9520de055f3bda9d56"
+  },
+  {
+   "path": "ui-art/GrandTour/RewardGlow_sprite.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 8899,
+   "sha256": "414382d61ea3206840a0dfa7a9751756a3e57d839a3f2bcc41d6fc833cd8e048"
+  },
+  {
+   "path": "ui-art/GrandTour/RewardIcon_Glow.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 88741,
+   "sha256": "928296550af5ef0d5c695b9c5f313ab8d6ba494679ed1f5b9264ca1944fb6fb8"
+  },
+  {
+   "path": "ui-art/GrandTour/RewardIcon_Glow_Common.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 88502,
+   "sha256": "5fb6adef785712555d5cd656583133fdf537b30beefe60d5ed9de56b4c706be5"
+  },
+  {
+   "path": "ui-art/GrandTour/RewardIcon_Rays.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 153133,
+   "sha256": "5d31c0c36c15d4eb2916ab08180337c320530dd6dc2db3cecf6273436745e6b3"
+  },
+  {
+   "path": "ui-art/GrandTour/SeasonIntroArrow.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 42561,
+   "sha256": "6cc4d5cced5a9330d7cabcb385efe4e95ee35d8be1830b625d9dd83a31e0b349"
+  },
+  {
+   "path": "ui-art/GrandTour/SeasonIntro_Line_Asset.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 25780,
+   "sha256": "a219a9153e81b66b66a8f144dfeaa6b34414c0b23c42edb38343d5b96859ac80"
+  },
+  {
+   "path": "ui-art/GrandTour/SeasonIntro_Symbol_1.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 15451,
+   "sha256": "57c9b6641dd1cd010ffba68dcc0f361d6e97b29aa3a05ae395b5537a393ffd78"
+  },
+  {
+   "path": "ui-art/GrandTour/SeasonIntro_Symbol_2.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 31937,
+   "sha256": "90c69d1001f766d3e7d15dd345d3150f15e1dbe9c1583af4dedaa067a77dee41"
+  },
+  {
+   "path": "ui-art/GrandTour/SeasonIntro_Symbol_3.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 10093,
+   "sha256": "7e6655e7af34782d4b8a8cf8cce54f7bb777c84cfdd6473cb555bab6193b5b5d"
+  },
+  {
+   "path": "ui-art/GrandTour/SeasonIntro_Symbol_4.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 5504,
+   "sha256": "745ad0a4972250880ab3d0ff5b93fa0a6093fe5f4c6bf7fd0074386808c4f217"
+  },
+  {
+   "path": "ui-art/GrandTour/SeasonIntro_Symbol_5.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 10194,
+   "sha256": "2d4840fed117525c4fb21799df865b14ab89e8f34cdac5f921efb6e78011cffa"
+  },
+  {
+   "path": "ui-art/GrandTour/SeasonIntro_Symbol_6.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 22558,
+   "sha256": "2fa7ff79138b21d28b453e147b4e5d5df0330c4a4c1e48355a7e27c736315c19"
+  },
+  {
+   "path": "ui-art/GrandTour/SeasonIntro_Symbol_7.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 24226,
+   "sha256": "6f3f8bcf761fab8340c1f44d2d6e10aa040c62a4d72318e591de25c8e477f5f4"
+  },
+  {
+   "path": "ui-art/GrandTour/SeasonIntro_Symbol_8.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 16646,
+   "sha256": "12ec2eeacdab0b60f4b0ad4347fdb9251b55510a58fbc8baeed96b2536637de7"
+  },
+  {
+   "path": "ui-art/GrandTour/SetScreenBorder.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 999,
+   "sha256": "beb51a5361cfccf3a31de544ec01ab3819f99cf9eb858a387ed1d2bb01052433"
+  },
+  {
+   "path": "ui-art/GrandTour/SetScreenShadow.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 36215,
+   "sha256": "7e870dce49e39981817f760a3fe83f2c532262b202bdacc6be7cc2451ffb2d11"
+  },
+  {
+   "path": "ui-art/GrandTour/SetScreenTape.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 5832,
+   "sha256": "4c81629973dbb3f640debd805a0bf1cc10e0f158675c5cba1f8c99debc38cddd"
+  },
+  {
+   "path": "ui-art/GrandTour/Shards_Golden.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 14761,
+   "sha256": "93711bd02c432dff9280973108abd7c215123b56bb6a69251cfbf9c24bf901df"
+  },
+  {
+   "path": "ui-art/GrandTour/Shards_UltraRare.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 14967,
+   "sha256": "db2249e31c976b1952133b308fffe9bc19ce94877863c7addd30a6e165598309"
+  },
+  {
+   "path": "ui-art/GrandTour/ShopAtlas.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1319244,
+   "sha256": "027dca88bc11a2d2789660d1fc8b4faa04dca0eec0ddca27e260c729b8ed7812"
+  },
+  {
+   "path": "ui-art/GrandTour/SubTitleTexture.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 9070,
+   "sha256": "b9ffa2cfd1cb272aa882dbaeef8f52a702adb81a4340a90cce9882d634929790"
+  },
+  {
+   "path": "ui-art/GrandTour/T_Rectangle_VFX_Glow_GT.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3158,
+   "sha256": "da42060c074764964616061b78849a20cf5a9546723ebbf6595b4ab0212f8bca"
+  },
+  {
+   "path": "ui-art/GrandTour/T_VFX_Glow_GT.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 19076,
+   "sha256": "a5525af76d2ba899f0c86779b308e98d4926884bf8eb5cbe87417bc7ad4a652a"
+  },
+  {
+   "path": "ui-art/GrandTour/TheCircuitLogo.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 53583,
+   "sha256": "8df830e2bd868b73432b3aee637609697f782e264e726e77ae90b912ce8aa60e"
+  },
+  {
+   "path": "ui-art/GrandTour/TimerIcon.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 17128,
+   "sha256": "fb9bd4c7bf9cb6214a0f166fb9cac5156c04c92ccf438981a1e03838b684bb83"
+  },
+  {
+   "path": "ui-art/GrandTour/TitleTexture.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 58804,
+   "sha256": "4ca1aa9653bb24ab14c962bb6a4afae133892a39d44518c53b88b498a32c9ff3"
+  },
+  {
+   "path": "ui-art/GrandTour/UltraRareCardBorder.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 52119,
+   "sha256": "f47ca59025381b7c15db19ae2cc7ad77d56c5392762c19534a7c0a2c4b2ca5b2"
+  },
+  {
+   "path": "ui-art/GrandTour/UltraRarePack_Down.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 160761,
+   "sha256": "f8c0eda7c67d226ba4b0e65b0142eaa8355f7b78195cf7c458a22f23d095f5e5"
+  },
+  {
+   "path": "ui-art/GrandTour/UltraRarePack_Up.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 10070,
+   "sha256": "5bf8d977a1f9110c3cb72b432ab404c948f79ac9f1b8fa27cda88de594b5a88b"
+  },
+  {
+   "path": "ui-art/GrandTour/UncommonPack_Down.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 128412,
+   "sha256": "158e9a6ca8578084c0a0d297f8e0772a325a5439c10609182a741597010ceb80"
+  },
+  {
+   "path": "ui-art/GrandTour/UncommonPack_Up.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 6695,
+   "sha256": "d857b047ce75757e919fcf0ab5b09e7581440cb566c4f0fb83cdd40a70b09d8f"
+  },
+  {
+   "path": "ui-art/GrandTour/UnivCardGlow.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 522305,
+   "sha256": "7a3a64059f6d0739282668961b5210b7812832148ce51bd8be88070254ab2458"
+  },
+  {
+   "path": "ui-art/GrandTour/UniversalCardBG.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 159090,
+   "sha256": "d045dc29b2f52b5ba4decbc2890baa3b559cbbcf317d3a529b38c141a4fa2d4e"
+  },
+  {
+   "path": "ui-art/GrandTour/UniversalCard_ShaderFrame.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 41087,
+   "sha256": "a5262b2f00322936dd08a6cd498135bde01c96d66961d0489b36cf2bb22f12a7"
+  },
+  {
+   "path": "ui-art/GrandTour/UniversalCard_ShaderPlane.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 203691,
+   "sha256": "a12cef385e33b52282751a944e2036937c8d6a7bf78b33e5e1c94d110dbd278b"
+  },
+  {
+   "path": "ui-art/GrandTour/UniversalEliteTokens_Popup.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 110135,
+   "sha256": "4e9796f2d5c59be867abaa26b3fa86a822879e61e37285a864323092f98a6ff6"
+  },
+  {
+   "path": "ui-art/GrandTour/WifiNotConnected_GT.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3081,
+   "sha256": "a991905220dfbc8302f1b18b13b23ce50236947bf4e096943f7bd8d3b3ce0668"
+  },
+  {
+   "path": "ui-art/GrandTour/WildCard_TopBanner_1.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 76079,
+   "sha256": "5324185fc4afa2787d7aff0a4d38a77a5f89c7028647429cd2150ad16d973a35"
+  },
+  {
+   "path": "ui-art/GrandTour/WildCard_TopBanner_2.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 75342,
+   "sha256": "5d33c47f7e4dc3004b2f87348112e94672d7791585f31bfa9f6d1873338e80d4"
+  },
+  {
+   "path": "ui-art/GrandTour/complete_tick.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 8091,
+   "sha256": "f5e70f4f28c9a239688e68be49ec4a1f84ee43a9f2d6c7132723b667c125a279"
+  },
+  {
+   "path": "ui-art/GrandTour/corona.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 20247,
+   "sha256": "3cd2c7d8d5f39c12f1061896b6a42af5a99b66a532cf57cc96b1f8d96eae022f"
+  },
+  {
+   "path": "ui-art/GrandTour/countBacking.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1172,
+   "sha256": "c34a8dd896ea173f17655079ff2cc0f3df645f118a67161bd92efdc27836a43f"
+  },
+  {
+   "path": "ui-art/GrandTour/posters_backing.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1635957,
+   "sha256": "ec58355a4d559b2aa489cd3bd08ad586c4f36aeeaa9238658ba5f18dfbcc9b6f"
+  },
+  {
+   "path": "ui-art/GrandTour/prompt_321_background.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 22401,
+   "sha256": "f9fc426c88e338f3a5f54c75979e1704658baa346864b7667b88df7ec1967b28"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/ActiveCardBorder.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 31238,
+   "sha256": "c709a7eed20e33ffdc18ce003d0865b2e18cab781c247a6aede3fac34c148c65"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/ArrowButton.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2786,
+   "sha256": "7bad98beee416fa4aef8f18263f55f1cb8d5ab32f8bbbe3f55af6156fdd0a7d7"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/ButtonBlue_GT.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 44441,
+   "sha256": "c2c20f4c4a5f6ab9f96ef42a20961f3d562ff3997ed5b1e3ac8c01a7afb32acb"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/ButtonYellow_GT.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 13515,
+   "sha256": "54cf3e4800ec01a3eedc426f42c0c08a779879227475236b3b8df6c79d2c1b1d"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/CardOuterGlow.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 64182,
+   "sha256": "caf8a0dfb168ed199e77901710c36399f9da3a76aa1c38edb5e99936cfce80d1"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/CardOuterGlow_4.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 45656,
+   "sha256": "60fed8d103a46cd4b0dbd2ac7f604676e57710166fd3e3616301fb192026bb56"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/CardOuterGlow_Ultra.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 40550,
+   "sha256": "34d88f79998453eece7148e1be277a4c733ad840afb2ad532b05474a8da861cb"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/CardTapeTexture_Gold.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 12499,
+   "sha256": "2a766b988d45051747ecc3aab01cc47a6dab1fbb2484b3c051e80c9506c1b4b9"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/CardTapeTexture_Normal.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 8610,
+   "sha256": "8b2cadcbf3f8d307eebc4af9bd9521a9c8d088f9bb5bebee94c237141a9d2f86"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/CardTapeTexture_UltraRare.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 15127,
+   "sha256": "7f5cc72955e851b4123faeb3feeb9c4486e247a6a73861db4a51220ef68fb7dc"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/CompletedBanner.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 44849,
+   "sha256": "ea427de02a7dcf506da0f7f28b1b9a051a172e749e7bb198e59ebae64aef55e1"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/DisabledCardBG.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 120761,
+   "sha256": "7479ce86222c3c364c326e0e55e16336016d46fd06d0a703b704b5c285cfffb5"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/DisabledCardBorder.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 32990,
+   "sha256": "7845438657e2160a8e97a29ad995f6267e8e0849ff87c7138c911387fc593865"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/Effects_StarryLightBurst.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 23344,
+   "sha256": "01deaa52e0a69927d7087fdfd17138447ab4bb691218452ab4a786720795d70a"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/EpicPack_Down.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 138359,
+   "sha256": "b91fd28c079df1c405e7ae64b8e4473ffc58e0d97257f11a0171301f2dabea11"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/EpicPack_Up.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 7418,
+   "sha256": "06bbc4bc14d0321b807b2261ee632246b14bd9ef860a77faced259820dee10a4"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/FinalCard_Epic.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 151065,
+   "sha256": "bea1fb8caf7a8b34be761445304527661cacbf0672370a271c713f994b7ae08f"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/FinalCard_Legendary.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 135796,
+   "sha256": "9eee0c2a08ba90a9575f578d07668fcf1d649d19582834f494319c195325230f"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/FinalCard_Rare.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 148432,
+   "sha256": "2a5de462344e85e245738ab9f4f2644728a496ab44825772c29ed244cbd8c230"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/FinalCard_UltraRare.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 175785,
+   "sha256": "4ed4075f47c020df45d3553331fb02d0024760ee9a54145e8d0642f7666cde12"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/FinalCard_Uncommon.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 139574,
+   "sha256": "2aeb18c6ae1a737d78ddf22cab3fbfc1c45f1ef054df0e4f44a51fd3a21d8062"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/FindPacksIcon.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 5396,
+   "sha256": "1de321e993ff2df863986720dd74c2445f2186ee8a50e7f01d0a8866fd885e12"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/ForegroundBG.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 795816,
+   "sha256": "0d385fbf70332635d093e9e21ce963701885e53872e0e7da5ad94333ed0f6c97"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/Foreground_texture.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 366242,
+   "sha256": "67a5fcf040f03756ed20a98e466a20acb91cb8ecd583e4d47a9e4d5a781f7ec8"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/FreePackShards.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 12235,
+   "sha256": "6d5ae9e47238eddfc2d45b4b3fd1299982b5f757059ea0e247d33b82cfb8c623"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/GT_InfoPanelContent_Slide1.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 595964,
+   "sha256": "41d7a31f6b6293df0cb12a421af3c7d64dea2255dfce25d8aa845484790da1c1"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/GT_InfoPanelContent_Slide2.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 392291,
+   "sha256": "b208a1a2cf4f82ce10fa3fe9d4d2f7cb5477388123e2cb0dcbd26dde0f7bf8e6"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/GT_InfoPanelContent_Slide3.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 821628,
+   "sha256": "5cbfaad7e9f08e68e15bbd3b9ddfbc2abcdc82e13d9b904a8344281cbc3f7ecd"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/GT_InfoPanelContent_Slide4.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 699419,
+   "sha256": "027b92f46d34db031387e0f59a82aa7f8b13dc1a7ee80cccce17c0cbcd9effb0"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/GT_LockIcon.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 31542,
+   "sha256": "2a4a2eec3187d5e19e2602941a3839ef9cd049287cbb1bc9e5c8dadfec9d7ec8"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/GT_Tick.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 13044,
+   "sha256": "622335717622aaf5648fe74e97faf9e05eaa4d202e1f26b2ba130ccf4f7cc4d4"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/Glow_Epic.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 142554,
+   "sha256": "8ceae72e83239133e008da69c14e54b84917d035fd40f9bf1def2c1d1010bb1c"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/Glow_Legendary.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 211664,
+   "sha256": "e79b7a94931f632800ea9d37453d134edd6612d4f6a0b58bf9276ca356431a68"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/Glow_Rare.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 184710,
+   "sha256": "4ac5aa1a85247a79fbf03a6ea5da7af3c4989ceaa8844c1bf8d423baa8b3bbf8"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/Glow_Uncommon.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 204915,
+   "sha256": "a545c0bfde94b9fb517c28677bad796ef184716a1157a0c76787badf911fc544"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/GrandPrizePanelBG.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 296849,
+   "sha256": "35af0f878a6a616e59aa2838cd6cfd66b257535c1dcedf32534f5738fb794305"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/GrandPrizePanelPin.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 27515,
+   "sha256": "b29996a4652c7df136471204b9d88dab2c25d842f9b9a325971e31c2bb8841db"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/GrandPrizePanel_FindPackIcon.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1439,
+   "sha256": "732234416fe6f3b625125ef943b00aea1a9177320bb8b48b1307f84d1d3050d3"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/GrandTourAtlas_UI.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 424685,
+   "sha256": "483f64c648be8318616d9c220b5220eb0a2003eba7689a93eae1d4f12e95efe9"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/GrandTourRewardPack_UniversalCardBG_Small.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 35351,
+   "sha256": "43c8ca00d03a917485f12f791d065601dd532bb99c95329d250689d30f485e38"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/GrandTourSubtitle_Season01.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason01",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason01_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 33720,
+   "sha256": "0cb7c928b70454f51eac5456bd0a0f13ef4c5f1b4234b6432405e791b409e66f"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/GrandTourSubtitle_Season02.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason02",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason02_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 38076,
+   "sha256": "3294e43592265c29f522aef242028a5005c04dd3b10e6fddb3291ac6532b390c"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/GrandTourSubtitle_Season03.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason03",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason03_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 33737,
+   "sha256": "f53ba68d32af7e842f5f56cc9c8c30e0e28dcfaad1b9269561fdac77bf2beeb2"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/GrandTourSubtitle_Season04.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 53990,
+   "sha256": "d3b63603185b9c226ed208faf8d8e38eab168307145a4eb06e3239e2995a0577"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/HUDBacking.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 933809,
+   "sha256": "b192c3dc69fe1b7d4bf168be3b214beb2350dce95027bd7695f6906d35997d66"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/HUDBadge_Lock.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 6759,
+   "sha256": "09a4c6147062cf00aaa0df4eb26cadeeec1b3570c7cbd7181f9d0c50a793bb41"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/HUDBadge_New.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 10482,
+   "sha256": "26e9c00678e9be6da203f7460bc2425f1253a033533103094165d142e243b75b"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/HUDBadge_Notif.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 8949,
+   "sha256": "b9f59b442e314b8a66defd71d952498d80bf380a7504f144ce9a5f8cb7fdf3df"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/HUDBadge_Tick.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 13408,
+   "sha256": "3d70ab71f818afe369dbcc3557a48cd09b523e9b57df8abe41a096837fa278c1"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/InfoIcon.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1354,
+   "sha256": "4d6e99e30a947015761276cbd5885e20b2512442700b36c8646d8a9ff9388e40"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/JokerCardCounter.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3880,
+   "sha256": "4fefe162b1fa8c2932df8d5b0a6d3149046c102d2033a4c6eb25054ad0184019"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/LegendaryPack_Down.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 124030,
+   "sha256": "4ef6b9523e49367dfb4453f5ba25be06c9005746c27eea3ab60c3ab35ce4528e"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/LegendaryPack_Up.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 6037,
+   "sha256": "d37a2c7a64ac28f3ff2989822abd91ef1264514186b10d1014c6fe8701476b33"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/MOTD_Arrow.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 19723,
+   "sha256": "071f6547b2cc930fc7fd0c8fd7e112d86c8a052cfa17e7ac9033ba878bc73730"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/PackGlow_Outer.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 72091,
+   "sha256": "d31be11bf9d0b8399aecfd141879dbe1163fffce606f91c4bb059a3396c03d99"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/PopUpBorder.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 12508,
+   "sha256": "d5ac81d1a7f1ec6b6e098432c8b1a8fc313271b4d2ec2029fc0161ad87db30a1"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/PopUpHeaderLabelBG.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 78735,
+   "sha256": "ad5e24092b655c3523304acdf1b2980a35c700d5513f2556d47f127f0c4390b6"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/PosterInnerGLow.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 42453,
+   "sha256": "3c7f9e3afaa33b79e6567b3890e781cce5e4cf4037860ec16d149a09a4b65007"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/PosterOuterGLow.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 7242,
+   "sha256": "49f0fc2feab7443ddf6afdf20bcf484d07abcadc6adac4c964aacfde6e316ab5"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/PosterScreenCompletedHeader.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2432,
+   "sha256": "3af98fdd17a797916d89653844c7f8718767d870764660f6df81ccb3de558245"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/PosterScreenHeader.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 163251,
+   "sha256": "a53904a809fa2a780db9ea29a7a6e178e7c81ecdbbe467aec7be71c20bee904b"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/Posters_Season04_Set_01.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2277643,
+   "sha256": "a3747739b30f536e4aee44a79fe1b281ca09ada285be9d07509b43ce16bb0e86"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/Posters_Season04_Set_03.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 2349015,
+   "sha256": "80a995f3bc1234c021617a2bf3dabeb4d199a7d8d4b893e95fce3ce64bc16358"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/Posters_Season04_Set_09.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 4266243,
+   "sha256": "f6bd32aafc587d8c2981997189fd8fa59134db7b3432807dc0777c1660630b95"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/Posters_Season04_Set_10.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3699345,
+   "sha256": "2ce5ab7152e8c91ff55d14cfb0c6a416fae8f2400fa9b4fe3e807b314e5b8830"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/Posters_Season04_Set_11.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3816892,
+   "sha256": "07c94a9043e15ccbc26e899a128397a929a477f344d4a2d903292b6b198918a9"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/Posters_Season04_Set_12.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_grandtourseason04",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_grandtourseason04_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3657852,
+   "sha256": "fa2bdb35ee4afbf138fb6102539787a785be19f409f51fcb67578422797b16ce"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/RarePack_Down.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 132390,
+   "sha256": "7a22c70d3460ad8e9518246f1ad7bccae15216ad331886caa9eb3b58e95d8117"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/RarePack_Up.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 7071,
+   "sha256": "baee6dec0e88ccf67b62e495a911924c622c419775f5de85ed76541bc7c852c9"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/RewardGlow_sprite.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 8955,
+   "sha256": "a41e6c00357c15d3109b4c06ee26a9db195dacbaf0f91243980695859996ec42"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/RewardIcon_Glow.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 89966,
+   "sha256": "4a8f454e56bf863370077e0fbaa8b36d620dfa625ef3cf66120f72d006363b95"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/RewardIcon_Rays.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 160608,
+   "sha256": "f3399b5fac20a4d93e415b4a762ec2dc64ab680731bfeedccfc998286f28d100"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/SeasonIntroArrow.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 43621,
+   "sha256": "c642f10b45cabe9a949a6e324cfcbee05696c3e1934610995e850e6712ef0f01"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/SeasonIntro_Line_Asset.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 26452,
+   "sha256": "2aae732c417fabc2d131b4a42f175886d6b6434d592089e7cb3f3e61faff95fa"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/SeasonIntro_Symbol_1.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 16636,
+   "sha256": "1394793526aac086fae24d7ce6fe7184a662e237f5e27d371e14db2ccd207ca2"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/SeasonIntro_Symbol_2.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 33015,
+   "sha256": "689c8065bb7e7d801071764dc52ac66654aa88142d96ea661d73a687da39bc04"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/SeasonIntro_Symbol_3.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 10573,
+   "sha256": "62f275b8e636f53ac429ff94b05c5aef7804b8d6f21a67d16f397fef7a37aeb3"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/SeasonIntro_Symbol_4.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 5964,
+   "sha256": "d7252a15c781ffd9f624a21da080173d651d8de1138fcd77527fc2fedc2430d6"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/SeasonIntro_Symbol_5.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 10775,
+   "sha256": "871398f2e0e7845a3c62c65f33b737b2b310229a68c6ef2b939c2ad0dda64b9c"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/SeasonIntro_Symbol_6.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 21773,
+   "sha256": "af7091ec0dafea272e5241ba27cfeca7a68908ed4a4cc0b31e4e4994665bc354"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/SeasonIntro_Symbol_7.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 25166,
+   "sha256": "c3714ee4f90a517efd1379a3d06ec54a945a4d41b34dae95bac96a51068bc2ca"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/SeasonIntro_Symbol_8.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 17546,
+   "sha256": "a081f61a55fe8db0411e1ee724c3dafc99889a600e2b933a6814b52c5e7ee637"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/SetScreenShadow.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 36341,
+   "sha256": "381ea8e70c2f28355121ffbb0e5cc1d646e6ab09c70c9b8fd01b76a05453b48e"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/SetScreenTape.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 5856,
+   "sha256": "ba685da0ab57287e64aad27a5517826d72c6fe7d7276480f971997757f427a9b"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/Shards_Golden.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 15022,
+   "sha256": "1433d4d74fb76e45bb1ecb443bf1dde7f9ca45de846ee4193824a792b1475ca6"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/Shards_UltraRare.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 15215,
+   "sha256": "113dc18498776b34d048341170b3b1e850c2a8f15ea0b6daaea1d2a84f6c0a80"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/SubTitleTexture.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 9048,
+   "sha256": "e1966e25bc5b057760a748e3f1cbac46964381a53e88abb85e0683f74fe686ea"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/TimerIcon.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 17268,
+   "sha256": "cccf92b1a4fa77778d98d9b3a889cc54941bf1f6fa7660eb7e1adb6a59c8987b"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/TitleTexture.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 58934,
+   "sha256": "ea5545a3492a0d34fc928f9e2e8af10a69df296d7a3d635b62dc4f5a44c4141e"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/UltraRareCardBorder.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 45843,
+   "sha256": "61bd66f172eb66a4074e0af0eed78bd7498e7e510fa64efb0f3f9cbce25e2a28"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/UltraRarePack_Down.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 159348,
+   "sha256": "736edfa54e32ce60d2a4675af0cd77fe77cd460bef277fd76ce2d2671e373cc3"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/UncommonPack_Down.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 127592,
+   "sha256": "a84b53c95e695dc173bcbf665213599fbddaefb027707b0552696258a8cf90ae"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/UncommonPack_Up.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 6697,
+   "sha256": "68e72cb6cb01258bb69e147d36518d385d9e155e8b4ed71e419ac3a33016e4ee"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/UnivCardGlow.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 522244,
+   "sha256": "cb473c85928d251004657a545fb2c7a130b234dea32ffc2798dd41d8e04784fd"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/UniversalCardBG.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 159160,
+   "sha256": "2ae110c6542120cbcfb70ea5cdd018390cb8e20b4f698911f1afb4d04519e957"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/UniversalCard_ShaderFrame.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 41776,
+   "sha256": "caef7c21d761074f495ff3dab1955f1d439ea6cd7ff957f98639eaeb965d0fd8"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/UniversalCard_ShaderPlane.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 200421,
+   "sha256": "54a8532b2f0adb9c8f7fc540b29ad544de57b4439dd1b47c5fb1211b1c02c07e"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/UniversalEliteTokens_Popup.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 102110,
+   "sha256": "bfd43742d480877b15f8ee3316c1e297bcbe2ee294011ef461fcfc09a5478ec2"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/WifiNotConnected_GT.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 3111,
+   "sha256": "7f93614ab98225217b2ed9ae89b052bf605eedc7ccf5c5676e33045dcd375ce0"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/WildCard_TopBanner_1.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 76150,
+   "sha256": "7417031b89c49a7531f5d694a2d140b6c00ec8abe4475954269a7943f79d5f93"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/WildCard_TopBanner_2.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 75411,
+   "sha256": "4f023587940f4c2420dc056645c0a961eb20cbb6d12dd2f561c6881338886bdb"
+  },
+  {
+   "path": "ui-art/GrandTour/sprites/complete_tick.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_grandtour_commongrandtour",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_grandtour_commongrandtour_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 8180,
+   "sha256": "bc578e3888abb72a31963f53acacf12585c01be609ab5baf257ff55810b30c43"
+  },
+  {
    "path": "ui-art/Legends/3PixelBoxFrame.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_legendsv2",
