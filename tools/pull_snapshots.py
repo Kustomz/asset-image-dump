@@ -1,0 +1,85 @@
+#!/usr/bin/env python3
+"""Pull official car snapshots into this repo via Kustomz Imports.
+
+Source of truth for URLs is the SnapshotCDN manifest (the local copy the
+Toolbox built from CDNSnapshots.meta: ~/workspace/toolbox/snapshot_kinds.json).
+Each pull is logged to the repo manifest.json with sha256 + byte size, and a
+human-readable line is appended to pulls.log.
+
+Usage:
+    python3 tools/pull_snapshots.py CRDB [CRDB ...]   # specific cars
+    python3 tools/pull_snapshots.py --all             # full manifest (1,275 cars)
+
+Snapshots are per-CRDB (variant-exact): Reward and RewardRecycled are
+different CRDBs with different renders. Never substitute one variant's
+image for another.
+"""
+import hashlib
+import json
+import os
+import sys
+from datetime import date
+
+import requests
+
+REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+MANIFEST_SRC = os.path.expanduser("~/workspace/toolbox/snapshot_kinds.json")
+OUT_DIR = os.path.join(REPO, "snapshots")
+MANIFEST = os.path.join(REPO, "manifest.json")
+PULL_LOG = os.path.join(REPO, "pulls.log")
+
+
+def load_manifest():
+    if os.path.exists(MANIFEST):
+        return json.load(open(MANIFEST))
+    return {"repo": "Kustomz/asset-image-dump", "assets": []}
+
+
+def main(argv):
+    kinds = json.load(open(MANIFEST_SRC))["cars"]
+    if argv == ["--all"]:
+        want = sorted(kinds.keys())
+    elif argv:
+        want = argv
+    else:
+        print(__doc__)
+        return 2
+    man = load_manifest()
+    by_path = {a["path"]: a for a in man["assets"]}
+    added, skipped, failed = 0, 0, []
+    for crdb in want:
+        entry = kinds.get(crdb)
+        if not entry or "DEFAULT_url" not in entry:
+            failed.append((crdb, "not in SnapshotCDN manifest"))
+            continue
+        path = f"snapshots/{crdb}.png"
+        dest = os.path.join(REPO, path)
+        r = requests.get(entry["DEFAULT_url"], timeout=30)
+        if r.status_code != 200:
+            failed.append((crdb, f"HTTP {r.status_code}"))
+            continue
+        sha = hashlib.sha256(r.content).hexdigest()
+        if path in by_path and by_path[path]["sha256"] == sha and os.path.exists(dest):
+            skipped += 1
+            continue
+        with open(dest, "wb") as fh:
+            fh.write(r.content)
+        by_path[path] = {
+            "path": path, "kind": "car_snapshot", "crdb": crdb,
+            "source": "Kustomz Imports — SnapshotCDN manifest (DEFAULT), Zynga snapshot CDN",
+            "pulled": str(date.today()), "bytes": len(r.content), "sha256": sha,
+        }
+        added += 1
+    man["assets"] = sorted(by_path.values(), key=lambda a: a["path"])
+    json.dump(man, open(MANIFEST, "w"), indent=1)
+    with open(PULL_LOG, "a") as fh:
+        fh.write(f"{date.today()} snapshots: +{added} new/changed, {skipped} unchanged, "
+                 f"{len(failed)} failed {failed if failed else ''}\n")
+    print(f"done: +{added} new/changed, {skipped} unchanged, {len(failed)} failed")
+    for crdb, why in failed:
+        print(f"  FAILED {crdb}: {why}")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main(sys.argv[1:]))

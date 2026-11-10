@@ -1,0 +1,78 @@
+{
+ "repo": "Kustomz/asset-image-dump",
+ "purpose": "Kustomz game-asset image store. Every asset enters via a logged Kustomz Imports pull; see README.md.",
+ "assets": [
+  {
+   "path": "snapshots/Audi_RS3SportbackRewardRecycled_2023.png",
+   "kind": "car_snapshot",
+   "crdb": "Audi_RS3SportbackRewardRecycled_2023",
+   "source": "Kustomz Imports \u2014 SnapshotCDN manifest (DEFAULT), Zynga snapshot CDN",
+   "pulled": "2026-11-10",
+   "bytes": 160697,
+   "sha256": "18826cabb743df5e0bfc991b5d5ecfab75fee90679cfc6895fb42a2cb49dca2e"
+  },
+  {
+   "path": "snapshots/Audi_RS3SportbackReward_2023.png",
+   "kind": "car_snapshot",
+   "crdb": "Audi_RS3SportbackReward_2023",
+   "source": "Kustomz Imports \u2014 SnapshotCDN manifest (DEFAULT), Zynga snapshot CDN",
+   "pulled": "2026-11-10",
+   "bytes": 166868,
+   "sha256": "1f8e85aa49eab0d4ba95340008a08cd04dccfcfbd03db55991872cf34aa01996"
+  },
+  {
+   "path": "snapshots/Lamborghini_ZacoeTemerarioRewardRecycled_2024.png",
+   "kind": "car_snapshot",
+   "crdb": "Lamborghini_ZacoeTemerarioRewardRecycled_2024",
+   "source": "Kustomz Imports \u2014 SnapshotCDN manifest (DEFAULT), Zynga snapshot CDN",
+   "pulled": "2026-11-10",
+   "bytes": 166918,
+   "sha256": "037a35874921056a1e72c6954e86a16db9cc005646c33c7dc88acc9a858b6911"
+  },
+  {
+   "path": "snapshots/Lamborghini_ZacoeTemerarioReward_2024.png",
+   "kind": "car_snapshot",
+   "crdb": "Lamborghini_ZacoeTemerarioReward_2024",
+   "source": "Kustomz Imports \u2014 SnapshotCDN manifest (DEFAULT), Zynga snapshot CDN",
+   "pulled": "2026-11-10",
+   "bytes": 152026,
+   "sha256": "89857543eaf2c35a1033bdbed7af2a89d937cc5cb68c2abae1be76a37bd64e71"
+  },
+  {
+   "path": "snapshots/McLaren_765LTSpiderRewardRecycled_2021.png",
+   "kind": "car_snapshot",
+   "crdb": "McLaren_765LTSpiderRewardRecycled_2021",
+   "source": "Kustomz Imports \u2014 SnapshotCDN manifest (DEFAULT), Zynga snapshot CDN",
+   "pulled": "2026-11-10",
+   "bytes": 172001,
+   "sha256": "11d5308acb12d2c0f9af3140f0ddf907f39bc9017059973e211a9312a828b3bd"
+  },
+  {
+   "path": "snapshots/McLaren_765LTSpiderReward_2021.png",
+   "kind": "car_snapshot",
+   "crdb": "McLaren_765LTSpiderReward_2021",
+   "source": "Kustomz Imports \u2014 SnapshotCDN manifest (DEFAULT), Zynga snapshot CDN",
+   "pulled": "2026-11-10",
+   "bytes": 173366,
+   "sha256": "b88ff7a67b50d52914835b42d13527432af73defba5eccacb6ca204b73ef5601"
+  },
+  {
+   "path": "snapshots/Nissan_KRCJapanGTRR35RewardRecycled_2017.png",
+   "kind": "car_snapshot",
+   "crdb": "Nissan_KRCJapanGTRR35RewardRecycled_2017",
+   "source": "Kustomz Imports \u2014 SnapshotCDN manifest (DEFAULT), Zynga snapshot CDN",
+   "pulled": "2026-11-10",
+   "bytes": 182697,
+   "sha256": "16ca816722a8426065133cc357ecb771af66c0715dbd60b4369d98781f078f64"
+  },
+  {
+   "path": "snapshots/Nissan_KRCJapanGTRR35Reward_2017.png",
+   "kind": "car_snapshot",
+   "crdb": "Nissan_KRCJapanGTRR35Reward_2017",
+   "source": "Kustomz Imports \u2014 SnapshotCDN manifest (DEFAULT), Zynga snapshot CDN",
+   "pulled": "2026-11-10",
+   "bytes": 205327,
+   "sha256": "1bdda2f671032a26e9b5f4a3a44cd50a131a8d69ce0e8a655f675243e61ec2cc"
+  }
+ ]
+}
