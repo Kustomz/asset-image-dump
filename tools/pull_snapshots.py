@@ -66,6 +66,8 @@ def main(argv):
             failed.append((crdb, f"no {kind} snapshot in manifest"))
             continue
         path = f"{KIND_DIRS[kind]}/{crdb.split(chr(95))[0]}/{crdb}.png"
+        dest = os.path.join(REPO, path)
+        os.makedirs(os.path.dirname(dest), exist_ok=True)
         # Rick (2026-11-10): these three cars' snapshots/ files are the PreGen
         # tighter crops by his decision (listing-preferred framing). A DEFAULT
         # re-pull must not clobber them while the crop is intact on disk.
@@ -74,8 +76,6 @@ def main(argv):
             if _h.sha256(open(dest, "rb").read()).hexdigest() == by_path[path]["sha256"]:
                 skipped += 1
                 continue
-        dest = os.path.join(REPO, path)
-        os.makedirs(os.path.dirname(dest), exist_ok=True)
         # fast path: registered + present at the recorded size -> no download
         if (path in by_path and os.path.exists(dest)
                 and os.path.getsize(dest) == by_path[path].get("bytes")):
