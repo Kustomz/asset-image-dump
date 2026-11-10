@@ -64,7 +64,22 @@ def main(argv):
         path = f"{KIND_DIRS[kind]}/{crdb.split(chr(95))[0]}/{crdb}.png"
         dest = os.path.join(REPO, path)
         os.makedirs(os.path.dirname(dest), exist_ok=True)
-        r = requests.get(entry[url_key], timeout=30)
+        # fast path: registered + present at the recorded size -> no download
+        if (path in by_path and os.path.exists(dest)
+                and os.path.getsize(dest) == by_path[path].get("bytes")):
+            skipped += 1
+            continue
+        r = None
+        for attempt in (1, 2):
+            try:
+                r = requests.get(entry[url_key], timeout=30)
+                break
+            except requests.RequestException as e:
+                if attempt == 2:
+                    failed.append((crdb, f"fetch failed: {type(e).__name__}"))
+                    r = None
+        if r is None:
+            continue
         if r.status_code != 200:
             failed.append((crdb, f"HTTP {r.status_code}"))
             continue
@@ -76,7 +91,7 @@ def main(argv):
             fh.write(r.content)
         by_path[path] = {
             "path": path, "kind": f"car_snapshot_{kind.lower()}", "crdb": crdb,
-            "source": "Kustomz Imports — SnapshotCDN manifest (DEFAULT), Zynga snapshot CDN",
+            "source": f"Kustomz Imports — SnapshotCDN manifest ({kind}), Zynga snapshot CDN",
             "pulled": str(date.today()), "bytes": len(r.content), "sha256": sha,
         }
         added += 1

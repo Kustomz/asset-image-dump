@@ -34,6 +34,7 @@ Both sources belong in this repo; the CDN pass simply goes first.
 | `icons/`     | Game UI icons — currency, keys, fusions, reward art.            |
 | `panels/`    | Event / news panels and other large-format game art.            |
 | `characters/` | Character art — full textures plus cut-out sprites (`sprites/`). |
+| `backgrounds/` | Background / backdrop art (moved out of `characters/` 2026-11-10 — these came in inside the characters bundle but aren't characters). |
 | `snapshots-gacha/`, `snapshots-prize/`, `snapshots-reversed/` | The other official snapshot kinds, same per-make sharding. |
 | `tools/`     | The pull scripts that feed this repo.                           |
 
