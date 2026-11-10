@@ -3,6 +3,1342 @@
  "purpose": "Kustomz game-asset image store. Every asset enters via a logged Kustomz Imports pull; see README.md.",
  "assets": [
   {
+   "path": "characters/Character_Akie.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1214766,
+   "sha256": "e55d9f52a67e9366cebbeb1c66ce33c6776660084d550a5ac270a663e91d0f52"
+  },
+  {
+   "path": "characters/Character_Altay.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1531628,
+   "sha256": "8ba34d62b9486a6b1c04dfb011815339708aa98aeb6391ea39ce4f4ead96943e"
+  },
+  {
+   "path": "characters/Character_Amelia.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1196515,
+   "sha256": "292974d7f95af71d18830f0b54e88dc1c0636ed6e6c9d9dde0501c58fc7011c8"
+  },
+  {
+   "path": "characters/Character_Angel.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1275198,
+   "sha256": "8dfc37a98b8f974c4722a9e1075c6a8c7a6189ce1109eec6f5c978d2da4c73ce"
+  },
+  {
+   "path": "characters/Character_Annabella.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1212785,
+   "sha256": "5953fa56e2702a68e72c72aa8801cc546de82589dec3410e38ad5cf2928dd1a5"
+  },
+  {
+   "path": "characters/Character_Ashleigh.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1295296,
+   "sha256": "fe58a67eedfc3f0e62dcd61e21e5e00018ac40839c6c80904d9a7a84cb544816"
+  },
+  {
+   "path": "characters/Character_Benji.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1260448,
+   "sha256": "d95f7fb990917d4bec5eb1f67ca10e17c7adb2b48227fec3a73ca552a1b2e5cd"
+  },
+  {
+   "path": "characters/Character_Betto.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1529767,
+   "sha256": "d5b4383d39f88cc08de4008a74025ffa5a99b0b751ead1bcfeaebc04645334dd"
+  },
+  {
+   "path": "characters/Character_Bryce.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1549297,
+   "sha256": "7008fafa9ecdecd991cabc7666d242b110fc6fcfe7b36cf2f8f9bdd80152373d"
+  },
+  {
+   "path": "characters/Character_Car.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 707374,
+   "sha256": "5d50d726fb72990a8cffc350aeac4460e45517c865fcd3273be7a9646bed4bdc"
+  },
+  {
+   "path": "characters/Character_Christian.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1175829,
+   "sha256": "3f4207d99de62957855a611c2d492d638daf45d2a5ff70e0eace30867b37928f"
+  },
+  {
+   "path": "characters/Character_Christmas_Donna.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1192419,
+   "sha256": "4f18c0f2b5b6c8a844676eedc65ba58e84e4dd1e2607a9bbfd5cfaf3f6869bd7"
+  },
+  {
+   "path": "characters/Character_Cipher.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 674508,
+   "sha256": "fc793ea7e961aea434b857e4c6b4d668843f7bd10494adeeb2a1f8228cd27595"
+  },
+  {
+   "path": "characters/Character_Curator.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1143457,
+   "sha256": "082b5fb21a8a5b39175a02dab25ab305669f5a2a2e304e65430ebce1030839aa"
+  },
+  {
+   "path": "characters/Character_Dana.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1349824,
+   "sha256": "2c706b118477f23361218260cb6ef24af635ead07fdd18c5812734ff2b59d2a8"
+  },
+  {
+   "path": "characters/Character_Danica.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1463758,
+   "sha256": "64cc222d8dab28ab517f4b88487188755404a557745f24467dcdeb7ba60f679b"
+  },
+  {
+   "path": "characters/Character_Daniel.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1156911,
+   "sha256": "2b3b3dca22500652e3a25848bdc0743052bcbbd2dd7ad9d6be25604562171d87"
+  },
+  {
+   "path": "characters/Character_Donna.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1400883,
+   "sha256": "dc8008b27bcf2c2fa3d4b0f2333a4b989fe0ff7eb186fb4e2b281016a21dc7d2"
+  },
+  {
+   "path": "characters/Character_Earnheardt.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 980382,
+   "sha256": "901bce813130c8341ba26b100fdc25ab0376dcd17e330bc852253b7176b22d43"
+  },
+  {
+   "path": "characters/Character_EuroAnnabella.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1212785,
+   "sha256": "5953fa56e2702a68e72c72aa8801cc546de82589dec3410e38ad5cf2928dd1a5"
+  },
+  {
+   "path": "characters/Character_EuroDana.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1349824,
+   "sha256": "2c706b118477f23361218260cb6ef24af635ead07fdd18c5812734ff2b59d2a8"
+  },
+  {
+   "path": "characters/Character_EuroLarry.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1220298,
+   "sha256": "e6a40ec3d50d39e11d0b69740e3dd4d4144e44c754c9de8ea02a3804eb47a157"
+  },
+  {
+   "path": "characters/Character_EuroTina.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1365739,
+   "sha256": "1589ea796182bca3f00feacf3fe9661976c4c8746f9396b522421dab32e8c0c5"
+  },
+  {
+   "path": "characters/Character_Finn.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1535122,
+   "sha256": "af1d1c84c4acffc6a8f55f6226d7cfe9d3dc41ec39f8afecb19f457911ed8f91"
+  },
+  {
+   "path": "characters/Character_Gordon.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1764649,
+   "sha256": "2bdb412ba833977792609f245deb1533869ad4187adf4367308dd6115e0b591b"
+  },
+  {
+   "path": "characters/Character_Halloween.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1330225,
+   "sha256": "3712a6bf215a5adea8f3ef8e95322030af5977462c31318a513299df9a38fdbb"
+  },
+  {
+   "path": "characters/Character_HalloweenJess.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1737934,
+   "sha256": "3c176c507a4bf4bc69b4c9dc379b90680e9a844fc425899c5589ec9c9caa4c0c"
+  },
+  {
+   "path": "characters/Character_Halloween_Jerry.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1570182,
+   "sha256": "49b77ef09d16bf1090b5c7506a1fb2d68b944ba0fa9f07b950b3724826cbe3ad"
+  },
+  {
+   "path": "characters/Character_Halloween_Mystery.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 417693,
+   "sha256": "e74fde74bb536e6a43ecff45ba609c3958a46f47b3e2665199d787064aaacba0"
+  },
+  {
+   "path": "characters/Character_Hattie.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1378150,
+   "sha256": "978addc07cd3c234ef20074198a0e2fbade3270db4da6641fdfae6680e48ad38"
+  },
+  {
+   "path": "characters/Character_Henchman.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 509373,
+   "sha256": "90b01c5d83391f9389f679622ada504c3d813f29b5b4320bedfcabfa73f6aaaa"
+  },
+  {
+   "path": "characters/Character_Hobbs.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1680626,
+   "sha256": "52a950ee4d7eba157161fd5e0e40c0662e77e8253b48c165b436c75dd7f0f994"
+  },
+  {
+   "path": "characters/Character_Izzy.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1364602,
+   "sha256": "209f44eda2d9bad6446a21d443918dff2d3a9d43e236f81e0e34618fe4e0dc97"
+  },
+  {
+   "path": "characters/Character_Izzy_Narrative.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 393892,
+   "sha256": "835649576205fac23f711a49f9371595d7703c8769c5155cafec9831fcb72acc"
+  },
+  {
+   "path": "characters/Character_Jerry.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1823472,
+   "sha256": "d95a3ad6309e2e600923adba8edbb96f32a62d3419afd08bcc42bb37ab2997e6"
+  },
+  {
+   "path": "characters/Character_JerryAlt.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1454576,
+   "sha256": "9b724bca0b95f8e48172be092cd7c2d754f3f751308550928684a70ab35e2b56"
+  },
+  {
+   "path": "characters/Character_Jess.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1737211,
+   "sha256": "79ea094f589bb91ccd0561398eb0e270c0f4e493eca623bc75f8762cacc23d7e"
+  },
+  {
+   "path": "characters/Character_JessAlt.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1612776,
+   "sha256": "82bba5861a082cf6b6cf5da8f5d766c6ecd688c36fa98ae1f7545c1a8a8ffceb"
+  },
+  {
+   "path": "characters/Character_Jess_flipped.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1936686,
+   "sha256": "3aa6b0455a8bd20d85eba66a7eb947ddd8be25eb01c1262500f1221cb3786974"
+  },
+  {
+   "path": "characters/Character_John.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1398316,
+   "sha256": "a83c5e8bf786ea133f22bc73a1f032104e2e17ceb654596d048261eb15220358"
+  },
+  {
+   "path": "characters/Character_KJ.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1688827,
+   "sha256": "ce7aeb77c761ce908d58d568e7ab76d7400374ef1d8c8f37535f5bf3a390a812"
+  },
+  {
+   "path": "characters/Character_KJ_1.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1471929,
+   "sha256": "872dd8fe11f16591ac199401a50118b040fd8f1ee24a7a983314dfa9954dcbb7"
+  },
+  {
+   "path": "characters/Character_Kato.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1285989,
+   "sha256": "fa709c8677722c5385bf55496ec55ab7fd1869630baa2aee1f65f7cdfea4feea"
+  },
+  {
+   "path": "characters/Character_KenBlock.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 426937,
+   "sha256": "98fb556dcc9a54d84100bfb0d37e18ee5aa050dcb8188e3099a4e64962e31cc5"
+  },
+  {
+   "path": "characters/Character_KenBlock2.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 973882,
+   "sha256": "90e4dfc4445f2345b697f1f0101fe926c7605940b193d901a4e637fb68479e8d"
+  },
+  {
+   "path": "characters/Character_Keyshia.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1423069,
+   "sha256": "f04324027c983dae997a09dd7f30137f74164a2cb966ff15ba5c2e37b47b8015"
+  },
+  {
+   "path": "characters/Character_Kiyiya.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1599724,
+   "sha256": "73effbdd2044fcae51fb16505ae88faf49bcc7d7b2a106bdaa9c462954f1eb1a"
+  },
+  {
+   "path": "characters/Character_Konduit.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1396762,
+   "sha256": "7242c2a213b50ecd6bfd152d1b1c7aeed3c9750a4867d0fd96b2cfa5efdf43ce"
+  },
+  {
+   "path": "characters/Character_Kurtz.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1417334,
+   "sha256": "4509d561e72f5db94503315bd2990ccee50cafd41c4e277fe7c414dd138a3210"
+  },
+  {
+   "path": "characters/Character_Larry.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1220298,
+   "sha256": "e6a40ec3d50d39e11d0b69740e3dd4d4144e44c754c9de8ea02a3804eb47a157"
+  },
+  {
+   "path": "characters/Character_Lau.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1587246,
+   "sha256": "41cddb2114cadd443e255b59fc062c19d23a088e21addf1de991bb4fa390043b"
+  },
+  {
+   "path": "characters/Character_Letty.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1374979,
+   "sha256": "d0b67e5b2e77b1f811701c7f1c990dca891b46b0fea31ca62a653e54ad0018b8"
+  },
+  {
+   "path": "characters/Character_Lia.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 461165,
+   "sha256": "391b2cefa11ec7ef6899d413466dc6095a5f52c685953d44d4021fe4965bfd88"
+  },
+  {
+   "path": "characters/Character_Mark.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1017048,
+   "sha256": "060e1a0aed350f7f30480fed8f4b6c03657793a0b43e352cac8d18805cf5207d"
+  },
+  {
+   "path": "characters/Character_Noro.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 993297,
+   "sha256": "525b78338f9ffbb9f4454d9c8e46b34f9c35cf3378995911254ff4162e022308"
+  },
+  {
+   "path": "characters/Character_Petah.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1452228,
+   "sha256": "d7a113e681495f71e383a921ac9f0df4ee6024e2daebb1c1f9e10e90b103bdb4"
+  },
+  {
+   "path": "characters/Character_Priest.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1869980,
+   "sha256": "a7f1e8884aadf73fd5dab74299e56bb80fc4b260f6eb59847fbaf7a1f4b72f6d"
+  },
+  {
+   "path": "characters/Character_Ramsey.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1200744,
+   "sha256": "ac0cadb66bd5018c494fcb2a56c22bfb5fdc14a4548bf07076cde91c1df3b339"
+  },
+  {
+   "path": "characters/Character_Rico.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1620420,
+   "sha256": "c579267de691e55b956513fbcfbffce7528873c0d196bcbe7e234064d042433a"
+  },
+  {
+   "path": "characters/Character_Roman.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 897741,
+   "sha256": "3d3994641c87cc78f2ec78710315df32e7f5763db5d92678ef14b8ff0a993071"
+  },
+  {
+   "path": "characters/Character_Ruby.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1602744,
+   "sha256": "11a4d5b54cc31463603d8031ec036647cb0eb718538521c09acff369e8839557"
+  },
+  {
+   "path": "characters/Character_Shana.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1245091,
+   "sha256": "a307634be3e77ccb50ff4baf3ddec63580e94a47f9c3823a05af653ce7898cb1"
+  },
+  {
+   "path": "characters/Character_Shaw.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1138918,
+   "sha256": "9446202975df257c2570a648b52807c84b22849899b795c1efdfe3ac74632e97"
+  },
+  {
+   "path": "characters/Character_Shiftspin_Sneak.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1086314,
+   "sha256": "4cef27bf8173872c0b7acd96a54a81902da18ca28eeb1ca222e47ddf0bc6fdaa"
+  },
+  {
+   "path": "characters/Character_Sneak.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1140124,
+   "sha256": "b71ad5f82001573eb06b20aeb537a8c96aaefe00d97331e0241a5ccb4339bcb5"
+  },
+  {
+   "path": "characters/Character_Summer.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1473687,
+   "sha256": "703d129b9e8fe75a439607c35dc0f71c84793ee5b3057315a6b769685682cb52"
+  },
+  {
+   "path": "characters/Character_T4_Ashleigh.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1362960,
+   "sha256": "2e58fb4cb45ed7edb28713a837f20f80d3f011e1eb477aacc83fe283dc83e939"
+  },
+  {
+   "path": "characters/Character_T5_Victor.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1618425,
+   "sha256": "e83553b593afa3e04c22df271d7bbd994afba557d4c53780cd3664b8baf6d246"
+  },
+  {
+   "path": "characters/Character_Tej.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 850329,
+   "sha256": "834ade41fc05e9646bbeb8592872e694498c0024541b23a7d53df81353ab5c88"
+  },
+  {
+   "path": "characters/Character_Thunder.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1489591,
+   "sha256": "dea47e8b0d4b64d1d00b8eb5a1294d9c18dd0d43cc5e692a8dc22838101b8639"
+  },
+  {
+   "path": "characters/Character_Tina.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1365739,
+   "sha256": "1589ea796182bca3f00feacf3fe9661976c4c8746f9396b522421dab32e8c0c5"
+  },
+  {
+   "path": "characters/Character_Tyler.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1467825,
+   "sha256": "fb67427a61b474bb14c71743df485bdff9d04af1a6e58be48e47102e194490c6"
+  },
+  {
+   "path": "characters/Character_Victor.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1422742,
+   "sha256": "ce8dc2cd2e0849cc62ec7557c2f2b91b8ea00f4f0c619c092d676e74fedc1561"
+  },
+  {
+   "path": "characters/FaF2020_background.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 330920,
+   "sha256": "d5068d66dc1c509600d83f6c61f85ed492c10d35a1c87d7f40969baf80c82918"
+  },
+  {
+   "path": "characters/Hypermod_background.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 835506,
+   "sha256": "4f219af97bab0f347b0420585bf557b5699b6aabe68f54fa48cf314479b04199"
+  },
+  {
+   "path": "characters/JeffreyEarnheardt_BG.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 856666,
+   "sha256": "acf6c795ea7c1a5441eaad2cb62b5db76dc6cd0dd1d2517dbeefb2ba983c470b"
+  },
+  {
+   "path": "characters/background_ART2.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1146068,
+   "sha256": "1ad22251a0db545e297c87e052b9fc34b3a2aef630a6f55d6a3c54dc7df67ab2"
+  },
+  {
+   "path": "characters/background_AS.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 387670,
+   "sha256": "aecc7125b31e7c315b8388b33783246a426953eb251bcf8990727d0784523491"
+  },
+  {
+   "path": "characters/background_CSR2.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 623115,
+   "sha256": "12fc4d9845349c77a49bdba9d705106365967db83003ec4959e22e4d7ac2f251"
+  },
+  {
+   "path": "characters/background_ET.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 660814,
+   "sha256": "ada1cef056cc79a22c9276147258e4fe1d7db4e777d23894119a09ad804ba969"
+  },
+  {
+   "path": "characters/background_EuroSeries1.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 239879,
+   "sha256": "14b1ca6e3d1d7db8d4b5110013322e17bfe9f6a3a74d5153d61d0bae7639b03a"
+  },
+  {
+   "path": "characters/background_F9.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 734371,
+   "sha256": "d0693f02c93853b971af91d9d6d6ee3f813c8311ae5dce31076222f1fecf9c2a"
+  },
+  {
+   "path": "characters/background_HighStakes.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 623115,
+   "sha256": "12fc4d9845349c77a49bdba9d705106365967db83003ec4959e22e4d7ac2f251"
+  },
+  {
+   "path": "characters/background_KB.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1142996,
+   "sha256": "876a82622a331a8b472a7c0d3022dd067ff0ed5882c49510b60bf454d1681f80"
+  },
+  {
+   "path": "characters/background_PitRow.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 899916,
+   "sha256": "0bdbddb21c152500c8d6c5daa42303aa79e1bf74664da73ca60fd2d73fb53814"
+  },
+  {
+   "path": "characters/background_SeasonPass.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 112300,
+   "sha256": "891988f0b4800628297f3427f440e273efc177db88b6271872e1db4823bbe3b6"
+  },
+  {
+   "path": "characters/background_SeasonPass_01.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 108318,
+   "sha256": "0fe6e0c5c002a52086db3d44e13425c7553814f862933c76a78cad43345f8042"
+  },
+  {
+   "path": "characters/background_T1.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 813926,
+   "sha256": "3c03b7bc801fff45517dcd212c0c24e7f4d6e09f7bba5ff0365030edf57bdfa5"
+  },
+  {
+   "path": "characters/background_T2.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1410427,
+   "sha256": "570ae5e91ed2b099cdfc56a67c1dcf1683fbe5a2030429b4816f10ccba507add"
+  },
+  {
+   "path": "characters/background_T3.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 400067,
+   "sha256": "f065ce7e629b796d2157a73922ac2a1bf4317b339f5a329bdebcab98b3bb53a4"
+  },
+  {
+   "path": "characters/background_T4.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1056123,
+   "sha256": "d60a3856382cac763695ff3524626e08de59280152f0bb3667caecbb24bd80c7"
+  },
+  {
+   "path": "characters/background_T5.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 595299,
+   "sha256": "23396037061f9331eb2864ba3c030166d6589bc586d47fbeb1b72a25f5910bd9"
+  },
+  {
+   "path": "characters/background_T6.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 349433,
+   "sha256": "344a8f8e76d8e14ab713f106a45472dad9310c3a12c9b3fb96be52a259bb6141"
+  },
+  {
+   "path": "characters/background_icons.png",
+   "kind": "character_texture",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 201446,
+   "sha256": "ae15f23e48bc4e8957b20079591926c058bf9ce62139302f8670ef8d7e83b6ef"
+  },
+  {
+   "path": "characters/sprites/Character_Akie.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1033275,
+   "sha256": "79b6ef8111c91d573a143696b772fb627848c7301d42f046d709fa704eb0991f"
+  },
+  {
+   "path": "characters/sprites/Character_Altay.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1249786,
+   "sha256": "48525e30517e0f94d4418cb215509abe169414f6febc0c47dc680dd1aa7a7f57"
+  },
+  {
+   "path": "characters/sprites/Character_Amelia.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1036987,
+   "sha256": "49df1831c194a0b349ef9da1194f45e4e6f6ff37c5e00b64750f4722839b4640"
+  },
+  {
+   "path": "characters/sprites/Character_Angel.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1041705,
+   "sha256": "0f432e7fd6df3cb8414ace1d81f0a654ac1aa260d54219cbfd09eaf9982b2ecb"
+  },
+  {
+   "path": "characters/sprites/Character_Annabella.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1049739,
+   "sha256": "65ed6056267d15d96738a89350755e24f4e93b3a6006516867d0f947f7ba2b49"
+  },
+  {
+   "path": "characters/sprites/Character_Ashleigh.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1082649,
+   "sha256": "45f740b2e9b074e8524f47ccdd0a004bb67c290e1b1a904ce73290d2d7e8e145"
+  },
+  {
+   "path": "characters/sprites/Character_Benji.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1137327,
+   "sha256": "9a9267a88602e9369049a21b5c5cfbbfd44ce751625ad75480cb3f30667447ad"
+  },
+  {
+   "path": "characters/sprites/Character_Betto.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1116645,
+   "sha256": "533f9ad3a06e6c294f7b8a631adadb2b7d13442536058e2905b82be30ca15577"
+  },
+  {
+   "path": "characters/sprites/Character_Bryce.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1233323,
+   "sha256": "0bcd282c9235542566ca8d9610d014928b3c458c608807aa54bc41ee1a96229d"
+  },
+  {
+   "path": "characters/sprites/Character_Car.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 709169,
+   "sha256": "1323536534ddef688fdc1e59dcd0b48291e1aaa8b0d0b7f73608bf88ad95cb00"
+  },
+  {
+   "path": "characters/sprites/Character_Christian.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1016677,
+   "sha256": "d1a14347ff53d6dfff903e4f2767428422db2c57c4acf5441b533bb9424c1fe5"
+  },
+  {
+   "path": "characters/sprites/Character_Christmas_Donna.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1026106,
+   "sha256": "52ce43145afde60a91ad23b5f45ad3ab7b180cc356a1d9ca74a40a5e359631ff"
+  },
+  {
+   "path": "characters/sprites/Character_Cipher.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 568757,
+   "sha256": "8a8f0f9afe704f77b99df8ccd6a47904a0c138160884ff5ead8381e986299ceb"
+  },
+  {
+   "path": "characters/sprites/Character_Curator.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 946931,
+   "sha256": "4ec602d9e960e18a93e7480f624891a64e57dbed6810399fee51e6a1f667dd87"
+  },
+  {
+   "path": "characters/sprites/Character_Dana.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1149521,
+   "sha256": "696adfc52f0af2a4464e8ef958d2c0fd3ce91276cd9b1516fb05d6ef6cc0b794"
+  },
+  {
+   "path": "characters/sprites/Character_Danica.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1261433,
+   "sha256": "2861eb80a59d317fd35c22b7202983d86c48d71a8e29e0c21ad44c3598d87e85"
+  },
+  {
+   "path": "characters/sprites/Character_Daniel.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 956148,
+   "sha256": "98383af86faa28b955d33401582673807fafff14ba8255770d30581919df87a8"
+  },
+  {
+   "path": "characters/sprites/Character_Donna.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1220725,
+   "sha256": "1c8507e4f367ee8fb57efff996f3b22d744f0c96f279331db39ebe3422d58e9d"
+  },
+  {
+   "path": "characters/sprites/Character_Earnheardt.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 783740,
+   "sha256": "0ca621bff593b91a22df8bc7a8c5aa1f8f515a7b062960192d6b564611586e53"
+  },
+  {
+   "path": "characters/sprites/Character_EuroAnnabella.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1049739,
+   "sha256": "65ed6056267d15d96738a89350755e24f4e93b3a6006516867d0f947f7ba2b49"
+  },
+  {
+   "path": "characters/sprites/Character_EuroDana.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1149521,
+   "sha256": "696adfc52f0af2a4464e8ef958d2c0fd3ce91276cd9b1516fb05d6ef6cc0b794"
+  },
+  {
+   "path": "characters/sprites/Character_EuroLarry.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1055831,
+   "sha256": "f886cd1d348aabb40038885a3b8c908cb82643f601d7d712ce531be666d03bdb"
+  },
+  {
+   "path": "characters/sprites/Character_EuroTina.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1208415,
+   "sha256": "8cfbf4a0f541507965fe310c90feeae14e36fb753fc5b9c02c4aed80168379bb"
+  },
+  {
+   "path": "characters/sprites/Character_Finn.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1265550,
+   "sha256": "59fbc6fb27d939b94c8b4e68816fe6d948f7f82f3df435cc32686b4a0bdd7e67"
+  },
+  {
+   "path": "characters/sprites/Character_Gordon.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1552759,
+   "sha256": "415194b2dc3696756692ecf3b98bf74b089efef3a12447242459e0052c759450"
+  },
+  {
+   "path": "characters/sprites/Character_Halloween.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1148040,
+   "sha256": "dba21c04d65cf6b99730b18067c916f8a3f07b79ae307b2ec608772000d31767"
+  },
+  {
+   "path": "characters/sprites/Character_HalloweenJess.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1459081,
+   "sha256": "ad90f2252278d07d81efbca33bf34417ca430213064a5f41b05730da201b6359"
+  },
+  {
+   "path": "characters/sprites/Character_Halloween_Jerry.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1387043,
+   "sha256": "675c8db6c2a097d9de7b4a45c2e74e9e11ffd0801bdaaa6cc2fec0091bbfb6a3"
+  },
+  {
+   "path": "characters/sprites/Character_Halloween_Mystery.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 239561,
+   "sha256": "ef91fa781ad6026a4b8d6acc0ac6ae8b2bd2b9a893b43635f353d685019582b0"
+  },
+  {
+   "path": "characters/sprites/Character_Hattie.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1214778,
+   "sha256": "350ed6901018d8e6ffa20c06c5d9824742004bb81c9c431d95a8689218c589f7"
+  },
+  {
+   "path": "characters/sprites/Character_Henchman.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 431100,
+   "sha256": "6f04391b23abedf0494ab4ef8b7d714c8ecac1b875394a040eecc43128a6b656"
+  },
+  {
+   "path": "characters/sprites/Character_Hobbs.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1502488,
+   "sha256": "00cc368f7941dc28852c7e797e5cbe2de30965c0dd9e80171412c7e7c4a62137"
+  },
+  {
+   "path": "characters/sprites/Character_Izzy.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1121905,
+   "sha256": "5b1b658d2ef7ce17695fa6dfe3d390cd99a314139dea9984788b3c7554840fa1"
+  },
+  {
+   "path": "characters/sprites/Character_Izzy_Narrative.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 319887,
+   "sha256": "0ad0dad03efdce5b82e3e07fff075c47f82db70d0404e817324021978579fdd5"
+  },
+  {
+   "path": "characters/sprites/Character_Jerry.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1614476,
+   "sha256": "b78f907de9a52794dac1c014fcfaec43a7b33b7d370722b7f26a939118f8d068"
+  },
+  {
+   "path": "characters/sprites/Character_JerryAlt.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1244438,
+   "sha256": "d54e475e40b27a0fbfab9aac903362c396b075c52c90b27bcb20694a92f4fe9a"
+  },
+  {
+   "path": "characters/sprites/Character_Jess.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1458550,
+   "sha256": "48c33e0097e09199d4c9a54976ab0c322447fe39747616bc6cbbf215c1e34cc8"
+  },
+  {
+   "path": "characters/sprites/Character_JessAlt.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1367616,
+   "sha256": "aab8518de9d09f7419aa1c710c96e9e2cf9f36c851346f3a5a4e1083f0cd5f99"
+  },
+  {
+   "path": "characters/sprites/Character_Jess_flipped.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1371162,
+   "sha256": "a3b29ee3e9fdcc8acd6a185bb905ffc8ede380969272e180296564fa6fac9fca"
+  },
+  {
+   "path": "characters/sprites/Character_John.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1141811,
+   "sha256": "f3d7f31b5b91fe520f219c3db0d643825cbbefc2526bde41efcefbceba5b4f82"
+  },
+  {
+   "path": "characters/sprites/Character_KJ.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1417186,
+   "sha256": "fbad5ff8d1d08447ecde0ef963b54026d099453e600b6e683e37c8a22cab73fa"
+  },
+  {
+   "path": "characters/sprites/Character_KJ_1.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1247613,
+   "sha256": "6d7c3d7bdac896ce00959c73324561d5956f76a5488d1f3f4b97c99926fb59ca"
+  },
+  {
+   "path": "characters/sprites/Character_Kato.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1044872,
+   "sha256": "e8fcd5e375c17a9024fdbc8e036d9558e4bff3f3d924f6528d9b6f23e8c5b097"
+  },
+  {
+   "path": "characters/sprites/Character_KenBlock.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 326573,
+   "sha256": "37d49b4e68cdcf0a450d6a6e72a1b7bfea32a339a4e7eca603e7256164d8f088"
+  },
+  {
+   "path": "characters/sprites/Character_KenBlock2.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 865831,
+   "sha256": "5bf4e55a097382fb318425f5be64b8c20ea9fff5b0f4b9593ffa1d2ba69b0d56"
+  },
+  {
+   "path": "characters/sprites/Character_Keyshia.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1144674,
+   "sha256": "fe701863ac9a166b47ede873c6c43abe7dafa742bdf70180fb58279a1b9e491c"
+  },
+  {
+   "path": "characters/sprites/Character_Kiyiya.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1312002,
+   "sha256": "6ecfbf5e2704060676b390eaa78fb35f2ed344841d91aebeec5e2525c00a3d1f"
+  },
+  {
+   "path": "characters/sprites/Character_Konduit.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1244844,
+   "sha256": "c087c3345e86d12d82ae592a785a47d5e763977dee6eb7813fb437d2197742ab"
+  },
+  {
+   "path": "characters/sprites/Character_Kurtz.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1183336,
+   "sha256": "3f760d1a365f390889c350352711c68edca50f903df668dd4d9ce77e3f46159d"
+  },
+  {
+   "path": "characters/sprites/Character_Larry.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1055831,
+   "sha256": "f886cd1d348aabb40038885a3b8c908cb82643f601d7d712ce531be666d03bdb"
+  },
+  {
+   "path": "characters/sprites/Character_Lau.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1349473,
+   "sha256": "8b291d8ad68b2f73cf6369d9133eab0ec83de74ce4267ac0ada27889ff91a27a"
+  },
+  {
+   "path": "characters/sprites/Character_Letty.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1199655,
+   "sha256": "3a81d7635af1bc1f4c4acd24558e901d2c0242fe05cf414ac0dc2b96af2cf642"
+  },
+  {
+   "path": "characters/sprites/Character_Lia.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 373093,
+   "sha256": "34ef1f709f5781641e7766aae107f61c38116e4fcf854c1ceb3bf91957a88a50"
+  },
+  {
+   "path": "characters/sprites/Character_Mark.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 860595,
+   "sha256": "fbb41bde8cfb17a722d19c74727af9af19eff231d2e129126c17e664166075d2"
+  },
+  {
+   "path": "characters/sprites/Character_Noro.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 788291,
+   "sha256": "af75de2f66198285f7be90b9e5c1fc91b7d5d742e2c4a59156163c37312ad737"
+  },
+  {
+   "path": "characters/sprites/Character_Petah.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1200301,
+   "sha256": "9dceed492d04c28ddab4bbace7403d4a1f2ef53e80c6754af9da09703daab1b3"
+  },
+  {
+   "path": "characters/sprites/Character_Priest.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1567282,
+   "sha256": "b1b43e8e3c78309b35a608ecbd7507b8ac6f92eb6b20102c00399c86b0c366e7"
+  },
+  {
+   "path": "characters/sprites/Character_Ramsey.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1021661,
+   "sha256": "6ce629eae6b9bf9c6ea2b1e6be199918269f654b82adcdc1a04740729cb9788a"
+  },
+  {
+   "path": "characters/sprites/Character_Rico.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1344199,
+   "sha256": "4ee0eb2e8843a48f0583dddfe8abd1777b228c9bdc27b56b48fdf3ca10069178"
+  },
+  {
+   "path": "characters/sprites/Character_Roman.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 763700,
+   "sha256": "5741311074d2f5ad1413d619698549e0d163a2145c8003f6006e604c7109c0be"
+  },
+  {
+   "path": "characters/sprites/Character_Ruby.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1368313,
+   "sha256": "c6cec69f7e62f2aa6884e3ddde2df55a9ac3bbc0b59578a5d6ee208d0dab6764"
+  },
+  {
+   "path": "characters/sprites/Character_Shana.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1033505,
+   "sha256": "9dbf5763b074f1e6ebe72958cbb1b91e167b22b372f22dcab077ef492b279d22"
+  },
+  {
+   "path": "characters/sprites/Character_Shaw.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 970613,
+   "sha256": "39a0a0eaf06a202773d14bd704c1d465fd6a6ab8a84e50bc6fb4e0f68c4e68ac"
+  },
+  {
+   "path": "characters/sprites/Character_Shiftspin_Sneak.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 946000,
+   "sha256": "de67990cba3d7aab036ce0040514c16ff338f8df9d36052d387bfafed2c2d239"
+  },
+  {
+   "path": "characters/sprites/Character_Sneak.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 990937,
+   "sha256": "9e834c3300f1d914f91e618e05a432e2a10ebcaa61ef6473cc52a660738e121d"
+  },
+  {
+   "path": "characters/sprites/Character_Summer.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1156850,
+   "sha256": "f131f8b0ca8a3594e5a04da6a287e6860e25d741fa4c43b89867f6f8608f514b"
+  },
+  {
+   "path": "characters/sprites/Character_T4_Ashleigh.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1182466,
+   "sha256": "2bce9fb5cce23f450d5924b79fb4c98c57712124848e88efd3d70a78d3e1c460"
+  },
+  {
+   "path": "characters/sprites/Character_T5_Victor.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1323837,
+   "sha256": "78ca78c2d3b0afa996a81cb43a3334f8b6c1415c6f61d0b86228ea79bc1640ab"
+  },
+  {
+   "path": "characters/sprites/Character_Tej.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 696298,
+   "sha256": "d02cd65234554579ef6f958feb28d010888bbe5d905889f4f8af4881fb699c07"
+  },
+  {
+   "path": "characters/sprites/Character_Thunder.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1217355,
+   "sha256": "af0b56e5c16b9412c9bb73e99571a3576832b6f41cc3b97911025dcf25ec02e3"
+  },
+  {
+   "path": "characters/sprites/Character_Tina.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1208415,
+   "sha256": "8cfbf4a0f541507965fe310c90feeae14e36fb753fc5b9c02c4aed80168379bb"
+  },
+  {
+   "path": "characters/sprites/Character_Tyler.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1284444,
+   "sha256": "c8d4a971bef09920d808cc71c1918bd6b61a50cb46859537848ef2a803a612b2"
+  },
+  {
+   "path": "characters/sprites/Character_Victor.png",
+   "kind": "character_sprite",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_characters_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1202692,
+   "sha256": "f26e776e8e858c0e3da55b8442ee98e2fd8cd9c8e4202b53e44290367e60b514"
+  },
+  {
    "path": "snapshots/AMC/AMC_RingbrothersJavelinDefiant_1972.png",
    "kind": "car_snapshot",
    "crdb": "AMC_RingbrothersJavelinDefiant_1972",

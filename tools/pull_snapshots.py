@@ -35,7 +35,15 @@ def load_manifest():
     return {"repo": "Kustomz/asset-image-dump", "assets": []}
 
 
+KIND_DIRS = {"DEFAULT": "snapshots", "GACHA": "snapshots-gacha",
+             "PRIZE": "snapshots-prize", "DEFAULT_REVERSED": "snapshots-reversed"}
+
+
 def main(argv):
+    kind = "DEFAULT"
+    if argv and argv[0] == "--kind":
+        kind = argv[1].upper()
+        argv = argv[2:]
     kinds = json.load(open(MANIFEST_SRC))["cars"]
     if argv == ["--all"]:
         want = sorted(kinds.keys())
@@ -49,13 +57,14 @@ def main(argv):
     added, skipped, failed = 0, 0, []
     for crdb in want:
         entry = kinds.get(crdb)
-        if not entry or "DEFAULT_url" not in entry:
-            failed.append((crdb, "not in SnapshotCDN manifest"))
+        url_key = f"{kind}_url"
+        if not entry or url_key not in entry:
+            failed.append((crdb, f"no {kind} snapshot in manifest"))
             continue
-        path = f"snapshots/{crdb.split(chr(95))[0]}/{crdb}.png"
+        path = f"{KIND_DIRS[kind]}/{crdb.split(chr(95))[0]}/{crdb}.png"
         dest = os.path.join(REPO, path)
         os.makedirs(os.path.dirname(dest), exist_ok=True)
-        r = requests.get(entry["DEFAULT_url"], timeout=30)
+        r = requests.get(entry[url_key], timeout=30)
         if r.status_code != 200:
             failed.append((crdb, f"HTTP {r.status_code}"))
             continue
@@ -66,7 +75,7 @@ def main(argv):
         with open(dest, "wb") as fh:
             fh.write(r.content)
         by_path[path] = {
-            "path": path, "kind": "car_snapshot", "crdb": crdb,
+            "path": path, "kind": f"car_snapshot_{kind.lower()}", "crdb": crdb,
             "source": "Kustomz Imports — SnapshotCDN manifest (DEFAULT), Zynga snapshot CDN",
             "pulled": str(date.today()), "bytes": len(r.content), "sha256": sha,
         }
@@ -74,7 +83,7 @@ def main(argv):
     man["assets"] = sorted(by_path.values(), key=lambda a: a["path"])
     json.dump(man, open(MANIFEST, "w"), indent=1)
     with open(PULL_LOG, "a") as fh:
-        fh.write(f"{date.today()} snapshots: +{added} new/changed, {skipped} unchanged, "
+        fh.write(f"{date.today()} snapshots[{kind}]: +{added} new/changed, {skipped} unchanged, "
                  f"{len(failed)} failed {failed if failed else ''}\n")
     print(f"done: +{added} new/changed, {skipped} unchanged, {len(failed)} failed")
     for crdb, why in failed:

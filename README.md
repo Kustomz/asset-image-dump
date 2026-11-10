@@ -3,6 +3,12 @@
 The Kustomz store for CSR2 game-asset images — car snapshots, UI/reward
 icons, and event/news panels — maintained as the game updates.
 
+## Scope
+
+**CDN-sourced images only.** If an image can be pulled from the game's
+CDN lines (snapshot CDN, asset bundles), it belongs here. The installed
+game's APK/OBB files are **not** a source for this repo.
+
 ## Rules of the house
 
 - **Imports only.** Every asset in this repo entered through a logged
@@ -22,6 +28,8 @@ icons, and event/news panels — maintained as the game updates.
 | `snapshots/` | Official car snapshot renders, one PNG per CRDB, sharded by manufacturer (`snapshots/<Make>/<CRDB>.png`). |
 | `icons/`     | Game UI icons — currency, keys, fusions, reward art.            |
 | `panels/`    | Event / news panels and other large-format game art.            |
+| `characters/` | Character art — full textures plus cut-out sprites (`sprites/`). |
+| `snapshots-gacha/`, `snapshots-prize/`, `snapshots-reversed/` | The other official snapshot kinds, same per-make sharding. |
 | `tools/`     | The pull scripts that feed this repo.                           |
 
 ## Adding snapshots
