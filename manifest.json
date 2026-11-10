@@ -25803,6 +25803,39 @@
    "sha256": "f79a20d772bc20076c1b9962eda22379f51d2b0cf48c49d0bb035424b2e00489"
   },
   {
+   "path": "snapshots-pregen-crops/Audi_RS6AvantRewardRecycled_2020.png",
+   "kind": "pregen_crop",
+   "family": "assets_csr2ui_events_common",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction | PreGen tighter crop from the UI bundle; Rick-designated listing-preferred framing for this car (2026-11-10); canonical snapshot remains in snapshots/",
+   "pulled": "2026-11-10",
+   "bytes": 140855,
+   "sha256": "62d81e4733aa1d34d7f5f0a7a5cef802e734c1ab5a676bfc7c4c2bb17e145b5a",
+   "crdb": "Audi_RS6AvantRewardRecycled_2020",
+   "listing_preferred": true
+  },
+  {
+   "path": "snapshots-pregen-crops/Audi_RS6AvantReward_2020.png",
+   "kind": "pregen_crop",
+   "family": "assets_csr2ui_events_common",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction | PreGen tighter crop from the UI bundle; Rick-designated listing-preferred framing for this car (2026-11-10); canonical snapshot remains in snapshots/",
+   "pulled": "2026-11-10",
+   "bytes": 138887,
+   "sha256": "62e1b3771fed64072c49987083ee265545aa02a1ca2ef8191f251d36e18086dc",
+   "crdb": "Audi_RS6AvantReward_2020",
+   "listing_preferred": true
+  },
+  {
+   "path": "snapshots-pregen-crops/Bentley_MullinerBacalarRewardRecycled_2021.png",
+   "kind": "pregen_crop",
+   "family": "assets_csr2ui_events_common",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction | PreGen tighter crop from the UI bundle; Rick-designated listing-preferred framing for this car (2026-11-10); canonical snapshot remains in snapshots/",
+   "pulled": "2026-11-10",
+   "bytes": 125315,
+   "sha256": "b1875c50602d3901a45a7d5140ea795412f39cbf335deab2956725c092bfbb0f",
+   "crdb": "Bentley_MullinerBacalarRewardRecycled_2021",
+   "listing_preferred": true
+  },
+  {
    "path": "snapshots-prize/AMC/AMC_RingbrothersJavelinDefiant_1972.png",
    "kind": "car_snapshot_prize",
    "crdb": "AMC_RingbrothersJavelinDefiant_1972",
@@ -99657,213 +99690,6 @@
    "sha256": "c77ad0465c3248d6bae1783843a913d2b422d2c47a965d220d6223a5975c659e"
   },
   {
-   "path": "ui-art/General/PreGenSnapshot_AstonMartin_Valhalla_2020_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 94591,
-   "sha256": "5c3281b959a052013c4dd880e45a6038af00ae31222a5a84d454d86ad774f2c8"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_Audi_LBRS5Coupe_2014_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 128876,
-   "sha256": "32efd589d4771e5ef7e7c9294ce9fc55de43c6a4fc0cbc7e6e33c9c4c8db592d"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_Audi_R8V10Decennium_2019_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 99179,
-   "sha256": "bbabed1a79306b05350bbd7bd6af2c3f418a94390c06386e2bf8fdaee884224b"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_Dodge_ChargerHellcatDaytona50th_2020_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 108652,
-   "sha256": "074b0db560472c152a1a7971f3a39448140ff60781ec528b9d50c3af1e34abc6"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_Ford_GTHeritageEdition_2017_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 115177,
-   "sha256": "acbc8eacee2c7dda2c453ce00d62c38f3c27d42a7dc11ec4d1d8a9a488472d35"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_Lexus_LFA_2011_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 111298,
-   "sha256": "dc2d22520a6264f8fdb8a64ecde405210ec4a4e079c4ccdfe6b42c1978cdc669"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_McLaren_765LT_2021_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 115371,
-   "sha256": "6f2ed30be1582588418b8f25c671bdaa6d78b44158e03c2c8133743a09e0b2b3"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_McLaren_Elva_2021_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 92328,
-   "sha256": "a1f40dd32ea22e8e2e9cbb79031fe8998750d702bc7a3f068d611788fce54776"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_McLaren_SennaCarbon_2018_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 114581,
-   "sha256": "57098427add6a50456cc5a25797233682746dc44371888c184660365f112aa24"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_McLaren_SennaLE_2018_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 115916,
-   "sha256": "62fd4ada29cbde435bd210aa9bc906e1a3a35d73a72136cd8d82cee003c4dbf9"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_McLaren_Senna_2018_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 123222,
-   "sha256": "3eb343748e6613af9be0f8c3077b85d9aca7b8abfed78d38aa0dd283a844dae2"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_Nissan_350ZRocketBunny_2003_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 124100,
-   "sha256": "8973028132bde4c0bb5fdd6fb41db0d609d6bb1b5cc032b629b1127f9e2584d0"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_Nissan_GTRTNR_2017_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT_f-1_ns-1_rn-1_rc-1_rs-1_rz-1_wheel1a_pn0_cn0_et0000000.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 127701,
-   "sha256": "b0cb5a4bdbff724ecd8ac56dccb6ed255946a218c860c8b01f9fab36535e7788"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_Nissan_SilviaS15RocketBunny_1999_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT_f-1_ns-1_rn-1_rc-1_rs-1_rz-1_wheel1a_pn0_cn0.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 120524,
-   "sha256": "b1b1d48735dc280e41beac527ad36eea430ea183814d9d5d3738f2f0651d71f2"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_Nissan_SkylineGTRR34TNR_2002_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT_f-1_ns-1_rn-1_rc-1_rs-1_rz-1_wheel1a_pn0_cn0_et0000000.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 115420,
-   "sha256": "5882089dee2a16eec195962e9ff89f6ebfca8111fd4be2da6694a66bd2a58444"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_Pagani_HuayraBCRoadsterLS_2019_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 151742,
-   "sha256": "4bce0817d978761e29db9d3b587116aed20630e0bcf2417f1162507e2320f859"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_Pagani_HuayraBCRoadsterPB_2019_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 139691,
-   "sha256": "180a9857cc80579253719e173b3587971c290668fa45a977ff71ed0b79e8909e"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_Pagani_Imola_2021_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 132436,
-   "sha256": "da54fd0765dbb5a20907e8f4792da8c9a6aab6b89bb7a31721b8c5571262cfb2"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_Pagani_ZondaBarchetta_2018_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 132973,
-   "sha256": "c8e156de29836c6fd694ddcf14a2d4595daeafa5a75f520604bb84cb33a46520"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_Porsche_718CaymanGT4_2020_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 101461,
-   "sha256": "bdb1beb9e169eff98d7aaaf64973a9daea4f0b3a867afd3616027a4d1260d29b"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_Porsche_911STRII_1972_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 95148,
-   "sha256": "1b6338e916f9ff5818f1240d8945881e1cc62dbf2962d257e314cc0f287794c2"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_Porsche_Canepa959_1988_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 89372,
-   "sha256": "d93b015d4fdf42dbe308752c0b17b8e474b9e5f5d5e301e83b8f4de40c480d8d"
-  },
-  {
-   "path": "ui-art/General/PreGenSnapshot_Porsche_RWB993Rotana_1993_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 106862,
-   "sha256": "b33a3ded462a175e7f23d1740eef2056a951c775b6787dde626e7581ebbebc45"
-  },
-  {
    "path": "ui-art/General/PreLoader.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_common",
@@ -138508,267 +138334,6 @@
    "pulled": "2026-11-10",
    "bytes": 7398,
    "sha256": "cf6e9dcc21f0ca84289f5a976ea3852e1104fb00d77b92726c8981637f08f5e4"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_AstonMartin_DBXRewardRecycled_2019_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 100872,
-   "sha256": "c7630aaade7bef159f983e515baecdc4530ccd07e343f9c9ba4516be8cf4d6ac"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_AstonMartin_One77Reward_2010_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 122550,
-   "sha256": "28d54ce7323c57c8530b605525676931acc47b3592e496e7aebfc421297340d0"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_AstonMartin_VanquishZagatoReward_2017_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 125827,
-   "sha256": "c329118597affb24c3be525f08f4ba8b5dd98b0260b41b9d6db5cec02388b9b1"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_AstonMartin_VulcanReward_2016_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 128588,
-   "sha256": "dc14968e808f6f03bb628af1a6d964ad1f73c4ff0e1d11375b085abf37af3dd7"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Audi_RS6AvantRewardRecycled_2020_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 140855,
-   "sha256": "62d81e4733aa1d34d7f5f0a7a5cef802e734c1ab5a676bfc7c4c2bb17e145b5a"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Audi_RS6AvantReward_2020_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 138887,
-   "sha256": "62e1b3771fed64072c49987083ee265545aa02a1ca2ef8191f251d36e18086dc"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_BMW_VarisM4GTSRewardRecycled_2016_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 133940,
-   "sha256": "5d10550550b353a104037a3e3e6b10895b1ba1f9f45363f0cefe1abfcb5998bf"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Bentley_MullinerBacalarRewardRecycled_2021_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 125315,
-   "sha256": "b1875c50602d3901a45a7d5140ea795412f39cbf335deab2956725c092bfbb0f"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Dodge_ChallengerSRTHellcatRewardRecycled_2015_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 131738,
-   "sha256": "60a6ddb37b7d911da0ef14bdefee427e173901cf6144ab49cda97fdd622481cb"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Honda_LBNSXRewardRecycled_2017_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT_f-1_ns-1_rn-1_rc-1_rs-1_rz-1_wheel1a_pn0_cn0.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 130350,
-   "sha256": "a91e5088579c86620a6174579549eb7e68719a13078ded27c86a528931d69bd1"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Infiniti_Q60ProjectBlackSReward_2018_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 137645,
-   "sha256": "7d51b7b3166d9573576527f9fe92340c0a37b559dc95841c5a2906f47dc601f8"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Lamborghini_LBAventadorLP7004RewardGold_2011_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 111546,
-   "sha256": "ff3df26c10198194fa4ddaa39e179a0a43d342eda1fe2eeb4c9f5c8ebf0494eb"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Lamborghini_LBMurcielagoSVReward_2009_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 113765,
-   "sha256": "3fe4240b469301207e1dbff6ff2b371a2087b91bac2fb1de96aec7cfaf2a4c33"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Lamborghini_LBSilhouetteHuracanRewardRecycled_2014_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT_f-1_ns-1_rn-1_rc-1_rs-1_rz-1_wheel1a_pn0_cn0.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 125606,
-   "sha256": "cac4ae96bd9e8b5d940b977526bf58e467fc1a0281641094ff47efa948ee3b3f"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Lamborghini_LBSilhouetteHuracanReward_2014_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 131231,
-   "sha256": "fb524d62d8ebd8d8053f4c5a07ab8245c57615d970ea6d0063dac3d864b7b90a"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Mazda_RX7RewardRecycled_1993_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT_f-1_ns-1_rn-1_rc-1_rs-1_rz-1_wheel1a_pn0_cn0.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 117697,
-   "sha256": "ec21e9826e165cec688a140d1dd21a7419fade2b0667c31ca789ff30c862a7d6"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_McLaren_600LTSpiderReward_2020_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 106119,
-   "sha256": "848e38e1a23f9fb2812d5c06dcfe48201ca087676e5cd5660db27f0f241b0caf"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_McLaren_GTReward_2020_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 115114,
-   "sha256": "a18adca390d5c10c0215a773aa19d93653b5c8679818ddf50a94d29e00f6811d"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_McLaren_P1GTRReward_2015_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 122107,
-   "sha256": "688887ecbda70b14234abbc5e78331871a9705c99e14cf273077f400000ee882"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Nissan_GTR50RewardRecycled_2020_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 124415,
-   "sha256": "f2776252b13dfc9756ad9cd541ad168929b5c3e009ce5e3c91083753c75ab36d"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Nissan_GTR50Reward_2020_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 130737,
-   "sha256": "2079f541d692cd28257366f93539d73a9b5cdea531db4c756e5e96c3c339d0ff"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Nissan_GTRNismoNRewardRecycled_2017_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 132990,
-   "sha256": "ca81a3694ae85e05842524d91d4ee4c4e986d2e2e105f164d58a1fd939f6e865"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Pagani_HuayraBCReward_2016_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 136943,
-   "sha256": "ad358ad9b1176318be55faaa7c655ab45d87cba2394aeb6e075c2cd8041531e1"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Plymouth_WeaverCustomsCudaTorcReward4thJuly_2016_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 95099,
-   "sha256": "ad855fadb82107a30cded7ad04f28928d34650594c0b324459408b2f658b8438"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Porsche_911Carrera4SCabrioletReward_2020_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 99983,
-   "sha256": "f8080f380f55f2cd866392ffc00f979e02b63c44c2e4d8d1bbf6e221bc5039d1"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Porsche_911GT3RSRewardRecycled_2018_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 117767,
-   "sha256": "57f2285f5ec0de9d0e647c8f890d88f4d87ef1bc7c9fb5acfce4a79c20721e4d"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Porsche_911RRewardRecycled_2017_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT_f-1_ns-1_rn-1_rc-1_rs-1_rz-1_wheel1a_pn0_cn0.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 106138,
-   "sha256": "bfe6a6f245acf43efd37ebbe8c6912b1eb5397e71ca155c9bf665c6d16b7edbc"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Porsche_RWB993Reward_1993_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 120013,
-   "sha256": "1deaa155020c1678981b5788be14985dbcab4b16e8ab8455deed18e3459476c6"
-  },
-  {
-   "path": "ui-art/Rewards/PreGenSnapshot_Shelby_SuperSnakeRewardRecycled_2019_p0_i-2147483648_c-2147483648_s512_n_lz-2147483648_l-2147483648_mDEFAULT_f-1_ns-1_rn-1_rc-1_rs-1_rz-1_wheel1a_pn0_cn0.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 129205,
-   "sha256": "b729d278a9acc2f3abe0fa2104f2302d92bf0b9e5a3df8276647859be16235b4"
   },
   {
    "path": "ui-art/Rewards/Prizes_SplashArtwork.png",

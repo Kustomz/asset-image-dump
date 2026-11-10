@@ -57,7 +57,7 @@ def main():
 
     # 5. layout: no loose images at root, no image outside a known tree
     KNOWN = ("snapshots/", "snapshots-gacha/", "snapshots-prize/",
-             "snapshots-reversed/", "characters/", "backgrounds/", "icons/", "ui-art/",
+             "snapshots-reversed/", "snapshots-pregen-crops/", "characters/", "backgrounds/", "icons/", "ui-art/",
              "panels/")
     for rel in on_disk:
         if "/" not in rel:
