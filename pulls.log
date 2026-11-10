@@ -11,3 +11,4 @@
 2026-11-10 reorg: 21 background textures moved characters/ -> backgrounds/ (Rick's call); manifest paths updated, kind set to 'background'.
 2026-11-10 icons: 1,466 registered (1279 car icons, 187 manufacturer logos) from the 6.9.0 full-set *_icon bundles (db 34649, High).
 2026-11-10 ui-art landing [Collections,Legends]: +2087 files, 1076 already-in-repo dupes skipped, 0 cross-family dupes skipped, 119 name collisions suffixed.
+2026-11-10 ui-art landing [EliteTuners,RacePass]: +1002 files, 294 already-in-repo dupes skipped, 0 cross-family dupes skipped, 9 name collisions suffixed.
