@@ -5,9 +5,14 @@ icons, and event/news panels — maintained as the game updates.
 
 ## Scope
 
-**CDN-sourced images only.** If an image can be pulled from the game's
-CDN lines (snapshot CDN, asset bundles), it belongs here. The installed
-game's APK/OBB files are **not** a source for this repo.
+Images land here in source order:
+
+1. **CDN first** — the snapshot CDN and the CDN asset bundles
+   (Kustomz Imports pulls).
+2. **Then APK/OBB extraction** — art that never rides the CDN comes out
+   of the archived game files (Drive `csr2` folder) in a later pass.
+
+Both sources belong in this repo; the CDN pass simply goes first.
 
 ## Rules of the house
 
