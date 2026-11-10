@@ -30,7 +30,7 @@ Both sources belong in this repo; the CDN pass simply goes first.
 
 | Folder       | Contents                                                        |
 |--------------|-----------------------------------------------------------------|
-| `snapshots/` | Official car snapshot renders, one PNG per CRDB, sharded by manufacturer (`snapshots/<Make>/<CRDB>.png`). |
+| `snapshots/` | Official car snapshot renders, one PNG per CRDB, sharded by manufacturer (`snapshots/<Make>/<CRDB>.png`). Exception (Rick, 2026-11-10): for `Audi_RS6AvantReward_2020`, `Audi_RS6AvantRewardRecycled_2020` and `Bentley_MullinerBacalarRewardRecycled_2021` the file is the PreGen tighter crop from the UI bundle — his listing-preferred framing, labelled in the manifest; `pull_snapshots.py` will not overwrite those three. |
 | `icons/`     | Game UI icons — currency, keys, fusions, reward art.            |
 | `panels/`    | Event / news panels and other large-format game art.            |
 | `characters/` | Character art — full textures plus cut-out sprites (`sprites/`). |

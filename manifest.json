@@ -25803,39 +25803,6 @@
    "sha256": "f79a20d772bc20076c1b9962eda22379f51d2b0cf48c49d0bb035424b2e00489"
   },
   {
-   "path": "snapshots-pregen-crops/Audi_RS6AvantRewardRecycled_2020.png",
-   "kind": "pregen_crop",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction | PreGen tighter crop from the UI bundle; Rick-designated listing-preferred framing for this car (2026-11-10); canonical snapshot remains in snapshots/",
-   "pulled": "2026-11-10",
-   "bytes": 140855,
-   "sha256": "62d81e4733aa1d34d7f5f0a7a5cef802e734c1ab5a676bfc7c4c2bb17e145b5a",
-   "crdb": "Audi_RS6AvantRewardRecycled_2020",
-   "listing_preferred": true
-  },
-  {
-   "path": "snapshots-pregen-crops/Audi_RS6AvantReward_2020.png",
-   "kind": "pregen_crop",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction | PreGen tighter crop from the UI bundle; Rick-designated listing-preferred framing for this car (2026-11-10); canonical snapshot remains in snapshots/",
-   "pulled": "2026-11-10",
-   "bytes": 138887,
-   "sha256": "62e1b3771fed64072c49987083ee265545aa02a1ca2ef8191f251d36e18086dc",
-   "crdb": "Audi_RS6AvantReward_2020",
-   "listing_preferred": true
-  },
-  {
-   "path": "snapshots-pregen-crops/Bentley_MullinerBacalarRewardRecycled_2021.png",
-   "kind": "pregen_crop",
-   "family": "assets_csr2ui_events_common",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_common_resources (db 34649, High), UnityPy extraction | PreGen tighter crop from the UI bundle; Rick-designated listing-preferred framing for this car (2026-11-10); canonical snapshot remains in snapshots/",
-   "pulled": "2026-11-10",
-   "bytes": 125315,
-   "sha256": "b1875c50602d3901a45a7d5140ea795412f39cbf335deab2956725c092bfbb0f",
-   "crdb": "Bentley_MullinerBacalarRewardRecycled_2021",
-   "listing_preferred": true
-  },
-  {
    "path": "snapshots-prize/AMC/AMC_RingbrothersJavelinDefiant_1972.png",
    "kind": "car_snapshot_prize",
    "crdb": "AMC_RingbrothersJavelinDefiant_1972",
@@ -45315,19 +45282,23 @@
    "path": "snapshots/Audi/Audi_RS6AvantRewardRecycled_2020.png",
    "kind": "car_snapshot",
    "crdb": "Audi_RS6AvantRewardRecycled_2020",
-   "source": "Kustomz Imports \u2014 SnapshotCDN manifest (DEFAULT), Zynga snapshot CDN",
+   "source": "PreGen tighter crop \u2014 Kustomz Imports, CDN bundle assets_csr2ui_events_common (db 34649, High), UnityPy extraction | REPLACES the SnapshotCDN DEFAULT framing for this car at Rick's direction (2026-11-10): tighter crop, listing-preferred. Other snapshot kinds unaffected.",
    "pulled": "2026-11-10",
-   "bytes": 131464,
-   "sha256": "2835a399eef21b604ba90d59be8bd73970b089e54fd6c620349b2ec0180c0ddf"
+   "bytes": 140855,
+   "sha256": "62d81e4733aa1d34d7f5f0a7a5cef802e734c1ab5a676bfc7c4c2bb17e145b5a",
+   "framing": "pregen_crop",
+   "listing_preferred": true
   },
   {
    "path": "snapshots/Audi/Audi_RS6AvantReward_2020.png",
    "kind": "car_snapshot",
    "crdb": "Audi_RS6AvantReward_2020",
-   "source": "Kustomz Imports \u2014 SnapshotCDN manifest (DEFAULT), Zynga snapshot CDN",
+   "source": "PreGen tighter crop \u2014 Kustomz Imports, CDN bundle assets_csr2ui_events_common (db 34649, High), UnityPy extraction | REPLACES the SnapshotCDN DEFAULT framing for this car at Rick's direction (2026-11-10): tighter crop, listing-preferred. Other snapshot kinds unaffected.",
    "pulled": "2026-11-10",
-   "bytes": 136181,
-   "sha256": "3e52fc38f8b9fdf34928f89dc0e52d8d89565bfbea2f00027d761553dcfc4471"
+   "bytes": 138887,
+   "sha256": "62e1b3771fed64072c49987083ee265545aa02a1ca2ef8191f251d36e18086dc",
+   "framing": "pregen_crop",
+   "listing_preferred": true
   },
   {
    "path": "snapshots/Audi/Audi_RS7SportbackRewardRecycled_2020.png",
@@ -46161,10 +46132,12 @@
    "path": "snapshots/Bentley/Bentley_MullinerBacalarRewardRecycled_2021.png",
    "kind": "car_snapshot",
    "crdb": "Bentley_MullinerBacalarRewardRecycled_2021",
-   "source": "Kustomz Imports \u2014 SnapshotCDN manifest (DEFAULT), Zynga snapshot CDN",
+   "source": "PreGen tighter crop \u2014 Kustomz Imports, CDN bundle assets_csr2ui_events_common (db 34649, High), UnityPy extraction | REPLACES the SnapshotCDN DEFAULT framing for this car at Rick's direction (2026-11-10): tighter crop, listing-preferred. Other snapshot kinds unaffected.",
    "pulled": "2026-11-10",
-   "bytes": 110240,
-   "sha256": "565ce70cf39b0d0c43af2191b07c9006e3949fe8f3439f968ae4057a7d952f7c"
+   "bytes": 125315,
+   "sha256": "b1875c50602d3901a45a7d5140ea795412f39cbf335deab2956725c092bfbb0f",
+   "framing": "pregen_crop",
+   "listing_preferred": true
   },
   {
    "path": "snapshots/Bentley/Bentley_MullinerBacalarReward_2021.png",

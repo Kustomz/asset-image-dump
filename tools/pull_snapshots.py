@@ -39,6 +39,10 @@ KIND_DIRS = {"DEFAULT": "snapshots", "GACHA": "snapshots-gacha",
              "PRIZE": "snapshots-prize", "DEFAULT_REVERSED": "snapshots-reversed"}
 
 
+PREGEN_CROP_CARS = {"Audi_RS6AvantReward_2020", "Audi_RS6AvantRewardRecycled_2020",
+                    "Bentley_MullinerBacalarRewardRecycled_2021"}
+
+
 def main(argv):
     kind = "DEFAULT"
     if argv and argv[0] == "--kind":
@@ -62,6 +66,14 @@ def main(argv):
             failed.append((crdb, f"no {kind} snapshot in manifest"))
             continue
         path = f"{KIND_DIRS[kind]}/{crdb.split(chr(95))[0]}/{crdb}.png"
+        # Rick (2026-11-10): these three cars' snapshots/ files are the PreGen
+        # tighter crops by his decision (listing-preferred framing). A DEFAULT
+        # re-pull must not clobber them while the crop is intact on disk.
+        if kind == "DEFAULT" and crdb in PREGEN_CROP_CARS and path in by_path and os.path.exists(dest):
+            import hashlib as _h
+            if _h.sha256(open(dest, "rb").read()).hexdigest() == by_path[path]["sha256"]:
+                skipped += 1
+                continue
         dest = os.path.join(REPO, path)
         os.makedirs(os.path.dirname(dest), exist_ok=True)
         # fast path: registered + present at the recorded size -> no download
