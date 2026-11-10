@@ -91422,6 +91422,195 @@
    "sha256": "c900302b6a4285e57f9aece08c0069e35b5c4246b6af14a8f25cf396c1b54f7c"
   },
   {
+   "path": "ui-art/FNF/ArtisticSnapshot_Dodge_ChargerRTF1_1970.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 162358,
+   "sha256": "7563fb1d76a60e3491e8d97d9dc7a2f2ecf778b21a10552b8ae47c0c7d767f75"
+  },
+  {
+   "path": "ui-art/FNF/ArtisticSnapshot_Dodge_ChargerRTF8_1970.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 124168,
+   "sha256": "94f788c24807308463a5203ef4605050ad186ca7613d7e2c38bd3867347d9e8d"
+  },
+  {
+   "path": "ui-art/FNF/Bentley_ContinentalGTV8SF8_2014.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 143749,
+   "sha256": "358ec675d19b499a3e37f9a6d1c3dafa175fd11389875f67d52be4cdd9b9e28f"
+  },
+  {
+   "path": "ui-art/FNF/CharacterGachaFaF.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1025968,
+   "sha256": "cccc913d763194823270cd8bba82e9c55179754b58f5253ed03270d3042f703c"
+  },
+  {
+   "path": "ui-art/FNF/Chevrolet_CorvetteStingRayC2F8_1966.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 110976,
+   "sha256": "978de3ea463b3c496d8f8283942feeb8bdf1a150e13175d15334bbf6da7c53d9"
+  },
+  {
+   "path": "ui-art/FNF/Chevrolet_CorvetteZR1SH1_2018_Animated.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 108988,
+   "sha256": "4f25a29bdad9068c692c16b2fa4f8c23913a43d6fc88fb426031d5f8f4cb9b4c"
+  },
+  {
+   "path": "ui-art/FNF/Chevrolet_FlipCar_2013.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 82615,
+   "sha256": "ff5f42f0d45a75133c0c59eb36401be608834b4dc1008d2f5a5a49727b852698"
+  },
+  {
+   "path": "ui-art/FNF/Chevrolet_FlipCar_2013_alt.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 63495,
+   "sha256": "58ca5977f61c5d96a93b05bed3740aa54a494c424146e1cd1b8f8e322eb56857"
+  },
+  {
+   "path": "ui-art/FNF/DOCKS_F&F.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 24550,
+   "sha256": "6a4e37d680c486b361e913da8df68799f8b97c14a7ed426795b116a21a2c45a6"
+  },
+  {
+   "path": "ui-art/FNF/Dodge_ChallengerSRTDemonF8_2018.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 134011,
+   "sha256": "1e0eee74fc3764c4d11a24cb785ae6a09645b0af8c2dad44ad4774ec7a1c5614"
+  },
+  {
+   "path": "ui-art/FNF/Dodge_ChargerRTF1_1970.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 162329,
+   "sha256": "d4198fc2d4f77da2115be04a587917a8bab471d24ee7c33efabb10dcafd4932c"
+  },
+  {
+   "path": "ui-art/FNF/Dodge_ChargerRTF1_1970_alt.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 209205,
+   "sha256": "091858a0fdfe3f639d477cda7a0b93a579fac9a7434da5239615fb239ff5b599"
+  },
+  {
+   "path": "ui-art/FNF/Dodge_ChargerRTF1_1970_small.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 18514,
+   "sha256": "b0a9cfca4103e031d3cf549e468d1091f350c8ba4c20f6093bea99c39e416d11"
+  },
+  {
+   "path": "ui-art/FNF/Dodge_ChargerRTF8_1970.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 124404,
+   "sha256": "95a3ce69c27905c9dcbfda22049a9cd60cec8036c5f4a507bd507c20ef61a665"
+  },
+  {
+   "path": "ui-art/FNF/Dodge_ChargerRTF8_1970_alt.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 200081,
+   "sha256": "90a85200c0ff9aaff8931d1371ec2d2964e9e663b11dd5c805a1e8e5ef569356"
+  },
+  {
+   "path": "ui-art/FNF/Dodge_ChargerRTF8_1970_small.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 13031,
+   "sha256": "f475ee28935eb233a0d4ccda46f776ebe7bd01920a49a53cbc0298ff6331a1d8"
+  },
+  {
+   "path": "ui-art/FNF/F&F_2020_ADback.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 51209,
+   "sha256": "485210978f86555c935d13b51aa254b507f689e9408456f0a90ad8c3fd1a279b"
+  },
+  {
+   "path": "ui-art/FNF/F&F_2020_Event1BG.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 361633,
+   "sha256": "1e3fc2ad09d33823671abdc01eaa371f169616d649eb59612aa3a6658ce598f7"
+  },
+  {
+   "path": "ui-art/FNF/F&F_2020_Event2BG.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 251422,
+   "sha256": "c31e38311530acd082ae7049635083a7d31fe076af6e8532337f9c9c8c00b5fe"
+  },
+  {
+   "path": "ui-art/FNF/F&F_2020_Event3BG.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 229323,
+   "sha256": "611f2da00801795418fe910d8fc8ea994cc5a78e82347079e7e2bdc517919d6f"
+  },
+  {
+   "path": "ui-art/FNF/F&F_2020_ShareLogoSquare.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 66460,
+   "sha256": "90889c5fde86a79a15c878813cd60134bf2be30b2f474d646d05c64a08174b80"
+  },
+  {
    "path": "ui-art/FNF/FNF25Years_2026_Logo.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_fnf_common_2026",
@@ -92709,6 +92898,888 @@
    "sha256": "52979789b154f0d12563cb5da8e8bf588fc63afb7caf3023e79827a74f575d60"
   },
   {
+   "path": "ui-art/FNF/FaFBadge.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 20366,
+   "sha256": "5ec27fc64030f58cc0cc195cf3f1b750adbf250604d772efdfbd6942d19b469a"
+  },
+  {
+   "path": "ui-art/FNF/FaFBadge__3549126635904797339.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 81346,
+   "sha256": "2788ae3864346a3aba8c7587704174bb68df3445ca8ce0242102ec02e049de42"
+  },
+  {
+   "path": "ui-art/FNF/FaFCrate.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 179849,
+   "sha256": "d8af34be16e0d55f4554ebe5cb762c1f0e7acc7632f8f518474eb538365ebe4b"
+  },
+  {
+   "path": "ui-art/FNF/FaFLegacyBadge.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 68302,
+   "sha256": "b4dc434d5245bebd747e6e5eb2279490899a4283ef50b276368f2dc0ff989c08"
+  },
+  {
+   "path": "ui-art/FNF/FaFLegacy_Event1_NewsA.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 988878,
+   "sha256": "6099ed83fb7018ed972ecb50616e0ed99a52c7105848aa815b560625982bdf80"
+  },
+  {
+   "path": "ui-art/FNF/FaFLegacy_Event1_NewsB.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1111621,
+   "sha256": "10853dc5241cb7cf02f8c8b0091b807199f78c78d9284c4ae4fe44d5699a644a"
+  },
+  {
+   "path": "ui-art/FNF/FaFLegacy_Event2_NewsA.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 953543,
+   "sha256": "1596773abc669ac7c7be473ba1b97098508e9d538131e81a26b6b68ef6e33c00"
+  },
+  {
+   "path": "ui-art/FNF/FaFLegacy_Event2_NewsB.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 924928,
+   "sha256": "2f18a56cef479f2c0b1202151815a4b65c440d90c76aadd0ddc420a000b625a4"
+  },
+  {
+   "path": "ui-art/FNF/FaFLegacy_Event3_NewsA.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 957569,
+   "sha256": "679ba910435e85df7c1bb755773ce782d615e660938134882448098c7168de0a"
+  },
+  {
+   "path": "ui-art/FNF/FaFLegacy_Event3_NewsB.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1092567,
+   "sha256": "f43937af63757b65f2fbd073159f332e6120bad9b5a0875c027cc18eb104ada7"
+  },
+  {
+   "path": "ui-art/FNF/FaFLegacy_Event4_NewsA.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1010618,
+   "sha256": "5a2fbc6853beb6a07b68324df983e3d3b260c034f3659cf20621506c4e037e11"
+  },
+  {
+   "path": "ui-art/FNF/FaFLegacy_Event4_NewsB.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1133265,
+   "sha256": "3fe4d6143262bb7902beba5df5570e04acc1d1e098f10d83fc3cc6c61c650796"
+  },
+  {
+   "path": "ui-art/FNF/FaFLegacy_FinaleCars.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 239848,
+   "sha256": "f7c7d1cb938d09d72eda0545d65ec642143393ae473d658cc7952b3eed8e8835"
+  },
+  {
+   "path": "ui-art/FNF/FaFLegacy_Hattie.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 734970,
+   "sha256": "b933f76c42aadaf26f574b9db0e2399e53a8c79792e46ca8eaa2137ef3915374"
+  },
+  {
+   "path": "ui-art/FNF/FaFLegacy_Hobbs.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 486706,
+   "sha256": "b1dc36da6e15dbdc9f00a061ffe10508dc800d080eadcad210a99e19c71dc1bb"
+  },
+  {
+   "path": "ui-art/FNF/FaFLegacy_PrologueA.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 965599,
+   "sha256": "d63f23968c9585fd54be56b0fcfa77f11618b09de5ca0b9bb0c843932f9d3f28"
+  },
+  {
+   "path": "ui-art/FNF/FaFLegacy_PrologueB.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 484396,
+   "sha256": "b94bfde769f21bfdfc92254858daa974cb4475d2518142443d1f8e1120960d01"
+  },
+  {
+   "path": "ui-art/FNF/FaFLegacy_Shaw.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 580566,
+   "sha256": "f2dacabf450910a567542a141cf1d2e34fe3dc2f970275826e13222a8b709c3d"
+  },
+  {
+   "path": "ui-art/FNF/FaFLegacy_ToyotaSupraCupCar.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 164017,
+   "sha256": "2ce128e3d5184401f35dbb48d21c1cbab3e8844dbd82e8f577176af237324521"
+  },
+  {
+   "path": "ui-art/FNF/FaF_2020GachaPopUpBackground.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 325003,
+   "sha256": "38f756fe4b86d801b6172d6d1b7edeb014bffcd8051be31fa184a3477f98080e"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Event2_NewsA.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 841503,
+   "sha256": "646710620cc040a52b4bfed236da17acac062f902e1b9cc613262db876b70e53"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Event2_NewsB.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 404133,
+   "sha256": "93479f5cf89d53721ae32c6b3d04d7bc7eb34469f3d70fcbd85b602f08650268"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Event3_NewsA.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1125369,
+   "sha256": "e46bed35154f071f4007cb187ff7fe97b914eb9e68521ece8143f032de60493b"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Event3_NewsB.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 341695,
+   "sha256": "b4b0144b2dd79c301bab7c76db0e27a67a559669df8828db9798ca4c3e01cb45"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Event4_NewsA.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 892738,
+   "sha256": "6872fa74fee1b0855fae2e4bb711fc405866d56f7d1d276f14f57910e7d9189e"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Event4_NewsB.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1270231,
+   "sha256": "b4e549910a172ce97586bb18534d2f08c73278e9cc9d60dde7890dc286e9e59d"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Event5_NewsA.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1167890,
+   "sha256": "cdf70c9abab9a2aefc9b778e9db7c8467dac4fdc73ca3439c31fc7efb8a24d42"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Event5_NewsB.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1145286,
+   "sha256": "8baca72d14b72794900478dfdfcde32d9d3dcd10ebed5aff5d869f98f293481d"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Event6_NewsA.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1050393,
+   "sha256": "11ef8a3d3ea7d9a1716e4e7033f0140d0496b49ffefffd4a5a13915234175cfa"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Event6_NewsB.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 1188010,
+   "sha256": "ad67f7aab845d9fef5a565276f16c110b78f1dc8da9acc542fb762495e5a74b0"
+  },
+  {
+   "path": "ui-art/FNF/FaF_EventPanel.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 48230,
+   "sha256": "01bd9baa51356ce46b427ddc9ea69cc98eb5940bff2985824823ffbb3e89ed4d"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Event_01.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 206331,
+   "sha256": "854d3738a8ef6ba4d4c096c7ce476327a638acbe428cc990491525c5818f1928"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Event_02.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 227643,
+   "sha256": "130f0b8623ae9b18e124e435904229c9cb682bd1f680e54653c60797904d4fc1"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Event_Finale2020.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 296138,
+   "sha256": "33fd29b27604ae1c43c7e79129415748adda8aacfc83a9e36ad3f2ab6c9d8162"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Event_Finale2020_pin.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 35117,
+   "sha256": "c4d5c5754c8cfdf57f9041174cb2446b1dd0f7de9883e55d23c5fc15910fd8f8"
+  },
+  {
+   "path": "ui-art/FNF/FaF_FinaleCars.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 240831,
+   "sha256": "f9dff42f9edf7fb73ce8ed1ca67fc858bbbcfe5ec2efa16db35a9bf61ad493bd"
+  },
+  {
+   "path": "ui-art/FNF/FaF_FinaleCars_02.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 216408,
+   "sha256": "2dad56c7ab21bd649523f9349ec68a0e5571f80b22bd3829cc11083dbc689b6d"
+  },
+  {
+   "path": "ui-art/FNF/FaF_FinaleCars_03.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 240546,
+   "sha256": "1d76bb86a2fc9f0bec4a7f7a0d577641427e6a2df9bc3053c84e7527e89dfcd5"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Hobbs.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 618898,
+   "sha256": "b96946ac55a9574263e7d77cebebedb788db9166daf604b38ec25d45b2a8c9f6"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Letty.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 662452,
+   "sha256": "73c3e3fc0757d62cfdf3e9edcbd0c4cc43e8e6bcb8d09d08e014235f63cfca47"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Logo.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 82718,
+   "sha256": "eb85aa17a63d6f13d5e6531e7f8fbf7f72fd9abcc044010e94682dfcfd7a88fc"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Ramsey.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 519514,
+   "sha256": "5aea4d0fe884881c82b7b670b785b66e72f48d1559b6a76f0d260c5ff255c0fe"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Ramsey_large.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 831448,
+   "sha256": "fd35ba4604e57e26509cce7334fb6a3d88c777b123c79715b65414fbc92272c0"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Roman.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 621861,
+   "sha256": "6b809cfcccd89b423c1486c81319493c260a870fde3fab3df4d45304e2baf65e"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Shaw.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 579508,
+   "sha256": "c00977f63527339bf5d61f3329334a1724151b0d75bbcbf579602efba5479759"
+  },
+  {
+   "path": "ui-art/FNF/FaF_SpecialEventBackground.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 394765,
+   "sha256": "e8c2dc56a651dd5f8525468b98247b2157f086e68ab2a8f41244e5c982ec0b12"
+  },
+  {
+   "path": "ui-art/FNF/FaF_Vehicle.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 176989,
+   "sha256": "e55f97c443f8be89fc1699f8cec1496f09932d3da94acf829b530a0115436142"
+  },
+  {
+   "path": "ui-art/FNF/FaF_treadRight.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 12778,
+   "sha256": "72c5f5772c97016662f2d2e6370899deb399207619089b6226ce246d4a641e54"
+  },
+  {
+   "path": "ui-art/FNF/FlashBadgeGacha.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 8526,
+   "sha256": "6eec5b55e03ca48ab6028903ec0a1dd795d4a7100a3295db17af812b9ea6b023"
+  },
+  {
+   "path": "ui-art/FNF/FnF_FlipCar_pin.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 42079,
+   "sha256": "9dac03d16a74e493fff0488eb5960d1e91da3f8f18e13077e243bafac45c95a7"
+  },
+  {
+   "path": "ui-art/FNF/FnF_Q4_Event_01.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 234410,
+   "sha256": "821460e269ebd0897ce6e397636a7a2385babb6161519dfd13012e3fa744f055"
+  },
+  {
+   "path": "ui-art/FNF/FnF_Q4_Event_02.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 261357,
+   "sha256": "f145dd1ed583faa85b25f220111cc1766aca0719bf9009204015b73040651c33"
+  },
+  {
+   "path": "ui-art/FNF/FnF_Q4_Event_03.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 275017,
+   "sha256": "bb8601f355f81e57325fdcc77df067dbca7ced62b5bdfe2b72bf5c284501bdd0"
+  },
+  {
+   "path": "ui-art/FNF/HeroKeyRing.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 14515,
+   "sha256": "44cd72951b0c8d090ed365ba68ff92b012192dbf199df1373e8501de33cd8a38"
+  },
+  {
+   "path": "ui-art/FNF/Honda_S2000F2_2001.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 242967,
+   "sha256": "b9b733b788d1a985c501602eb34a2e6868bf9162bcefd518f0eda036536a39c7"
+  },
+  {
+   "path": "ui-art/FNF/Honda_S2000F2_2001_small.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 24661,
+   "sha256": "2e38118eb8ddeab31bfe2371bc0c97a01fb2063544ab4e54d83351731d4e3c35"
+  },
+  {
+   "path": "ui-art/FNF/Jaguar_FTypeRCoupeF8_2016.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 143741,
+   "sha256": "c7864e89b31c92a4851bd09cc71d58cfc3fd7ce7fd84b63feb53eb35227fbc42"
+  },
+  {
+   "path": "ui-art/FNF/Jetta_FaF.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 133422,
+   "sha256": "c89635e382427fbe3f0ffa7ae1992ab05822e9110ba4433601d75b94fdbfb0a8"
+  },
+  {
+   "path": "ui-art/FNF/Jetta_FaF_pin.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 46350,
+   "sha256": "9035809ac3868d2d88694f6bcc010f18000fe3830d25f961cd1db02bd1a055ce"
+  },
+  {
+   "path": "ui-art/FNF/Lamborghini_MurcielagoLP640F8_2006.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 194644,
+   "sha256": "520551d590da4117438993c702e425db238c314bb9b2012be5be0f821d19445d"
+  },
+  {
+   "path": "ui-art/FNF/LocalMotor_RallyFighterF8_2013.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 153240,
+   "sha256": "fcd1cc5e7b1c7a525544b660b146cc362c59eba9b20b5bc4312bf817ef85700b"
+  },
+  {
+   "path": "ui-art/FNF/Mazda_RX7F1_1993.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 255153,
+   "sha256": "b307e447704c2ab8e2b7955c5fc999e24dfaf6dd2c25f85d688e548409a0acee"
+  },
+  {
+   "path": "ui-art/FNF/Mazda_RX7F1_1993_small.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 24623,
+   "sha256": "37304280347690d51a50c5123e566741dfe4f65913ec293f73d88cf3784be311"
+  },
+  {
+   "path": "ui-art/FNF/McLaren_P14CoupeRewardRecycled_2017.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 121756,
+   "sha256": "a2c1a5753629c642fabb0049700d437a94a5a277c295a2077039e5fba652c42f"
+  },
+  {
+   "path": "ui-art/FNF/McLaren_P14CoupeSH1_2017.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 135350,
+   "sha256": "4bfadc9cdf102b6f49584750de03b541199a6da6df0870fff0c0c0a2616e00a6"
+  },
+  {
+   "path": "ui-art/FNF/McLaren_Vorsteiner720SReward_2018.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 120526,
+   "sha256": "d425bab92c9142f53df2074db50ecb4b98937bb1256cfdf3ea5da5147b8f6b56"
+  },
+  {
+   "path": "ui-art/FNF/MercedesAMG_GTSF8_2015.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 116783,
+   "sha256": "f95fc245199e46d461d5220f213c79605545aca02070a915b5829fc7960764fb"
+  },
+  {
+   "path": "ui-art/FNF/Mitsubishi_EclipseF1_1995.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 241515,
+   "sha256": "0ed18ab1a6eae8f54bb9ca74cc9e93915cf74ca0c9d1e79a65bd97c5a878a6bc"
+  },
+  {
+   "path": "ui-art/FNF/Mitsubishi_EclipseF1_1995_small.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 23573,
+   "sha256": "75e9ee309045920e7354f49577e63d4d3bb8afa4843f37acb05a28cd3fec9c23"
+  },
+  {
+   "path": "ui-art/FNF/Mitsubishi_LancerEvolutionIXGSRF3_2006.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 133612,
+   "sha256": "706d0abe86070a4a1581108607e64aed0c5316286c63c56af7b36d50bf19e70f"
+  },
+  {
+   "path": "ui-art/FNF/Mitsubishi_LancerEvolutionIXGSRF3_2006_pin.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 42706,
+   "sha256": "c74b26245b766e79ea4d95d5f5f9f782eeb34110e7b8ab3dac7faa6034c8fbcf"
+  },
+  {
+   "path": "ui-art/FNF/Mitsubishi_LancerEvolutionVIIF2_2002_Animated.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 157565,
+   "sha256": "40942e45c4a22f906c848f1217bf742d529c19e19b395c201f2917f30593c4a2"
+  },
+  {
+   "path": "ui-art/FNF/Nissan_SkylineGTRR34F2_1999.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 214776,
+   "sha256": "e3da83cf76526ec36a96349ded643398e2a71917b7da1ca129be418cf3baffb5"
+  },
+  {
+   "path": "ui-art/FNF/Nissan_SkylineGTRR34F2_1999_small.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 21193,
+   "sha256": "6a1bfc52f218d285f92bade7e2ca94e45fade88409de5ef7825a779629c6cac4"
+  },
+  {
+   "path": "ui-art/FNF/Plymouth_RoadRunnerGTXF8_1971.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 143149,
+   "sha256": "e3994aedb28eb97a64aab0a27ea7b42b051aff05dbb46e02181b4d6a8cbb163d"
+  },
+  {
+   "path": "ui-art/FNF/Plymouth_RoadRunnerGTXF8_1971_small.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 18462,
+   "sha256": "09ae23fbbb28a3436b24ff2f219c1dfb0aa43ea1ddb85c897f657f60664591fe"
+  },
+  {
+   "path": "ui-art/FNF/RelaysIceFX.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 750228,
+   "sha256": "92296b5991e5ef49d2ff5c1b44fb18c84203cf4cb4a0611e3e6f3105c9324bf3"
+  },
+  {
+   "path": "ui-art/FNF/SKYLINE_F&F.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 30990,
+   "sha256": "4e8823f5670b956e47afa0a31b0381d4b597eb49b478f5f687f8c3125bea2f39"
+  },
+  {
+   "path": "ui-art/FNF/SplashArtFinale.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 240631,
+   "sha256": "ca4e5b708bec46126d106d69e4d54843bc253d2e8517dfa569352e4f45d4da6c"
+  },
+  {
+   "path": "ui-art/FNF/Subaru_BRZF8_2013.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 128063,
+   "sha256": "c921311bcb13afd4c4e7da326cf7bbb22e3b8dbf3b014e4e861861346fc4b5e7"
+  },
+  {
+   "path": "ui-art/FNF/Subaru_WRXSTIF8_2018.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 207653,
+   "sha256": "212c190bfb4ebc49acf406ec643e63558a8b8d6d718d2f9bba46e3bc79c5fcda"
+  },
+  {
+   "path": "ui-art/FNF/TopBarAtlasHD.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 304939,
+   "sha256": "c5e40235aa5d0d500d1f2b33f400d8f8fb44bebbd162282e5535fc3ed5783607"
+  },
+  {
+   "path": "ui-art/FNF/Toyota_SupraMKIVF1_1994.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 162396,
+   "sha256": "0910b548a8139751edbf7a0d4739c0c817fe8a22e6508647020a79742b43a9e1"
+  },
+  {
+   "path": "ui-art/FNF/Toyota_SupraMKIVF1_1994_small.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 16956,
+   "sha256": "e5afab12f7a8a400e8b3eb1922b7c1e1fea4be4a3131fe14b3b19daa78a15a80"
+  },
+  {
+   "path": "ui-art/FNF/model_carHolder.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 38646,
+   "sha256": "cfc100f3fca722d2ea0c83009595e1694868790494f721d21484fc4d4084e49c"
+  },
+  {
+   "path": "ui-art/FNF/sprites/Bentley_ContinentalGTV8SF8_2014.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 132018,
+   "sha256": "65b307bcbc7375cc1444ecbb12e5db9116fe411bd9747b52be5da704a04747b1"
+  },
+  {
+   "path": "ui-art/FNF/sprites/CharacterGachaFaF.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 959843,
+   "sha256": "fdae14588fdfb1411e3b518a35477c204dd835ae76588bfdef1b700d105e9121"
+  },
+  {
+   "path": "ui-art/FNF/sprites/Chevrolet_CorvetteStingRayC2F8_1966.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 97161,
+   "sha256": "731f5b34e8cc77348065b82bca485ec746cb0327cfce89611349b9174f4f636e"
+  },
+  {
+   "path": "ui-art/FNF/sprites/Chevrolet_FlipCar_2013.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 73176,
+   "sha256": "e86ed046b6549b73fe880db45427701cb78bbb2795d8a6622781a1dc771494e2"
+  },
+  {
+   "path": "ui-art/FNF/sprites/Chevrolet_FlipCar_2013_alt.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 52576,
+   "sha256": "5b68f4c642e76d757fead22452d67e1bab7b439f66b129d22203999a0263d25d"
+  },
+  {
+   "path": "ui-art/FNF/sprites/DOCKS_F&F.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 25019,
+   "sha256": "18a38724c178b726c9b607b2a1ba5cd3d9cfa749c47a720e0c9a4d79e8bfbeac"
+  },
+  {
+   "path": "ui-art/FNF/sprites/Dodge_ChallengerSRTDemonF8_2018.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 124168,
+   "sha256": "728dc56171a018bd739ede44de6bbdd913ce85ab65b91483f64210c737dce046"
+  },
+  {
+   "path": "ui-art/FNF/sprites/Dodge_ChargerRTF1_1970.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 148295,
+   "sha256": "c55100740364eba3d931f41268f06dea191d8355dc3b7cb16478d2595d7211cc"
+  },
+  {
+   "path": "ui-art/FNF/sprites/Dodge_ChargerRTF1_1970_alt.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 194498,
+   "sha256": "9f07d1b9dadc71eb5d2b22dde026351f15452eb3f81f7fd33578c3e1bbfa8092"
+  },
+  {
+   "path": "ui-art/FNF/sprites/Dodge_ChargerRTF1_1970_small.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 14465,
+   "sha256": "35733d77d0b0e9853705ba169cf457f3d7059b4e3464e569c017077f7b141e05"
+  },
+  {
+   "path": "ui-art/FNF/sprites/Dodge_ChargerRTF8_1970.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 114490,
+   "sha256": "9d3438ae7c897235a359f1094d15b4927d96ee5b150509b7b53ee996848c9990"
+  },
+  {
+   "path": "ui-art/FNF/sprites/Dodge_ChargerRTF8_1970_alt.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 184686,
+   "sha256": "3b0cae4bc8e885de71043382114525d1355124dcb7e9d840118d2ad612833191"
+  },
+  {
+   "path": "ui-art/FNF/sprites/Dodge_ChargerRTF8_1970_small.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_faf",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
+   "pulled": "2026-11-10",
+   "bytes": 11339,
+   "sha256": "5310ee31d21c412db1b6c189867fc0786f74c8fa8d07c488e0266421a37109bc"
+  },
+  {
    "path": "ui-art/FNF/sprites/FNF_2026_Logo.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_fnf_common_2026",
@@ -93294,1078 +94365,7 @@
    "sha256": "eecfc88c5d4475c480882a1828382eeabe6a662d17a74a1dfeffceaa6abe9e0a"
   },
   {
-   "path": "ui-art/FaF/ArtisticSnapshot_Dodge_ChargerRTF1_1970.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 162358,
-   "sha256": "7563fb1d76a60e3491e8d97d9dc7a2f2ecf778b21a10552b8ae47c0c7d767f75"
-  },
-  {
-   "path": "ui-art/FaF/ArtisticSnapshot_Dodge_ChargerRTF8_1970.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 124168,
-   "sha256": "94f788c24807308463a5203ef4605050ad186ca7613d7e2c38bd3867347d9e8d"
-  },
-  {
-   "path": "ui-art/FaF/Bentley_ContinentalGTV8SF8_2014.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 143749,
-   "sha256": "358ec675d19b499a3e37f9a6d1c3dafa175fd11389875f67d52be4cdd9b9e28f"
-  },
-  {
-   "path": "ui-art/FaF/CharacterGachaFaF.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 1025968,
-   "sha256": "cccc913d763194823270cd8bba82e9c55179754b58f5253ed03270d3042f703c"
-  },
-  {
-   "path": "ui-art/FaF/Chevrolet_CorvetteStingRayC2F8_1966.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 110976,
-   "sha256": "978de3ea463b3c496d8f8283942feeb8bdf1a150e13175d15334bbf6da7c53d9"
-  },
-  {
-   "path": "ui-art/FaF/Chevrolet_CorvetteZR1SH1_2018_Animated.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 108988,
-   "sha256": "4f25a29bdad9068c692c16b2fa4f8c23913a43d6fc88fb426031d5f8f4cb9b4c"
-  },
-  {
-   "path": "ui-art/FaF/Chevrolet_FlipCar_2013.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 82615,
-   "sha256": "ff5f42f0d45a75133c0c59eb36401be608834b4dc1008d2f5a5a49727b852698"
-  },
-  {
-   "path": "ui-art/FaF/Chevrolet_FlipCar_2013_alt.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 63495,
-   "sha256": "58ca5977f61c5d96a93b05bed3740aa54a494c424146e1cd1b8f8e322eb56857"
-  },
-  {
-   "path": "ui-art/FaF/DOCKS_F&F.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 24550,
-   "sha256": "6a4e37d680c486b361e913da8df68799f8b97c14a7ed426795b116a21a2c45a6"
-  },
-  {
-   "path": "ui-art/FaF/Dodge_ChallengerSRTDemonF8_2018.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 134011,
-   "sha256": "1e0eee74fc3764c4d11a24cb785ae6a09645b0af8c2dad44ad4774ec7a1c5614"
-  },
-  {
-   "path": "ui-art/FaF/Dodge_ChargerRTF1_1970.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 162329,
-   "sha256": "d4198fc2d4f77da2115be04a587917a8bab471d24ee7c33efabb10dcafd4932c"
-  },
-  {
-   "path": "ui-art/FaF/Dodge_ChargerRTF1_1970_alt.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 209205,
-   "sha256": "091858a0fdfe3f639d477cda7a0b93a579fac9a7434da5239615fb239ff5b599"
-  },
-  {
-   "path": "ui-art/FaF/Dodge_ChargerRTF1_1970_small.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 18514,
-   "sha256": "b0a9cfca4103e031d3cf549e468d1091f350c8ba4c20f6093bea99c39e416d11"
-  },
-  {
-   "path": "ui-art/FaF/Dodge_ChargerRTF8_1970.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 124404,
-   "sha256": "95a3ce69c27905c9dcbfda22049a9cd60cec8036c5f4a507bd507c20ef61a665"
-  },
-  {
-   "path": "ui-art/FaF/Dodge_ChargerRTF8_1970_alt.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 200081,
-   "sha256": "90a85200c0ff9aaff8931d1371ec2d2964e9e663b11dd5c805a1e8e5ef569356"
-  },
-  {
-   "path": "ui-art/FaF/Dodge_ChargerRTF8_1970_small.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 13031,
-   "sha256": "f475ee28935eb233a0d4ccda46f776ebe7bd01920a49a53cbc0298ff6331a1d8"
-  },
-  {
-   "path": "ui-art/FaF/F&F_2020_ADback.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 51209,
-   "sha256": "485210978f86555c935d13b51aa254b507f689e9408456f0a90ad8c3fd1a279b"
-  },
-  {
-   "path": "ui-art/FaF/F&F_2020_Event1BG.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 361633,
-   "sha256": "1e3fc2ad09d33823671abdc01eaa371f169616d649eb59612aa3a6658ce598f7"
-  },
-  {
-   "path": "ui-art/FaF/F&F_2020_Event2BG.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 251422,
-   "sha256": "c31e38311530acd082ae7049635083a7d31fe076af6e8532337f9c9c8c00b5fe"
-  },
-  {
-   "path": "ui-art/FaF/F&F_2020_Event3BG.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 229323,
-   "sha256": "611f2da00801795418fe910d8fc8ea994cc5a78e82347079e7e2bdc517919d6f"
-  },
-  {
-   "path": "ui-art/FaF/F&F_2020_ShareLogoSquare.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 66460,
-   "sha256": "90889c5fde86a79a15c878813cd60134bf2be30b2f474d646d05c64a08174b80"
-  },
-  {
-   "path": "ui-art/FaF/FaFBadge.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 20366,
-   "sha256": "5ec27fc64030f58cc0cc195cf3f1b750adbf250604d772efdfbd6942d19b469a"
-  },
-  {
-   "path": "ui-art/FaF/FaFBadge__3549126635904797339.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 81346,
-   "sha256": "2788ae3864346a3aba8c7587704174bb68df3445ca8ce0242102ec02e049de42"
-  },
-  {
-   "path": "ui-art/FaF/FaFCrate.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 179849,
-   "sha256": "d8af34be16e0d55f4554ebe5cb762c1f0e7acc7632f8f518474eb538365ebe4b"
-  },
-  {
-   "path": "ui-art/FaF/FaFLegacyBadge.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 68302,
-   "sha256": "b4dc434d5245bebd747e6e5eb2279490899a4283ef50b276368f2dc0ff989c08"
-  },
-  {
-   "path": "ui-art/FaF/FaFLegacy_Event1_NewsA.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 988878,
-   "sha256": "6099ed83fb7018ed972ecb50616e0ed99a52c7105848aa815b560625982bdf80"
-  },
-  {
-   "path": "ui-art/FaF/FaFLegacy_Event1_NewsB.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 1111621,
-   "sha256": "10853dc5241cb7cf02f8c8b0091b807199f78c78d9284c4ae4fe44d5699a644a"
-  },
-  {
-   "path": "ui-art/FaF/FaFLegacy_Event2_NewsA.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 953543,
-   "sha256": "1596773abc669ac7c7be473ba1b97098508e9d538131e81a26b6b68ef6e33c00"
-  },
-  {
-   "path": "ui-art/FaF/FaFLegacy_Event2_NewsB.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 924928,
-   "sha256": "2f18a56cef479f2c0b1202151815a4b65c440d90c76aadd0ddc420a000b625a4"
-  },
-  {
-   "path": "ui-art/FaF/FaFLegacy_Event3_NewsA.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 957569,
-   "sha256": "679ba910435e85df7c1bb755773ce782d615e660938134882448098c7168de0a"
-  },
-  {
-   "path": "ui-art/FaF/FaFLegacy_Event3_NewsB.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 1092567,
-   "sha256": "f43937af63757b65f2fbd073159f332e6120bad9b5a0875c027cc18eb104ada7"
-  },
-  {
-   "path": "ui-art/FaF/FaFLegacy_Event4_NewsA.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 1010618,
-   "sha256": "5a2fbc6853beb6a07b68324df983e3d3b260c034f3659cf20621506c4e037e11"
-  },
-  {
-   "path": "ui-art/FaF/FaFLegacy_Event4_NewsB.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 1133265,
-   "sha256": "3fe4d6143262bb7902beba5df5570e04acc1d1e098f10d83fc3cc6c61c650796"
-  },
-  {
-   "path": "ui-art/FaF/FaFLegacy_FinaleCars.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 239848,
-   "sha256": "f7c7d1cb938d09d72eda0545d65ec642143393ae473d658cc7952b3eed8e8835"
-  },
-  {
-   "path": "ui-art/FaF/FaFLegacy_Hattie.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 734970,
-   "sha256": "b933f76c42aadaf26f574b9db0e2399e53a8c79792e46ca8eaa2137ef3915374"
-  },
-  {
-   "path": "ui-art/FaF/FaFLegacy_Hobbs.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 486706,
-   "sha256": "b1dc36da6e15dbdc9f00a061ffe10508dc800d080eadcad210a99e19c71dc1bb"
-  },
-  {
-   "path": "ui-art/FaF/FaFLegacy_PrologueA.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 965599,
-   "sha256": "d63f23968c9585fd54be56b0fcfa77f11618b09de5ca0b9bb0c843932f9d3f28"
-  },
-  {
-   "path": "ui-art/FaF/FaFLegacy_PrologueB.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 484396,
-   "sha256": "b94bfde769f21bfdfc92254858daa974cb4475d2518142443d1f8e1120960d01"
-  },
-  {
-   "path": "ui-art/FaF/FaFLegacy_Shaw.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 580566,
-   "sha256": "f2dacabf450910a567542a141cf1d2e34fe3dc2f970275826e13222a8b709c3d"
-  },
-  {
-   "path": "ui-art/FaF/FaFLegacy_ToyotaSupraCupCar.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 164017,
-   "sha256": "2ce128e3d5184401f35dbb48d21c1cbab3e8844dbd82e8f577176af237324521"
-  },
-  {
-   "path": "ui-art/FaF/FaF_2020GachaPopUpBackground.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 325003,
-   "sha256": "38f756fe4b86d801b6172d6d1b7edeb014bffcd8051be31fa184a3477f98080e"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Event2_NewsA.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 841503,
-   "sha256": "646710620cc040a52b4bfed236da17acac062f902e1b9cc613262db876b70e53"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Event2_NewsB.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 404133,
-   "sha256": "93479f5cf89d53721ae32c6b3d04d7bc7eb34469f3d70fcbd85b602f08650268"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Event3_NewsA.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 1125369,
-   "sha256": "e46bed35154f071f4007cb187ff7fe97b914eb9e68521ece8143f032de60493b"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Event3_NewsB.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 341695,
-   "sha256": "b4b0144b2dd79c301bab7c76db0e27a67a559669df8828db9798ca4c3e01cb45"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Event4_NewsA.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 892738,
-   "sha256": "6872fa74fee1b0855fae2e4bb711fc405866d56f7d1d276f14f57910e7d9189e"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Event4_NewsB.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 1270231,
-   "sha256": "b4e549910a172ce97586bb18534d2f08c73278e9cc9d60dde7890dc286e9e59d"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Event5_NewsA.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 1167890,
-   "sha256": "cdf70c9abab9a2aefc9b778e9db7c8467dac4fdc73ca3439c31fc7efb8a24d42"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Event5_NewsB.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 1145286,
-   "sha256": "8baca72d14b72794900478dfdfcde32d9d3dcd10ebed5aff5d869f98f293481d"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Event6_NewsA.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 1050393,
-   "sha256": "11ef8a3d3ea7d9a1716e4e7033f0140d0496b49ffefffd4a5a13915234175cfa"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Event6_NewsB.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 1188010,
-   "sha256": "ad67f7aab845d9fef5a565276f16c110b78f1dc8da9acc542fb762495e5a74b0"
-  },
-  {
-   "path": "ui-art/FaF/FaF_EventPanel.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 48230,
-   "sha256": "01bd9baa51356ce46b427ddc9ea69cc98eb5940bff2985824823ffbb3e89ed4d"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Event_01.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 206331,
-   "sha256": "854d3738a8ef6ba4d4c096c7ce476327a638acbe428cc990491525c5818f1928"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Event_02.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 227643,
-   "sha256": "130f0b8623ae9b18e124e435904229c9cb682bd1f680e54653c60797904d4fc1"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Event_Finale2020.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 296138,
-   "sha256": "33fd29b27604ae1c43c7e79129415748adda8aacfc83a9e36ad3f2ab6c9d8162"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Event_Finale2020_pin.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 35117,
-   "sha256": "c4d5c5754c8cfdf57f9041174cb2446b1dd0f7de9883e55d23c5fc15910fd8f8"
-  },
-  {
-   "path": "ui-art/FaF/FaF_FinaleCars.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 240831,
-   "sha256": "f9dff42f9edf7fb73ce8ed1ca67fc858bbbcfe5ec2efa16db35a9bf61ad493bd"
-  },
-  {
-   "path": "ui-art/FaF/FaF_FinaleCars_02.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 216408,
-   "sha256": "2dad56c7ab21bd649523f9349ec68a0e5571f80b22bd3829cc11083dbc689b6d"
-  },
-  {
-   "path": "ui-art/FaF/FaF_FinaleCars_03.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 240546,
-   "sha256": "1d76bb86a2fc9f0bec4a7f7a0d577641427e6a2df9bc3053c84e7527e89dfcd5"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Hobbs.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 618898,
-   "sha256": "b96946ac55a9574263e7d77cebebedb788db9166daf604b38ec25d45b2a8c9f6"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Letty.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 662452,
-   "sha256": "73c3e3fc0757d62cfdf3e9edcbd0c4cc43e8e6bcb8d09d08e014235f63cfca47"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Logo.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 82718,
-   "sha256": "eb85aa17a63d6f13d5e6531e7f8fbf7f72fd9abcc044010e94682dfcfd7a88fc"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Ramsey.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 519514,
-   "sha256": "5aea4d0fe884881c82b7b670b785b66e72f48d1559b6a76f0d260c5ff255c0fe"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Ramsey_large.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 831448,
-   "sha256": "fd35ba4604e57e26509cce7334fb6a3d88c777b123c79715b65414fbc92272c0"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Roman.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 621861,
-   "sha256": "6b809cfcccd89b423c1486c81319493c260a870fde3fab3df4d45304e2baf65e"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Shaw.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 579508,
-   "sha256": "c00977f63527339bf5d61f3329334a1724151b0d75bbcbf579602efba5479759"
-  },
-  {
-   "path": "ui-art/FaF/FaF_SpecialEventBackground.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 394765,
-   "sha256": "e8c2dc56a651dd5f8525468b98247b2157f086e68ab2a8f41244e5c982ec0b12"
-  },
-  {
-   "path": "ui-art/FaF/FaF_Vehicle.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 176989,
-   "sha256": "e55f97c443f8be89fc1699f8cec1496f09932d3da94acf829b530a0115436142"
-  },
-  {
-   "path": "ui-art/FaF/FaF_treadRight.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 12778,
-   "sha256": "72c5f5772c97016662f2d2e6370899deb399207619089b6226ce246d4a641e54"
-  },
-  {
-   "path": "ui-art/FaF/FlashBadgeGacha.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 8526,
-   "sha256": "6eec5b55e03ca48ab6028903ec0a1dd795d4a7100a3295db17af812b9ea6b023"
-  },
-  {
-   "path": "ui-art/FaF/FnF_FlipCar_pin.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 42079,
-   "sha256": "9dac03d16a74e493fff0488eb5960d1e91da3f8f18e13077e243bafac45c95a7"
-  },
-  {
-   "path": "ui-art/FaF/FnF_Q4_Event_01.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 234410,
-   "sha256": "821460e269ebd0897ce6e397636a7a2385babb6161519dfd13012e3fa744f055"
-  },
-  {
-   "path": "ui-art/FaF/FnF_Q4_Event_02.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 261357,
-   "sha256": "f145dd1ed583faa85b25f220111cc1766aca0719bf9009204015b73040651c33"
-  },
-  {
-   "path": "ui-art/FaF/FnF_Q4_Event_03.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 275017,
-   "sha256": "bb8601f355f81e57325fdcc77df067dbca7ced62b5bdfe2b72bf5c284501bdd0"
-  },
-  {
-   "path": "ui-art/FaF/HeroKeyRing.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 14515,
-   "sha256": "44cd72951b0c8d090ed365ba68ff92b012192dbf199df1373e8501de33cd8a38"
-  },
-  {
-   "path": "ui-art/FaF/Honda_S2000F2_2001.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 242967,
-   "sha256": "b9b733b788d1a985c501602eb34a2e6868bf9162bcefd518f0eda036536a39c7"
-  },
-  {
-   "path": "ui-art/FaF/Honda_S2000F2_2001_small.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 24661,
-   "sha256": "2e38118eb8ddeab31bfe2371bc0c97a01fb2063544ab4e54d83351731d4e3c35"
-  },
-  {
-   "path": "ui-art/FaF/Jaguar_FTypeRCoupeF8_2016.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 143741,
-   "sha256": "c7864e89b31c92a4851bd09cc71d58cfc3fd7ce7fd84b63feb53eb35227fbc42"
-  },
-  {
-   "path": "ui-art/FaF/Jetta_FaF.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 133422,
-   "sha256": "c89635e382427fbe3f0ffa7ae1992ab05822e9110ba4433601d75b94fdbfb0a8"
-  },
-  {
-   "path": "ui-art/FaF/Jetta_FaF_pin.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 46350,
-   "sha256": "9035809ac3868d2d88694f6bcc010f18000fe3830d25f961cd1db02bd1a055ce"
-  },
-  {
-   "path": "ui-art/FaF/Lamborghini_MurcielagoLP640F8_2006.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 194644,
-   "sha256": "520551d590da4117438993c702e425db238c314bb9b2012be5be0f821d19445d"
-  },
-  {
-   "path": "ui-art/FaF/LocalMotor_RallyFighterF8_2013.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 153240,
-   "sha256": "fcd1cc5e7b1c7a525544b660b146cc362c59eba9b20b5bc4312bf817ef85700b"
-  },
-  {
-   "path": "ui-art/FaF/Mazda_RX7F1_1993.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 255153,
-   "sha256": "b307e447704c2ab8e2b7955c5fc999e24dfaf6dd2c25f85d688e548409a0acee"
-  },
-  {
-   "path": "ui-art/FaF/Mazda_RX7F1_1993_small.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 24623,
-   "sha256": "37304280347690d51a50c5123e566741dfe4f65913ec293f73d88cf3784be311"
-  },
-  {
-   "path": "ui-art/FaF/McLaren_P14CoupeRewardRecycled_2017.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 121756,
-   "sha256": "a2c1a5753629c642fabb0049700d437a94a5a277c295a2077039e5fba652c42f"
-  },
-  {
-   "path": "ui-art/FaF/McLaren_P14CoupeSH1_2017.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 135350,
-   "sha256": "4bfadc9cdf102b6f49584750de03b541199a6da6df0870fff0c0c0a2616e00a6"
-  },
-  {
-   "path": "ui-art/FaF/McLaren_Vorsteiner720SReward_2018.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 120526,
-   "sha256": "d425bab92c9142f53df2074db50ecb4b98937bb1256cfdf3ea5da5147b8f6b56"
-  },
-  {
-   "path": "ui-art/FaF/MercedesAMG_GTSF8_2015.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 116783,
-   "sha256": "f95fc245199e46d461d5220f213c79605545aca02070a915b5829fc7960764fb"
-  },
-  {
-   "path": "ui-art/FaF/Mitsubishi_EclipseF1_1995.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 241515,
-   "sha256": "0ed18ab1a6eae8f54bb9ca74cc9e93915cf74ca0c9d1e79a65bd97c5a878a6bc"
-  },
-  {
-   "path": "ui-art/FaF/Mitsubishi_EclipseF1_1995_small.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 23573,
-   "sha256": "75e9ee309045920e7354f49577e63d4d3bb8afa4843f37acb05a28cd3fec9c23"
-  },
-  {
-   "path": "ui-art/FaF/Mitsubishi_LancerEvolutionIXGSRF3_2006.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 133612,
-   "sha256": "706d0abe86070a4a1581108607e64aed0c5316286c63c56af7b36d50bf19e70f"
-  },
-  {
-   "path": "ui-art/FaF/Mitsubishi_LancerEvolutionIXGSRF3_2006_pin.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 42706,
-   "sha256": "c74b26245b766e79ea4d95d5f5f9f782eeb34110e7b8ab3dac7faa6034c8fbcf"
-  },
-  {
-   "path": "ui-art/FaF/Mitsubishi_LancerEvolutionVIIF2_2002_Animated.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 157565,
-   "sha256": "40942e45c4a22f906c848f1217bf742d529c19e19b395c201f2917f30593c4a2"
-  },
-  {
-   "path": "ui-art/FaF/Nissan_SkylineGTRR34F2_1999.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 214776,
-   "sha256": "e3da83cf76526ec36a96349ded643398e2a71917b7da1ca129be418cf3baffb5"
-  },
-  {
-   "path": "ui-art/FaF/Nissan_SkylineGTRR34F2_1999_small.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 21193,
-   "sha256": "6a1bfc52f218d285f92bade7e2ca94e45fade88409de5ef7825a779629c6cac4"
-  },
-  {
-   "path": "ui-art/FaF/Plymouth_RoadRunnerGTXF8_1971.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 143149,
-   "sha256": "e3994aedb28eb97a64aab0a27ea7b42b051aff05dbb46e02181b4d6a8cbb163d"
-  },
-  {
-   "path": "ui-art/FaF/Plymouth_RoadRunnerGTXF8_1971_small.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 18462,
-   "sha256": "09ae23fbbb28a3436b24ff2f219c1dfb0aa43ea1ddb85c897f657f60664591fe"
-  },
-  {
-   "path": "ui-art/FaF/RelaysIceFX.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 750228,
-   "sha256": "92296b5991e5ef49d2ff5c1b44fb18c84203cf4cb4a0611e3e6f3105c9324bf3"
-  },
-  {
-   "path": "ui-art/FaF/SKYLINE_F&F.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 30990,
-   "sha256": "4e8823f5670b956e47afa0a31b0381d4b597eb49b478f5f687f8c3125bea2f39"
-  },
-  {
-   "path": "ui-art/FaF/SplashArtFinale.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 240631,
-   "sha256": "ca4e5b708bec46126d106d69e4d54843bc253d2e8517dfa569352e4f45d4da6c"
-  },
-  {
-   "path": "ui-art/FaF/Subaru_BRZF8_2013.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 128063,
-   "sha256": "c921311bcb13afd4c4e7da326cf7bbb22e3b8dbf3b014e4e861861346fc4b5e7"
-  },
-  {
-   "path": "ui-art/FaF/Subaru_WRXSTIF8_2018.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 207653,
-   "sha256": "212c190bfb4ebc49acf406ec643e63558a8b8d6d718d2f9bba46e3bc79c5fcda"
-  },
-  {
-   "path": "ui-art/FaF/TopBarAtlasHD.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 304939,
-   "sha256": "c5e40235aa5d0d500d1f2b33f400d8f8fb44bebbd162282e5535fc3ed5783607"
-  },
-  {
-   "path": "ui-art/FaF/Toyota_SupraMKIVF1_1994.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 162396,
-   "sha256": "0910b548a8139751edbf7a0d4739c0c817fe8a22e6508647020a79742b43a9e1"
-  },
-  {
-   "path": "ui-art/FaF/Toyota_SupraMKIVF1_1994_small.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 16956,
-   "sha256": "e5afab12f7a8a400e8b3eb1922b7c1e1fea4be4a3131fe14b3b19daa78a15a80"
-  },
-  {
-   "path": "ui-art/FaF/model_carHolder.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 38646,
-   "sha256": "cfc100f3fca722d2ea0c83009595e1694868790494f721d21484fc4d4084e49c"
-  },
-  {
-   "path": "ui-art/FaF/sprites/Bentley_ContinentalGTV8SF8_2014.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 132018,
-   "sha256": "65b307bcbc7375cc1444ecbb12e5db9116fe411bd9747b52be5da704a04747b1"
-  },
-  {
-   "path": "ui-art/FaF/sprites/CharacterGachaFaF.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 959843,
-   "sha256": "fdae14588fdfb1411e3b518a35477c204dd835ae76588bfdef1b700d105e9121"
-  },
-  {
-   "path": "ui-art/FaF/sprites/Chevrolet_CorvetteStingRayC2F8_1966.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 97161,
-   "sha256": "731f5b34e8cc77348065b82bca485ec746cb0327cfce89611349b9174f4f636e"
-  },
-  {
-   "path": "ui-art/FaF/sprites/Chevrolet_FlipCar_2013.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 73176,
-   "sha256": "e86ed046b6549b73fe880db45427701cb78bbb2795d8a6622781a1dc771494e2"
-  },
-  {
-   "path": "ui-art/FaF/sprites/Chevrolet_FlipCar_2013_alt.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 52576,
-   "sha256": "5b68f4c642e76d757fead22452d67e1bab7b439f66b129d22203999a0263d25d"
-  },
-  {
-   "path": "ui-art/FaF/sprites/DOCKS_F&F.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 25019,
-   "sha256": "18a38724c178b726c9b607b2a1ba5cd3d9cfa749c47a720e0c9a4d79e8bfbeac"
-  },
-  {
-   "path": "ui-art/FaF/sprites/Dodge_ChallengerSRTDemonF8_2018.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 124168,
-   "sha256": "728dc56171a018bd739ede44de6bbdd913ce85ab65b91483f64210c737dce046"
-  },
-  {
-   "path": "ui-art/FaF/sprites/Dodge_ChargerRTF1_1970.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 148295,
-   "sha256": "c55100740364eba3d931f41268f06dea191d8355dc3b7cb16478d2595d7211cc"
-  },
-  {
-   "path": "ui-art/FaF/sprites/Dodge_ChargerRTF1_1970_alt.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 194498,
-   "sha256": "9f07d1b9dadc71eb5d2b22dde026351f15452eb3f81f7fd33578c3e1bbfa8092"
-  },
-  {
-   "path": "ui-art/FaF/sprites/Dodge_ChargerRTF1_1970_small.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 14465,
-   "sha256": "35733d77d0b0e9853705ba169cf457f3d7059b4e3464e569c017077f7b141e05"
-  },
-  {
-   "path": "ui-art/FaF/sprites/Dodge_ChargerRTF8_1970.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 114490,
-   "sha256": "9d3438ae7c897235a359f1094d15b4927d96ee5b150509b7b53ee996848c9990"
-  },
-  {
-   "path": "ui-art/FaF/sprites/Dodge_ChargerRTF8_1970_alt.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 184686,
-   "sha256": "3b0cae4bc8e885de71043382114525d1355124dcb7e9d840118d2ad612833191"
-  },
-  {
-   "path": "ui-art/FaF/sprites/Dodge_ChargerRTF8_1970_small.png",
-   "kind": "ui_art",
-   "family": "assets_csr2ui_events_faf",
-   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
-   "pulled": "2026-11-10",
-   "bytes": 11339,
-   "sha256": "5310ee31d21c412db1b6c189867fc0786f74c8fa8d07c488e0266421a37109bc"
-  },
-  {
-   "path": "ui-art/FaF/sprites/FaFBadge.png",
+   "path": "ui-art/FNF/sprites/FaFBadge.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94374,7 +94374,7 @@
    "sha256": "4cae0c9e1ab21047d98ee327ba999981474ea7ec4b3d7b2aab54dfb6a72369fb"
   },
   {
-   "path": "ui-art/FaF/sprites/FaFBadge__4588152019653575856.png",
+   "path": "ui-art/FNF/sprites/FaFBadge__4588152019653575856.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94383,7 +94383,7 @@
    "sha256": "04f2aabb2395d769467afc58e208126c1079426fd536d4f8a0d03708b114c58f"
   },
   {
-   "path": "ui-art/FaF/sprites/FaFCrate.png",
+   "path": "ui-art/FNF/sprites/FaFCrate.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94392,7 +94392,7 @@
    "sha256": "456f7991b8abee585f1d3770ee4b2bd3f4126880cfdce0ecb04b427fa7948f3c"
   },
   {
-   "path": "ui-art/FaF/sprites/FaFLegacyBadge.png",
+   "path": "ui-art/FNF/sprites/FaFLegacyBadge.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94401,7 +94401,7 @@
    "sha256": "176e1a8472ba329f26f639b6d3c04fb2483b743b51ac086b5d8bc9c41c59f1fe"
   },
   {
-   "path": "ui-art/FaF/sprites/FaFLegacy_Event2_NewsB.png",
+   "path": "ui-art/FNF/sprites/FaFLegacy_Event2_NewsB.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94410,7 +94410,7 @@
    "sha256": "23c366f43826845609ed0877350bcb863bafac15e974d4e502b79cf2f357ccd3"
   },
   {
-   "path": "ui-art/FaF/sprites/FaFLegacy_FinaleCars.png",
+   "path": "ui-art/FNF/sprites/FaFLegacy_FinaleCars.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94419,7 +94419,7 @@
    "sha256": "b2cea4a42dcc83b44984c97fb5c01e6c53818214272e25ed20e02bb5c5e44286"
   },
   {
-   "path": "ui-art/FaF/sprites/FaFLegacy_Hattie.png",
+   "path": "ui-art/FNF/sprites/FaFLegacy_Hattie.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94428,7 +94428,7 @@
    "sha256": "8f883764354408ec80de42fad83b9f0ad93a1a45fee9916325e70e0a6a22834d"
   },
   {
-   "path": "ui-art/FaF/sprites/FaFLegacy_Hobbs.png",
+   "path": "ui-art/FNF/sprites/FaFLegacy_Hobbs.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94437,7 +94437,7 @@
    "sha256": "5b78a0807821a2855019bac5e4a4ad389682c5dabe2b08cfcc49741dbaecd5f8"
   },
   {
-   "path": "ui-art/FaF/sprites/FaFLegacy_Shaw.png",
+   "path": "ui-art/FNF/sprites/FaFLegacy_Shaw.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94446,7 +94446,7 @@
    "sha256": "f435017da1d692d83fd8ff0ba0ee685de727ce57641d3421993b562ba386c839"
   },
   {
-   "path": "ui-art/FaF/sprites/FaFLegacy_ToyotaSupraCupCar.png",
+   "path": "ui-art/FNF/sprites/FaFLegacy_ToyotaSupraCupCar.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94455,7 +94455,7 @@
    "sha256": "78bb94bb0be0321f4cc0329e41e01f9b3282d44da8b796e8d3eb127c99b71836"
   },
   {
-   "path": "ui-art/FaF/sprites/FaF_Event2_NewsB.png",
+   "path": "ui-art/FNF/sprites/FaF_Event2_NewsB.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94464,7 +94464,7 @@
    "sha256": "e0c21789e403134bbab26d2c3a0e12f805382713d6b4419e2ade38c55689f050"
   },
   {
-   "path": "ui-art/FaF/sprites/FaF_Event_01.png",
+   "path": "ui-art/FNF/sprites/FaF_Event_01.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94473,7 +94473,7 @@
    "sha256": "18242bc3b9f31456fbdac34a02680ff535c88f29c2f60135876f529b4b9b0eac"
   },
   {
-   "path": "ui-art/FaF/sprites/FaF_Event_02.png",
+   "path": "ui-art/FNF/sprites/FaF_Event_02.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94482,7 +94482,7 @@
    "sha256": "4b37161373e6c77c143aa10a198f3dab8821a6639e53ef830396f4ed767a57e9"
   },
   {
-   "path": "ui-art/FaF/sprites/FaF_Event_Finale2020.png",
+   "path": "ui-art/FNF/sprites/FaF_Event_Finale2020.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94491,7 +94491,7 @@
    "sha256": "7e627acd59c5b49fcda9e39b9ba37aae2d28234ff2d1a7f640558884a9984c40"
   },
   {
-   "path": "ui-art/FaF/sprites/FaF_Event_Finale2020_pin.png",
+   "path": "ui-art/FNF/sprites/FaF_Event_Finale2020_pin.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94500,7 +94500,7 @@
    "sha256": "3b116f5aae0743460ff810278dd86f738239d11d369072f37bd266789bcae7bc"
   },
   {
-   "path": "ui-art/FaF/sprites/FaF_FinaleCars.png",
+   "path": "ui-art/FNF/sprites/FaF_FinaleCars.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94509,7 +94509,7 @@
    "sha256": "f889005803d731ddea54b74b462e17a7251458e83df091a8b027d33e701aa3cd"
   },
   {
-   "path": "ui-art/FaF/sprites/FaF_FinaleCars_02.png",
+   "path": "ui-art/FNF/sprites/FaF_FinaleCars_02.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94518,7 +94518,7 @@
    "sha256": "ec0da86888019feee4d0209031fdb22beda53a503af6239f9ec52fdc79d09963"
   },
   {
-   "path": "ui-art/FaF/sprites/FaF_FinaleCars_03.png",
+   "path": "ui-art/FNF/sprites/FaF_FinaleCars_03.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94527,7 +94527,7 @@
    "sha256": "58975936b66cc69b14b8f95e38f9c6cc052e48bebf5cd3b0732fbe122bc69ea4"
   },
   {
-   "path": "ui-art/FaF/sprites/FaF_Hobbs.png",
+   "path": "ui-art/FNF/sprites/FaF_Hobbs.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94536,7 +94536,7 @@
    "sha256": "93d7921712dbb7e46c31a0240360b8f9d30d1803a0257f0ef194a0aaaa3e723b"
   },
   {
-   "path": "ui-art/FaF/sprites/FaF_Logo.png",
+   "path": "ui-art/FNF/sprites/FaF_Logo.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94545,7 +94545,7 @@
    "sha256": "914d9eb78d017f3c84ccd38c9812a15012f97dfd0b519392859459b19ddcd698"
   },
   {
-   "path": "ui-art/FaF/sprites/FaF_Ramsey.png",
+   "path": "ui-art/FNF/sprites/FaF_Ramsey.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94554,7 +94554,7 @@
    "sha256": "948ab4410201887d0571be7b5040710be9455bdd1cd93f33a9cf584fc6b19a46"
   },
   {
-   "path": "ui-art/FaF/sprites/FaF_Ramsey_large.png",
+   "path": "ui-art/FNF/sprites/FaF_Ramsey_large.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94563,7 +94563,7 @@
    "sha256": "85cd9a244720377dca90811460c62f7046941dbd63b167939a567530b93732c2"
   },
   {
-   "path": "ui-art/FaF/sprites/FaF_Roman.png",
+   "path": "ui-art/FNF/sprites/FaF_Roman.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94572,7 +94572,7 @@
    "sha256": "fd8ef9894d1a97e8284b503d9cdb06010cf8f5d90bc20b3087c65f60b92443f6"
   },
   {
-   "path": "ui-art/FaF/sprites/FaF_Shaw.png",
+   "path": "ui-art/FNF/sprites/FaF_Shaw.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94581,7 +94581,7 @@
    "sha256": "715efc257a5a46c26eb19cb2e9b7bb4d24e16183ff7930ccc9d428e2bd9ddd43"
   },
   {
-   "path": "ui-art/FaF/sprites/FaF_Vehicle.png",
+   "path": "ui-art/FNF/sprites/FaF_Vehicle.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94590,7 +94590,7 @@
    "sha256": "d85c985e11289da06f5b8d7329fdd32b903ca0bfe50bb9874ebaf0a9b9dcdb61"
   },
   {
-   "path": "ui-art/FaF/sprites/FaF_treadRight.png",
+   "path": "ui-art/FNF/sprites/FaF_treadRight.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94599,7 +94599,7 @@
    "sha256": "fb75a357ae6154e601bf7790e692ea8c84e4e5cf49cf5f5f332d745fe6f47442"
   },
   {
-   "path": "ui-art/FaF/sprites/FnF_FlipCar_pin.png",
+   "path": "ui-art/FNF/sprites/FnF_FlipCar_pin.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94608,7 +94608,7 @@
    "sha256": "86ccb39e0460cd21439f2d74f085b748f52b3e24484fc3d4cc79c938eb0c5a8a"
   },
   {
-   "path": "ui-art/FaF/sprites/FnF_Q4_Event_01.png",
+   "path": "ui-art/FNF/sprites/FnF_Q4_Event_01.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94617,7 +94617,7 @@
    "sha256": "ab5794aeb8db8a509bbb4ac496d8d09b5e604929de94d4720932c22cbe0b2416"
   },
   {
-   "path": "ui-art/FaF/sprites/FnF_Q4_Event_02.png",
+   "path": "ui-art/FNF/sprites/FnF_Q4_Event_02.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94626,7 +94626,7 @@
    "sha256": "d85283c7b77fbbdebcc1cb42af8d107e5435db05ed354959bbd3db101cf61d07"
   },
   {
-   "path": "ui-art/FaF/sprites/FnF_Q4_Event_03.png",
+   "path": "ui-art/FNF/sprites/FnF_Q4_Event_03.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94635,7 +94635,7 @@
    "sha256": "a95d19bd921d5b3597aa83cd1710becdc0e53e6afcaaf67b1ad99e7ec7831218"
   },
   {
-   "path": "ui-art/FaF/sprites/Honda_S2000F2_2001.png",
+   "path": "ui-art/FNF/sprites/Honda_S2000F2_2001.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94644,7 +94644,7 @@
    "sha256": "217d621a4aa33499afb7423d96a8478a6054bb2ddd6a324afcfecc6ecead2e4a"
   },
   {
-   "path": "ui-art/FaF/sprites/Honda_S2000F2_2001_small.png",
+   "path": "ui-art/FNF/sprites/Honda_S2000F2_2001_small.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94653,7 +94653,7 @@
    "sha256": "b4656850436ce7bbb873481af3fe54b9a8ffe29350ff2e91c7e434af4c3dbd0a"
   },
   {
-   "path": "ui-art/FaF/sprites/Jaguar_FTypeRCoupeF8_2016.png",
+   "path": "ui-art/FNF/sprites/Jaguar_FTypeRCoupeF8_2016.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94662,7 +94662,7 @@
    "sha256": "33f4e64f9bbcdf14c0c279c65d74cb9e422bc53eb5c4c8633de5d521b687f8c2"
   },
   {
-   "path": "ui-art/FaF/sprites/Jetta_FaF.png",
+   "path": "ui-art/FNF/sprites/Jetta_FaF.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94671,7 +94671,7 @@
    "sha256": "1c4b9b80a2ec2fdd5a35ed9b2b3ff17eb07c6faa0795c8ffe79985e600623bb9"
   },
   {
-   "path": "ui-art/FaF/sprites/Jetta_FaF_pin.png",
+   "path": "ui-art/FNF/sprites/Jetta_FaF_pin.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94680,7 +94680,7 @@
    "sha256": "0bbf40cf78374f5dcc1a0c844fc1cbc4bfa60f6bd7eb6886724f5a6d2d1416f1"
   },
   {
-   "path": "ui-art/FaF/sprites/Lamborghini_MurcielagoLP640F8_2006.png",
+   "path": "ui-art/FNF/sprites/Lamborghini_MurcielagoLP640F8_2006.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94689,7 +94689,7 @@
    "sha256": "2dc09a227ad71eb46abefa6b48b60710a87f426b4de936b24d06766233859d2f"
   },
   {
-   "path": "ui-art/FaF/sprites/LocalMotor_RallyFighterF8_2013.png",
+   "path": "ui-art/FNF/sprites/LocalMotor_RallyFighterF8_2013.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94698,7 +94698,7 @@
    "sha256": "d16327b701a7dd5040b038bff8225972fc1eb0ad620edbca6201be1f5dabf7f0"
   },
   {
-   "path": "ui-art/FaF/sprites/Mazda_RX7F1_1993.png",
+   "path": "ui-art/FNF/sprites/Mazda_RX7F1_1993.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94707,7 +94707,7 @@
    "sha256": "60eb0e2bfa90ed215ee0b49ce3b553dccb1e3abd3cbe5a9dee1c577969a560e7"
   },
   {
-   "path": "ui-art/FaF/sprites/Mazda_RX7F1_1993_small.png",
+   "path": "ui-art/FNF/sprites/Mazda_RX7F1_1993_small.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94716,7 +94716,7 @@
    "sha256": "f8ed4417128031bf7185920108d7a2b724c61c94654315cd8adbea2b2386e2f8"
   },
   {
-   "path": "ui-art/FaF/sprites/McLaren_P14CoupeRewardRecycled_2017.png",
+   "path": "ui-art/FNF/sprites/McLaren_P14CoupeRewardRecycled_2017.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94725,7 +94725,7 @@
    "sha256": "8ab30aa4258d7f1f0c8d0b90b923be44feea08f9cb58a5e1a229499fb5a20b20"
   },
   {
-   "path": "ui-art/FaF/sprites/McLaren_P14CoupeSH1_2017.png",
+   "path": "ui-art/FNF/sprites/McLaren_P14CoupeSH1_2017.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94734,7 +94734,7 @@
    "sha256": "c430212178ad1d33e76ef0ff00dace7a1872faba4663003b4b42d89ed7d0792d"
   },
   {
-   "path": "ui-art/FaF/sprites/McLaren_Vorsteiner720SReward_2018.png",
+   "path": "ui-art/FNF/sprites/McLaren_Vorsteiner720SReward_2018.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94743,7 +94743,7 @@
    "sha256": "db3e8eb0e8811a690da093c4d29f6063d0b90258427154422b5b1ed2f350e1f6"
   },
   {
-   "path": "ui-art/FaF/sprites/MercedesAMG_GTSF8_2015.png",
+   "path": "ui-art/FNF/sprites/MercedesAMG_GTSF8_2015.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94752,7 +94752,7 @@
    "sha256": "5d3a13e9b99883a3a8f5826b7b97da4ed7fa0f0a45e35e32465b4e10a19fbaf7"
   },
   {
-   "path": "ui-art/FaF/sprites/Mitsubishi_EclipseF1_1995.png",
+   "path": "ui-art/FNF/sprites/Mitsubishi_EclipseF1_1995.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94761,7 +94761,7 @@
    "sha256": "675e6879ea6d48fc2196c9dd2be09af69e953f7aed7fa4d2c27ce22b189d6576"
   },
   {
-   "path": "ui-art/FaF/sprites/Mitsubishi_EclipseF1_1995_small.png",
+   "path": "ui-art/FNF/sprites/Mitsubishi_EclipseF1_1995_small.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94770,7 +94770,7 @@
    "sha256": "303982dd0a147f8a080fb3ed0858aadca03d5da72cc4f7b245ad674ee701e074"
   },
   {
-   "path": "ui-art/FaF/sprites/Mitsubishi_LancerEvolutionIXGSRF3_2006_pin.png",
+   "path": "ui-art/FNF/sprites/Mitsubishi_LancerEvolutionIXGSRF3_2006_pin.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94779,7 +94779,7 @@
    "sha256": "9fbb8325b23b1055f37d623e921f5ede200b71662b9c958b8eca23e253b54252"
   },
   {
-   "path": "ui-art/FaF/sprites/Nissan_SkylineGTRR34F2_1999.png",
+   "path": "ui-art/FNF/sprites/Nissan_SkylineGTRR34F2_1999.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94788,7 +94788,7 @@
    "sha256": "2369e5e7a02f916f0b06f1fc2d87fbc1b744c14377089b5f18439090f26ce43d"
   },
   {
-   "path": "ui-art/FaF/sprites/Nissan_SkylineGTRR34F2_1999_small.png",
+   "path": "ui-art/FNF/sprites/Nissan_SkylineGTRR34F2_1999_small.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94797,7 +94797,7 @@
    "sha256": "1fc3c25a64a69727f4a390a1990e244f880edd93f4c7f5f46a10fd85a9119921"
   },
   {
-   "path": "ui-art/FaF/sprites/Plymouth_RoadRunnerGTXF8_1971.png",
+   "path": "ui-art/FNF/sprites/Plymouth_RoadRunnerGTXF8_1971.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94806,7 +94806,7 @@
    "sha256": "6980ab0f4f7e319ad6660ead81eef7e5cad1dfea1364e9440e04f637ece6c86e"
   },
   {
-   "path": "ui-art/FaF/sprites/Plymouth_RoadRunnerGTXF8_1971_small.png",
+   "path": "ui-art/FNF/sprites/Plymouth_RoadRunnerGTXF8_1971_small.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94815,7 +94815,7 @@
    "sha256": "24b84ca3933033d5c73a9bda173fbf746a953fb7b41e9b86d90aa30fd42cb33d"
   },
   {
-   "path": "ui-art/FaF/sprites/Subaru_BRZF8_2013.png",
+   "path": "ui-art/FNF/sprites/Subaru_BRZF8_2013.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94824,7 +94824,7 @@
    "sha256": "044c0e5f7c1b167bc9cccaa6417753b633f434aed912dfebad888115d051b27d"
   },
   {
-   "path": "ui-art/FaF/sprites/Subaru_WRXSTIF8_2018.png",
+   "path": "ui-art/FNF/sprites/Subaru_WRXSTIF8_2018.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94833,7 +94833,7 @@
    "sha256": "50e092ea8ec0bdef4908c4aac80c49cac205f6a001abb529e789fded53972bc2"
   },
   {
-   "path": "ui-art/FaF/sprites/Toyota_SupraMKIVF1_1994.png",
+   "path": "ui-art/FNF/sprites/Toyota_SupraMKIVF1_1994.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
@@ -94842,7 +94842,7 @@
    "sha256": "57aa57f3a0058ea9b335d847b2b43ce57574198ba3d2ca4a273a8c1b1f651599"
   },
   {
-   "path": "ui-art/FaF/sprites/Toyota_SupraMKIVF1_1994_small.png",
+   "path": "ui-art/FNF/sprites/Toyota_SupraMKIVF1_1994_small.png",
    "kind": "ui_art",
    "family": "assets_csr2ui_events_faf",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_faf_resources (db 34649, High), UnityPy extraction",
