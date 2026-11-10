@@ -19,7 +19,7 @@ icons, and event/news panels — maintained as the game updates.
 
 | Folder       | Contents                                                        |
 |--------------|-----------------------------------------------------------------|
-| `snapshots/` | Official car snapshot renders, one PNG per CRDB (`<CRDB>.png`). |
+| `snapshots/` | Official car snapshot renders, one PNG per CRDB, sharded by manufacturer (`snapshots/<Make>/<CRDB>.png`). |
 | `icons/`     | Game UI icons — currency, keys, fusions, reward art.            |
 | `panels/`    | Event / news panels and other large-format game art.            |
 | `tools/`     | The pull scripts that feed this repo.                           |

@@ -52,8 +52,9 @@ def main(argv):
         if not entry or "DEFAULT_url" not in entry:
             failed.append((crdb, "not in SnapshotCDN manifest"))
             continue
-        path = f"snapshots/{crdb}.png"
+        path = f"snapshots/{crdb.split(chr(95))[0]}/{crdb}.png"
         dest = os.path.join(REPO, path)
+        os.makedirs(os.path.dirname(dest), exist_ok=True)
         r = requests.get(entry["DEFAULT_url"], timeout=30)
         if r.status_code != 200:
             failed.append((crdb, f"HTTP {r.status_code}"))

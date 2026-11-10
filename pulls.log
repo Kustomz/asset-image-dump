@@ -2,3 +2,5 @@
 2026-11-10 snapshots: +0 new/changed, 1 unchanged, 0 failed 
 2026-11-10 snapshots: +1267 new/changed, 8 unchanged, 0 failed 
 2026-11-10 snapshots: +1267 new/changed, 8 unchanged, 0 failed 
+2026-11-10 reorganized: snapshots sharded into 90 manufacturer folders (GitHub web UI truncates flat listings at 1,000 files)
+2026-11-10 snapshots: +0 new/changed, 1 unchanged, 0 failed 
