@@ -146063,6 +146063,15 @@
    "pulled": "2026-11-10",
    "sha256": "f26df6d0b64908f9c8a42b878d4379dd041967b2732d42b2a4b26c1736ac626c",
    "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_webstore_directpurchase_resources (db 34649, High), UnityPy extraction"
+  },
+  {
+   "path": "ui-art/EliteTuners/ShowdownEventPanel.png",
+   "kind": "ui_art",
+   "family": "assets_csr2ui_events_elitetuners",
+   "source": "Kustomz Imports \u2014 CDN bundle assets_csr2ui_events_elitetuners_resources (db 34649, High), UnityPy extraction \u2014 RESTORED 2026-11-10: dropped in the D4 cleanup on a report error (it is the ShowDown logo atlas in the game's poster colours, not a placeholder); restored at the correction.",
+   "pulled": "2026-11-10",
+   "bytes": 320699,
+   "sha256": "0af8e51dcd0e34be12b4eb826b12de3ea013767710f3e87e823d2abc2d8320f3"
   }
  ],
  "purpose": "Kustomz game-asset image store. Every asset enters via a logged Kustomz Imports pull; see README.md.",
